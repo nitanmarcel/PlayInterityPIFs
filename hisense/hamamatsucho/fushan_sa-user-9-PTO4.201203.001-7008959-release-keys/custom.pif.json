@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "fushan_sa",
+  "DEVICE": "hamamatsucho",
+  "MANUFACTURER": "Hisense",
+  "BRAND": "Hisense",
+  "MODEL": "HiSmart 2K ATV4",
+  "FINGERPRINT": "Hisense/fushan_sa/hamamatsucho:9/PTO4.201203.001/7008959:user/release-keys",
+  "SECURITY_PATCH": "2020-10-05",
+  "FIRST_API_LEVEL": "28"
+}

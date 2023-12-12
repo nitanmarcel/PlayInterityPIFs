@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "msi",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "Motorola System Image",
+  "FINGERPRINT": "motorola/msi/msi:11/RZBS31.Q2-143-27-13/b542c:user/release-keys",
+  "SECURITY_PATCH": "2022-06-01",
+  "FIRST_API_LEVEL": "29"
+}

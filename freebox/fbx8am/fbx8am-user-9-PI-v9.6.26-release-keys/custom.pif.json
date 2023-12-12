@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "fbx8am",
+  "DEVICE": "fbx8am",
+  "MANUFACTURER": "Freebox",
+  "BRAND": "Freebox",
+  "MODEL": "Freebox Player POP",
+  "FINGERPRINT": "Freebox/fbx8am/fbx8am:9/PI/v9.6.26:user/release-keys",
+  "SECURITY_PATCH": "2021-02-05",
+  "FIRST_API_LEVEL": "28"
+}

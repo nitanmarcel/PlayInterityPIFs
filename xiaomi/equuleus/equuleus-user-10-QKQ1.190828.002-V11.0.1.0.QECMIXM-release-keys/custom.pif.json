@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "equuleus",
+  "DEVICE": "equuleus",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI 8 Pro",
+  "FINGERPRINT": "Xiaomi/equuleus/equuleus:10/QKQ1.190828.002/V11.0.1.0.QECMIXM:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "austin_g",
+  "DEVICE": "austin",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g 5G (2022)",
+  "FINGERPRINT": "motorola/austin_g/austin:13/T1SAS33M.73-40-7-3/488eb:user/release-keys",
+  "SECURITY_PATCH": "2023-08-01",
+  "FIRST_API_LEVEL": "31"
+}

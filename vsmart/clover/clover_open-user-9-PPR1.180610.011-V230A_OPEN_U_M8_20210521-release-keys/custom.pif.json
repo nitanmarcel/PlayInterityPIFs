@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "clover_open",
+  "DEVICE": "clover",
+  "MANUFACTURER": "vsmart",
+  "BRAND": "vsmart",
+  "MODEL": "Bee 3",
+  "FINGERPRINT": "vsmart/clover_open/clover:9/PPR1.180610.011/V230A_OPEN_U_M8_20210521:user/release-keys",
+  "SECURITY_PATCH": "2021-05-01",
+  "FIRST_API_LEVEL": "28"
+}

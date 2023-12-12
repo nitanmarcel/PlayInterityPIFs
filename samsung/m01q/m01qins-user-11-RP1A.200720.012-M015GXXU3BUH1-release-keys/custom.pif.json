@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "m01qins",
+  "DEVICE": "m01q",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-M015G",
+  "FINGERPRINT": "samsung/m01qins/m01q:11/RP1A.200720.012/M015GXXU3BUH1:user/release-keys",
+  "SECURITY_PATCH": "2021-07-01",
+  "FIRST_API_LEVEL": "29"
+}

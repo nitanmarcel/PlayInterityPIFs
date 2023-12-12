@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "vext_k6789v1_64",
+  "DEVICE": "k6789v1_64",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "mssi_64_cn_armv82",
+  "FINGERPRINT": "alps/vext_k6789v1_64/k6789v1_64:12/SP1A.210812.016/1677862540:user/release-keys",
+  "SECURITY_PATCH": "2022-09-05",
+  "FIRST_API_LEVEL": "31"
+}

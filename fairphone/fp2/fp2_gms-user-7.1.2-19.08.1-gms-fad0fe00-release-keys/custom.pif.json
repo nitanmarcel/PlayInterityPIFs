@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "FP2",
+  "DEVICE": "FP2",
+  "MANUFACTURER": "Fairphone",
+  "BRAND": "Fairphone",
+  "MODEL": "FP2",
+  "FINGERPRINT": "Fairphone/FP2/FP2:7.1.2/19.08.1/gms-fad0fe00:user/release-keys",
+  "SECURITY_PATCH": "2019-08-01",
+  "FIRST_API_LEVEL": "22"
+}

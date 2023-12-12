@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "t2sxxx",
+  "DEVICE": "essi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G996B",
+  "FINGERPRINT": "samsung/t2sxxx/essi:12/SP1A.210812.016/G996BXXS3BUL1:user/release-keys",
+  "SECURITY_PATCH": "2021-12-01",
+  "FIRST_API_LEVEL": "30"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "",
+  "DEVICE": "rk3368",
+  "MANUFACTURER": "rockchip",
+  "BRAND": "rockchip",
+  "MODEL": "homeTreadmill",
+  "FINGERPRINT": "rockchip/rk3368/rk3368:9/PI/000304:user/release-keys",
+  "SECURITY_PATCH": "2019-11-05",
+  "FIRST_API_LEVEL": "28"
+}

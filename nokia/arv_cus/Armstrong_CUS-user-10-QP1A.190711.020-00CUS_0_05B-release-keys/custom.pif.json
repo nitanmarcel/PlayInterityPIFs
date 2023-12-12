@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Armstrong_CUS",
+  "DEVICE": "armstrong",
+  "MANUFACTURER": "HMD Global",
+  "BRAND": "Nokia",
+  "MODEL": "Armstrong",
+  "FINGERPRINT": "Nokia/Armstrong_CUS/ARV_CUS:10/QP1A.190711.020/00CUS_0_05B:user/release-keys",
+  "SECURITY_PATCH": "2020-01-05",
+  "FIRST_API_LEVEL": "29"
+}

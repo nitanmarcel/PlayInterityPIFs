@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "davinci",
+  "DEVICE": "davinci",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi K20",
+  "FINGERPRINT": "Xiaomi/davinci/davinci:11/RKQ1.200826.002/V12.1.2.0.RFJCNXM:user/release-keys",
+  "SECURITY_PATCH": "2021-02-01",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "minsk_retail",
+  "DEVICE": "minsk",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g stylus (2021)",
+  "FINGERPRINT": "motorola/minsk_retail/minsk:10/QPC30.Q4-31-26-1/e8485:user/release-keys",
+  "SECURITY_PATCH": "2020-10-01",
+  "FIRST_API_LEVEL": "29"
+}

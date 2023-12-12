@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ginkgo_eea",
+  "DEVICE": "ginkgo",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Redmi Note 8",
+  "FINGERPRINT": "xiaomi/ginkgo_eea/ginkgo:10/QKQ1.200114.002/V12.0.6.0.QCOEUXM:user/release-keys",
+  "SECURITY_PATCH": "2021-04-01",
+  "FIRST_API_LEVEL": "28"
+}

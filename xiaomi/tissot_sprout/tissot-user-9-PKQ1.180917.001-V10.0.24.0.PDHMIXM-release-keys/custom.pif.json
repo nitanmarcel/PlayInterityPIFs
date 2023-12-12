@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "tissot",
+  "DEVICE": "tissot_sprout",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Mi A1",
+  "FINGERPRINT": "xiaomi/tissot/tissot_sprout:9/PKQ1.180917.001/V10.0.24.0.PDHMIXM:user/release-keys",
+  "SECURITY_PATCH": "2020-08-01",
+  "FIRST_API_LEVEL": "28"
+}

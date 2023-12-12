@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "DV8219_2G",
+  "DEVICE": "DV8219",
+  "MANUFACTURER": "amlogic",
+  "BRAND": "Telkom",
+  "MODEL": "AOSP on r33a0",
+  "FINGERPRINT": "Telkom/DV8219_2G/DV8219:7.1.2/NHG47L/20171121:user/release-keys",
+  "SECURITY_PATCH": "2017-10-01",
+  "FIRST_API_LEVEL": "25"
+}

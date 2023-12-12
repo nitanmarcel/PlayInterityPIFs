@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "miami_g",
+  "DEVICE": "miami",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 30 neo",
+  "FINGERPRINT": "motorola/miami_g/miami:12/S3SSMS32M.34-46-1-1/f2dd7b:user/release-keys",
+  "SECURITY_PATCH": "2022-11-01",
+  "FIRST_API_LEVEL": "31"
+}

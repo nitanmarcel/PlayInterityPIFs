@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "myNX1",
+  "DEVICE": "myNX1",
+  "MANUFACTURER": "MyPhone",
+  "BRAND": "MyPhone",
+  "MODEL": "myNX1",
+  "FINGERPRINT": "MyPhone/myNX1/myNX1:8.1.0/OPM2.171019.012/201810092154:user/release-keys",
+  "SECURITY_PATCH": "2018-09-05",
+  "FIRST_API_LEVEL": "27"
+}

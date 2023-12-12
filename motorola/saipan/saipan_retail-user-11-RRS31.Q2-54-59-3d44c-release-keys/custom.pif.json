@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "saipan_retail",
+  "DEVICE": "saipan",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(50) 5G",
+  "FINGERPRINT": "motorola/saipan_retail/saipan:11/RRS31.Q2-54-59/3d44c:user/release-keys",
+  "SECURITY_PATCH": "2021-09-01",
+  "FIRST_API_LEVEL": "30"
+}

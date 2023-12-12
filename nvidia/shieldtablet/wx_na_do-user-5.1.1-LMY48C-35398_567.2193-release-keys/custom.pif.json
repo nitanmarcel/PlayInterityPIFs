@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "wx_na_do",
+  "DEVICE": "shieldtablet",
+  "MANUFACTURER": "NVIDIA",
+  "BRAND": "nvidia",
+  "MODEL": "SHIELD Tablet",
+  "FINGERPRINT": "nvidia/wx_na_do/shieldtablet:5.1.1/LMY48C/35398_567.2193:user/release-keys",
+  "FIRST_API_LEVEL": "22"
+}

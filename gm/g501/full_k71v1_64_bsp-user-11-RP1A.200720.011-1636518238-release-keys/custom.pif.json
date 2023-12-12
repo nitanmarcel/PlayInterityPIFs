@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "G501_S",
+  "DEVICE": "G501",
+  "MANUFACTURER": "General Mobile",
+  "BRAND": "GM",
+  "MODEL": "G501",
+  "FINGERPRINT": "GM/G501_S/G501:11/RP1A.200720.011/1636518238:user/release-keys",
+  "SECURITY_PATCH": "2021-10-05",
+  "FIRST_API_LEVEL": "29"
+}

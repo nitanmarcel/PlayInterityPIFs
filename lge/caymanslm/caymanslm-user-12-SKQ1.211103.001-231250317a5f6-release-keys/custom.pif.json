@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "caymanslm",
+  "DEVICE": "caymanslm",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-G910",
+  "FINGERPRINT": "lge/caymanslm/caymanslm:12/SKQ1.211103.001/231250317a5f6:user/release-keys",
+  "SECURITY_PATCH": "2023-05-01",
+  "FIRST_API_LEVEL": "29"
+}

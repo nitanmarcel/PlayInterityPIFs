@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "missi_eea",
+  "DEVICE": "missi",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "qti",
+  "MODEL": "missi system image for arm64",
+  "FINGERPRINT": "qti/missi_eea/missi:11/RKQ1.210503.001/V12.5.9.0.RKOEUXM:user/release-keys",
+  "SECURITY_PATCH": "2022-03-01",
+  "FIRST_API_LEVEL": "30"
+}

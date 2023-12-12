@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "eureka",
+  "DEVICE": "eureka",
+  "MANUFACTURER": "Oculus",
+  "BRAND": "oculus",
+  "MODEL": "Quest 3",
+  "FINGERPRINT": "oculus/eureka/eureka:12/SQ3A.220605.009.A1/49698210077900510:user/release-keys",
+  "SECURITY_PATCH": "2023-06-05",
+  "FIRST_API_LEVEL": "32"
+}

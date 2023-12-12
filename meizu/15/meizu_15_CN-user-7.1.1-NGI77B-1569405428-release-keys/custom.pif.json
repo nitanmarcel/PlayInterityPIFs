@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "meizu_15_CN",
+  "DEVICE": "15",
+  "MANUFACTURER": "Meizu",
+  "BRAND": "Meizu",
+  "MODEL": "15",
+  "FINGERPRINT": "Meizu/meizu_15_CN/15:7.1.1/NGI77B/1569405428:user/release-keys",
+  "SECURITY_PATCH": "2019-09-01",
+  "FIRST_API_LEVEL": "25"
+}

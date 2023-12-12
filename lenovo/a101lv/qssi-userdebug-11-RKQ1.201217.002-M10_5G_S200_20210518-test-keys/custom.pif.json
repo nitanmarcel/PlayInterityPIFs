@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "LenovoTB-A101LV",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "LENOVO",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo A101LV",
+  "FINGERPRINT": "qti/qssi/qssi:11/RKQ1.201217.002/1007:userdebug/test-keys",
+  "SECURITY_PATCH": "2021-02-05",
+  "FIRST_API_LEVEL": "30"
+}

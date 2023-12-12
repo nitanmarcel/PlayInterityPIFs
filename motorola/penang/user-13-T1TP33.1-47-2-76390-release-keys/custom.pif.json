@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "penang_g",
+  "DEVICE": "penang",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g53 5G",
+  "FINGERPRINT": "motorola/penang_g/penang:13/T1TP33M.1-47-2/4b9ed:user/release-keys",
+  "SECURITY_PATCH": "2023-01-01",
+  "FIRST_API_LEVEL": "32"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "anning",
+  "DEVICE": "anning",
+  "MANUFACTURER": "Amlogic",
+  "BRAND": "Amlogic",
+  "MODEL": "anning",
+  "FINGERPRINT": "Amlogic/anning/anning:9/PI/20201119:user/release-keys",
+  "SECURITY_PATCH": "2020-12-01",
+  "FIRST_API_LEVEL": "28"
+}

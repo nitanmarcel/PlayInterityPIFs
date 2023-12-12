@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "windows_x86_64",
+  "DEVICE": "windows_x86_64",
+  "MANUFACTURER": "Microsoft Corporation",
+  "BRAND": "Windows",
+  "MODEL": "Subsystem for Android(TM)",
+  "FINGERPRINT": "Windows/windows_x86_64/windows_x86_64:11/RD2A.210905.003/latteuser10080004:user/release-keys",
+  "SECURITY_PATCH": "2021-09-05",
+  "FIRST_API_LEVEL": "30"
+}

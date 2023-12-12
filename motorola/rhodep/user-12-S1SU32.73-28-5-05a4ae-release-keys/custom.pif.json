@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rhodep_g",
+  "DEVICE": "rhodep",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g82 5G",
+  "FINGERPRINT": "motorola/rhodep_g/rhodep:12/S1SU32M.73-28-5/ab5c4:user/release-keys",
+  "SECURITY_PATCH": "2022-04-01",
+  "FIRST_API_LEVEL": "31"
+}

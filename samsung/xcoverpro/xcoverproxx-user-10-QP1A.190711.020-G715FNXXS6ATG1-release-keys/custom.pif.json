@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "xcoverproxx",
+  "DEVICE": "xcoverpro",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G715FN",
+  "FINGERPRINT": "samsung/xcoverproxx/xcoverpro:10/QP1A.190711.020/G715FNXXS6ATG1:user/release-keys",
+  "SECURITY_PATCH": "2020-08-01",
+  "FIRST_API_LEVEL": "29"
+}

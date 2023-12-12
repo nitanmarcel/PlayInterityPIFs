@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lisbon_retail",
+  "DEVICE": "lisbon",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(60)s",
+  "FINGERPRINT": "motorola/lisbon_retail/lisbon:12/S3RLS32.114-25-7/4a7b6:user/release-keys",
+  "SECURITY_PATCH": "2023-03-01",
+  "FIRST_API_LEVEL": "30"
+}

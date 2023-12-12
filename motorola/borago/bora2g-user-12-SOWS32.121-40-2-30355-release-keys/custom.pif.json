@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "borago_retail",
+  "DEVICE": "borago",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto e22i",
+  "FINGERPRINT": "motorola/borago_retail/borago:12/SOWS32.121-40-2/30355:user/release-keys",
+  "SECURITY_PATCH": "2023-05-05",
+  "FIRST_API_LEVEL": "31"
+}

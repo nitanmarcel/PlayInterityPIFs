@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Vision_00WW",
+  "DEVICE": "VSI",
+  "MANUFACTURER": "HMD Global",
+  "BRAND": "Nokia",
+  "MODEL": "Nokia C31",
+  "FINGERPRINT": "Nokia/Vision_00WW/VSI:12/SP1A.210812.016/00WW_1_180:user/release-keys",
+  "SECURITY_PATCH": "2023-02-05",
+  "FIRST_API_LEVEL": "31"
+}

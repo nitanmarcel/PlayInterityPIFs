@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lavender",
+  "DEVICE": "lavender",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Redmi Note 7",
+  "FINGERPRINT": "xiaomi/lavender/lavender:10/QKQ1.190910.002/V12.5.3.0.QFGMIXM:user/release-keys",
+  "SECURITY_PATCH": "2021-10-01",
+  "FIRST_API_LEVEL": "28"
+}

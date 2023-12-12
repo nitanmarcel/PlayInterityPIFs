@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "qti/qssi/:11/RKQ1.201217.002/ontim01232239:userdebug/release-keys",
+  "SECURITY_PATCH": "2020-12-05",
+  "FIRST_API_LEVEL": "30"
+}

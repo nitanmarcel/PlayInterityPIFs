@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "meizu_16T_CN",
+  "DEVICE": "meizu16T",
+  "MANUFACTURER": "meizu",
+  "BRAND": "meizu",
+  "MODEL": "16T",
+  "FINGERPRINT": "meizu/meizu_16T_CN/meizu16T:9/PKQ1.190616.001/1568972225:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28"
+}

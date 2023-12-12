@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "dipper",
+  "DEVICE": "dipper",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI 8",
+  "FINGERPRINT": "Xiaomi/dipper/dipper:9/PKQ1.180729.001/9.6.20:user/release-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "FIRST_API_LEVEL": "27"
+}

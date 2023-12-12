@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "malta_64",
+  "DEVICE": "malta_64",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto e(7)",
+  "FINGERPRINT": "motorola/malta_64/malta:10/QOM30.255-12/a2748:user/release-keys",
+  "SECURITY_PATCH": "2020-12-05",
+  "FIRST_API_LEVEL": "29"
+}

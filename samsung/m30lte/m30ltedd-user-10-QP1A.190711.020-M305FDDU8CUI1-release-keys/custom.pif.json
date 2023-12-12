@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "m30ltedd",
+  "DEVICE": "m30lte",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-M305F",
+  "FINGERPRINT": "samsung/m30ltedd/m30lte:10/QP1A.190711.020/M305FDDU8CUI1:user/release-keys",
+  "SECURITY_PATCH": "2021-09-01",
+  "FIRST_API_LEVEL": "27"
+}

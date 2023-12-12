@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "meizu_C9pro",
+  "DEVICE": "meizuC9pro",
+  "MANUFACTURER": "Meizu",
+  "BRAND": "Meizu",
+  "MODEL": "meizu C9 pro",
+  "FINGERPRINT": "Meizu/meizu_C9pro/meizuC9pro:8.1.0/OPM2.171019.012/23:user/release-keys",
+  "SECURITY_PATCH": "2018-09-05",
+  "FIRST_API_LEVEL": "27"
+}

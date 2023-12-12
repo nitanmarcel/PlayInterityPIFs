@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "phoenixin",
+  "DEVICE": "phoenixin",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "POCO",
+  "MODEL": "POCO X2",
+  "FINGERPRINT": "POCO/phoenixin/phoenixin:10/QKQ1.190825.002/V11.0.4.0.QGHINXM:user/release-keys",
+  "SECURITY_PATCH": "2020-01-01",
+  "FIRST_API_LEVEL": "29"
+}

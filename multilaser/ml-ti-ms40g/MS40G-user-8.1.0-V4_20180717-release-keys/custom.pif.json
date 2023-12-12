@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "MS40G",
+  "DEVICE": "ML-TI-MS40G",
+  "MANUFACTURER": "Multilaser",
+  "BRAND": "Multilaser",
+  "MODEL": "MS40G",
+  "FINGERPRINT": "Multilaser/MS40G/ML-TI-MS40G:8.1.0/V4_20180717/main_1:user/release-keys",
+  "SECURITY_PATCH": "2018-07-05",
+  "FIRST_API_LEVEL": "27"
+}

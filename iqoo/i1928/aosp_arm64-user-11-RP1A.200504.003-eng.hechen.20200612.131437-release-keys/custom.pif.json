@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "I1928",
+  "DEVICE": "I1928",
+  "MANUFACTURER": "Android",
+  "BRAND": "iQOO",
+  "MODEL": "mainline",
+  "FINGERPRINT": "Android/aosp_arm64/generic_arm64:11/RP1A.200504.003/hecheng06121314:user/release-keys",
+  "SECURITY_PATCH": "2020-06-05",
+  "FIRST_API_LEVEL": "29"
+}

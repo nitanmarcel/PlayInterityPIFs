@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "jason",
+  "DEVICE": "jason",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Mi Note 3",
+  "FINGERPRINT": "Xiaomi/jason/jason:9/PKQ1.181007.001/V12.0.1.0.PCHCNXM:user/release-keys",
+  "SECURITY_PATCH": "2020-01-01",
+  "FIRST_API_LEVEL": "25"
+}

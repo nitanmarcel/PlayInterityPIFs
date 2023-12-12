@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "Lenovo/TB-9707F_PRC/TB-9707F:13/TKQ1.221013.002/15.0.342_231018:user/release-keys",
+  "SECURITY_PATCH": "2023-08-01",
+  "FIRST_API_LEVEL": "30"
+}

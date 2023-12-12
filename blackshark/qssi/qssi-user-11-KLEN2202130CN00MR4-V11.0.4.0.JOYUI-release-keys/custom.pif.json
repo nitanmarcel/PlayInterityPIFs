@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "KLE-A0",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "blackshark",
+  "BRAND": "blackshark",
+  "MODEL": "SHARK KLE-A0",
+  "FINGERPRINT": "blackshark/KLE-A0/klein:11/KLEN2202130CN00MR4/V11.0.4.0.JOYUI:user/release-keys",
+  "SECURITY_PATCH": "2022-01-01",
+  "FIRST_API_LEVEL": "29"
+}

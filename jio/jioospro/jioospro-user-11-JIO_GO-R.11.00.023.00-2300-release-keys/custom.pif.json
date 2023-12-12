@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "jioospro",
+  "DEVICE": "jioospro",
+  "MANUFACTURER": "Jio",
+  "BRAND": "Jio",
+  "MODEL": "LS-5701-J",
+  "FINGERPRINT": "Jio/jioospro/jioospro:11/JIO_GO-R.11.00.023.00/2300:user/release-keys",
+  "SECURITY_PATCH": "2021-05-05",
+  "FIRST_API_LEVEL": "30"
+}

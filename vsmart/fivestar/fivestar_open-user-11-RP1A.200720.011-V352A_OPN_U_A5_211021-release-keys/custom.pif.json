@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "fivestar_open",
+  "DEVICE": "fivestar",
+  "MANUFACTURER": "vsmart",
+  "BRAND": "vsmart",
+  "MODEL": "Star 5",
+  "FINGERPRINT": "vsmart/fivestar_open/fivestar:11/RP1A.200720.011/V352A_OPN_U_A5_211021:user/release-keys",
+  "SECURITY_PATCH": "2021-11-01",
+  "FIRST_API_LEVEL": "30"
+}

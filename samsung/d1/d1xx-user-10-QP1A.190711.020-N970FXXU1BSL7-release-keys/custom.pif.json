@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "d1xx",
+  "DEVICE": "d1",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-N970F",
+  "FINGERPRINT": "samsung/d1xx/d1:10/QP1A.190711.020/N970FXXU1BSL7:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "28"
+}

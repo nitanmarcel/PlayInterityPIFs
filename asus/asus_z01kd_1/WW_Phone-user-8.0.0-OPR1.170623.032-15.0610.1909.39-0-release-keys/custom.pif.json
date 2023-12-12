@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "WW_Phone",
+  "DEVICE": "ASUS_Z01KD_1",
+  "MANUFACTURER": "asus",
+  "BRAND": "asus",
+  "MODEL": "ASUS_Z01KD",
+  "FINGERPRINT": "asus/WW_Phone/ASUS_Z01KD_1:8.0.0/OPR1.170623.032/15.0610.1909.39-0:user/release-keys",
+  "SECURITY_PATCH": "2019-09-01",
+  "FIRST_API_LEVEL": "25"
+}

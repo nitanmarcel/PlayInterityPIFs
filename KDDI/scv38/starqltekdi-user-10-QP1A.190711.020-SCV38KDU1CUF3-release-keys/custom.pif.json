@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "SCV38_jp_kdi",
+  "DEVICE": "SCV38",
+  "MANUFACTURER": "samsung",
+  "BRAND": "KDDI",
+  "MODEL": "SCV38",
+  "FINGERPRINT": "KDDI/SCV38_jp_kdi/SCV38:10/QP1A.190711.020/SCV38KDU1CUF3:user/release-keys",
+  "SECURITY_PATCH": "2021-06-01",
+  "FIRST_API_LEVEL": "26"
+}

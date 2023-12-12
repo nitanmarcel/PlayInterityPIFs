@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "sdm845",
+  "DEVICE": "sdm845",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "Android",
+  "MODEL": "SDM845 for arm64",
+  "FINGERPRINT": "Android/sdm845/sdm845:8.0.0/OPR1.170623.032/zzhiyu12281953:userdebug/test-keys",
+  "FIRST_API_LEVEL": "26"
+}

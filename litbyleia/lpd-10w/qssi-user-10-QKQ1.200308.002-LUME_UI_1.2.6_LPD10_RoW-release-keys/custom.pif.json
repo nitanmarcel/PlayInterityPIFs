@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "LitByLeia/LPD-10W/LPD-10W:10/QKQ1.200308.002/LUME_UI_1.2.6_LPD10_RoW:user/release-keys",
+  "SECURITY_PATCH": "2020-11-01",
+  "FIRST_API_LEVEL": "29"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "andromeda_eea",
+  "DEVICE": "andromeda",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Mi MIX 3 5G",
+  "FINGERPRINT": "Xiaomi/andromeda_eea/andromeda:9/PKQ1.190321.001/V10.3.23.0.PEMEUXM:user/release-keys",
+  "SECURITY_PATCH": "2020-01-01",
+  "FIRST_API_LEVEL": "28"
+}

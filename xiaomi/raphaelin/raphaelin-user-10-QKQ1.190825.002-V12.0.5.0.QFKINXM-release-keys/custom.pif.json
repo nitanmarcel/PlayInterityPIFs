@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "raphaelin",
+  "DEVICE": "raphaelin",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi K20 Pro",
+  "FINGERPRINT": "Xiaomi/raphaelin/raphaelin:10/QKQ1.190825.002/V12.0.5.0.QFKINXM:user/release-keys",
+  "SECURITY_PATCH": "2021-03-01",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rtxspcs_00651",
+  "DEVICE": "htc_rtxspcs",
+  "MANUFACTURER": "HTC",
+  "BRAND": "htc",
+  "MODEL": "HTC 5G Hub",
+  "FINGERPRINT": "htc/rtxspcs_00651/htc_rtxspcs:9/PPRL.190605.003/1107380.6:user/release-keys",
+  "SECURITY_PATCH": "2020-02-01",
+  "FIRST_API_LEVEL": "28"
+}

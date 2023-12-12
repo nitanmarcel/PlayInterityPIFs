@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "maui_retail",
+  "DEVICE": "maui",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g play - 2023",
+  "FINGERPRINT": "motorola/maui_retail/maui:12/S3SG32.39-181/3d497e:user/release-keys",
+  "SECURITY_PATCH": "2023-04-01",
+  "FIRST_API_LEVEL": "31"
+}

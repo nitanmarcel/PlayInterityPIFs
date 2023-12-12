@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "pyxis",
+  "DEVICE": "pyxis",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI CC 9",
+  "FINGERPRINT": "Xiaomi/pyxis/pyxis:11/RKQ1.200826.002/V12.5.5.0.RFCCNXM:user/release-keys",
+  "SECURITY_PATCH": "2021-10-01",
+  "FIRST_API_LEVEL": "28"
+}

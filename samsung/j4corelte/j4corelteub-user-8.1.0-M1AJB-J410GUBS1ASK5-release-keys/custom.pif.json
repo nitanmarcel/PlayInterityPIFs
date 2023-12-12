@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "j4corelteub",
+  "DEVICE": "j4corelte",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-J410G",
+  "FINGERPRINT": "samsung/j4corelteub/j4corelte:8.1.0/M1AJB/J410GUBS1ASK5:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "27"
+}

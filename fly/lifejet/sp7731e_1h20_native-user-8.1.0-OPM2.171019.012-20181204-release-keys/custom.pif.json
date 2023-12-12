@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Lifejet",
+  "DEVICE": "LifeJet",
+  "MANUFACTURER": "Fly",
+  "BRAND": "Fly",
+  "MODEL": "Life Jet",
+  "FINGERPRINT": "Fly/Lifejet/LifeJet:8.1.0/OPM2.171019.012/20181204:user/release-keys",
+  "SECURITY_PATCH": "2018-12-05",
+  "FIRST_API_LEVEL": "27"
+}

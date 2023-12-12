@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "projectxulxx",
+  "DEVICE": "projectxul",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-R925F",
+  "FINGERPRINT": "samsung/projectxulxx/projectxul:11/RWS3.220419.001/R925FXXU1AWDA:user/release-keys",
+  "SECURITY_PATCH": "2023-04-01",
+  "FIRST_API_LEVEL": "30"
+}

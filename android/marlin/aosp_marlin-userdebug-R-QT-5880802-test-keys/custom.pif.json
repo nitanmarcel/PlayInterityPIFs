@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "aosp_marlin",
+  "DEVICE": "marlin",
+  "MANUFACTURER": "Google",
+  "BRAND": "Android",
+  "MODEL": "AOSP on msm8996",
+  "FINGERPRINT": "Android/aosp_marlin/marlin:R/QT/5880802:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "29"
+}

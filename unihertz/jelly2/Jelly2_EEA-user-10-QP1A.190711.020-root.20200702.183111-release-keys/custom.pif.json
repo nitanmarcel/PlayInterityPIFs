@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Jelly2_EEA",
+  "DEVICE": "Jelly2",
+  "MANUFACTURER": "Unihertz",
+  "BRAND": "Unihertz",
+  "MODEL": "Jelly2",
+  "FINGERPRINT": "Unihertz/Jelly2_EEA/Jelly2:10/QP1A.190711.020/root.20200702.183111:user/release-keys",
+  "SECURITY_PATCH": "2020-06-05",
+  "FIRST_API_LEVEL": "29"
+}

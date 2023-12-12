@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "andromeda",
+  "DEVICE": "andromeda",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Mi MIX 3 5G",
+  "FINGERPRINT": "Xiaomi/andromeda/andromeda:10/QKQ1.190406.002/9.04.30.2.native.google.user:user/release-keys",
+  "SECURITY_PATCH": "2019-05-05",
+  "FIRST_API_LEVEL": "28"
+}

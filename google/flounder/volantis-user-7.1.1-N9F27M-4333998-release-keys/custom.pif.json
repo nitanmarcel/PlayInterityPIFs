@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "volantis",
+  "DEVICE": "flounder",
+  "MANUFACTURER": "htc",
+  "BRAND": "google",
+  "MODEL": "Nexus 9",
+  "FINGERPRINT": "google/volantis/flounder:7.1.1/N9F27M/4333998:user/release-keys",
+  "FIRST_API_LEVEL": "25"
+}

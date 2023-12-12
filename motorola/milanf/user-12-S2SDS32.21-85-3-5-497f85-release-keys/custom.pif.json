@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "milanf_g",
+  "DEVICE": "milanf",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g stylus 5G (2022)",
+  "FINGERPRINT": "motorola/milanf_g/milanf:12/S2SDS32M.21-85-3-5/2a0f7:user/release-keys",
+  "SECURITY_PATCH": "2023-03-01",
+  "FIRST_API_LEVEL": "31"
+}

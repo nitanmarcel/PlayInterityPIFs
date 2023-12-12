@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "dreamltexx",
+  "DEVICE": "dreamlte",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G950F",
+  "FINGERPRINT": "samsung/dreamltexx/dreamlte:8.0.0/R16NW/G950FXXS4CRJD:user/release-keys",
+  "SECURITY_PATCH": "2018-11-01",
+  "FIRST_API_LEVEL": "24"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Koobee_K100",
+  "DEVICE": "SL004T",
+  "MANUFACTURER": "Coosea",
+  "BRAND": "Koobee",
+  "MODEL": "SL004T",
+  "FINGERPRINT": "Koobee/Koobee_K100/SL004T:12/SP1A.210812.016/1669984765:user/release-keys",
+  "SECURITY_PATCH": "2022-11-01",
+  "FIRST_API_LEVEL": "31"
+}

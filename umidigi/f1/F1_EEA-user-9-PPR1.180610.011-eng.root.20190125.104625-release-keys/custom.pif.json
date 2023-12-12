@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "F1_EEA",
+  "DEVICE": "F1",
+  "MANUFACTURER": "A-gold",
+  "BRAND": "UMIDIGI",
+  "MODEL": "F1",
+  "FINGERPRINT": "UMIDIGI/F1_EEA/F1:9/PPR1.180610.011/eng.root.20190125.104625:user/release-keys",
+  "SECURITY_PATCH": "2019-01-05",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "newton",
+  "DEVICE": "newton",
+  "MANUFACTURER": "Amlogic",
+  "BRAND": "Amlogic",
+  "MODEL": "newton",
+  "FINGERPRINT": "Amlogic/newton/newton:10/QT/jie.yuan01031546:user/release-keys",
+  "SECURITY_PATCH": "2019-11-05",
+  "FIRST_API_LEVEL": "29"
+}

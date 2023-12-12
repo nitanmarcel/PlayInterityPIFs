@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "pokerp_retin_64",
+  "DEVICE": "pokerp",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto e(6s)",
+  "FINGERPRINT": "motorola/pokerp_retin_64/pokerp:9/PTB29.401-25/25:user/release-keys",
+  "SECURITY_PATCH": "2019-10-01",
+  "FIRST_API_LEVEL": "28"
+}

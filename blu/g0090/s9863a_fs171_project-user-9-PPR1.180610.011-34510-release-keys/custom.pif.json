@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "BLU_G5",
+  "DEVICE": "G0090",
+  "MANUFACTURER": "BLU",
+  "BRAND": "BLU",
+  "MODEL": "G5",
+  "FINGERPRINT": "BLU/BLU_G5/G0090:9/PPR1.180610.011/34510:user/release-keys",
+  "SECURITY_PATCH": "2019-08-05",
+  "FIRST_API_LEVEL": "28"
+}

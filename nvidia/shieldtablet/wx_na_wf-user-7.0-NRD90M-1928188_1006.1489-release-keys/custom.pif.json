@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "wx_na_wf",
+  "DEVICE": "shieldtablet",
+  "MANUFACTURER": "NVIDIA",
+  "BRAND": "nvidia",
+  "MODEL": "SHIELD Tablet",
+  "FINGERPRINT": "nvidia/wx_na_wf/shieldtablet:7.0/NRD90M/1928188_1006.1489:user/release-keys",
+  "FIRST_API_LEVEL": "19"
+}

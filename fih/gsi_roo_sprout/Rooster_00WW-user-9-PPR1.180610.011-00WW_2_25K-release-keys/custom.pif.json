@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "gsi_mt6771_64_00WW",
+  "DEVICE": "ROO_sprout",
+  "MANUFACTURER": "FIH",
+  "BRAND": "FIH_GSI",
+  "MODEL": "GSI-00WW",
+  "FINGERPRINT": "Nokia/Rooster_00WW/ROO_sprout:9/PPR1.180610.011/00WW_2_25K:user/release-keys",
+  "SECURITY_PATCH": "2019-03-05",
+  "FIRST_API_LEVEL": "26"
+}

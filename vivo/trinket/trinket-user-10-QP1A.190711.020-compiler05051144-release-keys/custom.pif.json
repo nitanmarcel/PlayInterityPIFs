@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "trinket",
+  "DEVICE": "trinket",
+  "MANUFACTURER": "vivo",
+  "BRAND": "vivo",
+  "MODEL": "vivo 1935N",
+  "FINGERPRINT": "vivo/1935N/1935:10/QP1A.190711.020/compiler05051144:user/release-keys",
+  "SECURITY_PATCH": "2022-05-01",
+  "FIRST_API_LEVEL": "29"
+}

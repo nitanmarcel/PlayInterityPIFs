@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "franklin",
+  "DEVICE": "franklin",
+  "MANUFACTURER": "Droidlogic",
+  "BRAND": "Amlogic",
+  "MODEL": "X96Max_Plus2",
+  "FINGERPRINT": "Amlogic/franklin/franklin:9/PPR1.180610.011/20200901:userdebug/test-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "28"
+}

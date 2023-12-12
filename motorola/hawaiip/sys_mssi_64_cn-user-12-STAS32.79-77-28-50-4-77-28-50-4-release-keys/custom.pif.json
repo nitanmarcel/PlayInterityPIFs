@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "hawaiip_g",
+  "DEVICE": "hawaiip",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g22",
+  "FINGERPRINT": "motorola/hawaiip_g/hawaiip:12/STAS32.79-77-28-50-4/77-28-50-4:user/release-keys",
+  "SECURITY_PATCH": "2023-04-05",
+  "FIRST_API_LEVEL": "31"
+}

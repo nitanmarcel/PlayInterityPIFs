@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "h1_tmo_us",
+  "DEVICE": "h1",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LG-H830",
+  "FINGERPRINT": "lge/h1_tmo_us/h1:8.0.0/OPR1.170623.032/182251913485f:user/release-keys",
+  "SECURITY_PATCH": "2018-08-01",
+  "FIRST_API_LEVEL": "23"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "trident",
+  "DEVICE": "trident",
+  "MANUFACTURER": "smartisan",
+  "BRAND": "SMARTISAN",
+  "MODEL": "DE106",
+  "FINGERPRINT": "SMARTISAN/trident/trident:8.1.0/OPM1.171019.026/1557736120:user/dev-keys",
+  "SECURITY_PATCH": "2019-04-10",
+  "FIRST_API_LEVEL": "27"
+}

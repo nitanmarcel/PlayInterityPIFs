@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "vince",
+  "DEVICE": "vince",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Redmi 5 Plus",
+  "FINGERPRINT": "xiaomi/vince/vince:7.1.2/N2G47H/V9.6.4.0.NEGMIFD:user/release-keys",
+  "SECURITY_PATCH": "2018-06-01",
+  "FIRST_API_LEVEL": "25"
+}

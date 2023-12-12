@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "java_retail",
+  "DEVICE": "java",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(20)",
+  "FINGERPRINT": "motorola/java_retail/java:11/RTA31.68-36/36:user/release-keys",
+  "SECURITY_PATCH": "2022-08-01",
+  "FIRST_API_LEVEL": "30"
+}

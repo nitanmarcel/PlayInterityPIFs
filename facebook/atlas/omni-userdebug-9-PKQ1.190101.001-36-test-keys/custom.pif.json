@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "omni",
+  "DEVICE": "atlas",
+  "MANUFACTURER": "Facebook",
+  "BRAND": "Facebook",
+  "MODEL": "Portal+",
+  "FINGERPRINT": "Facebook/omni/omni:9/PKQ1.190101.001/36:userdebug/test-keys",
+  "SECURITY_PATCH": "2018-10-05",
+  "FIRST_API_LEVEL": "28"
+}

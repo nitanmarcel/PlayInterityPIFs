@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_ford",
+  "DEVICE": "ford",
+  "MANUFACTURER": "Amazon",
+  "BRAND": "Amazon",
+  "MODEL": "",
+  "FINGERPRINT": "Amazon/full_ford/ford:5.1.1/LVY48F/37.6.2.6_user_626533320:user/release-keys",
+  "SECURITY_PATCH": "2018-03-01",
+  "FIRST_API_LEVEL": "22"
+}

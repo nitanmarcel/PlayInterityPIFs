@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "shiva",
+  "DEVICE": "shiva",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "POCO",
+  "MODEL": "M2004J19PI",
+  "FINGERPRINT": "POCO/shiva/shiva:10/QP1A.190711.020/V11.0.4.0.QJRINXM:user/release-keys",
+  "SECURITY_PATCH": "2020-08-05",
+  "FIRST_API_LEVEL": "29"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "penang_cn",
+  "DEVICE": "penang",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT2335-3",
+  "FINGERPRINT": "motorola/penang_cn/penang:13/T1TPC33M.1-73-3/907790:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "FIRST_API_LEVEL": "32"
+}

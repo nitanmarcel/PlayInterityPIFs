@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Teracube_One",
+  "DEVICE": "Teracube_One",
+  "MANUFACTURER": "Teracube",
+  "BRAND": "Teracube",
+  "MODEL": "Teracube One",
+  "FINGERPRINT": "Teracube/Teracube_One/Teracube_One:9/PPR1.180610.011/20191028:user/release-keys",
+  "SECURITY_PATCH": "2019-10-05",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rtwo_cn",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT2301-5",
+  "FINGERPRINT": "motorola/rtwo_cn/msi:13/T1TR33M.4-30-10-2/e5e7e:user/release-keys",
+  "SECURITY_PATCH": "2023-01-01",
+  "FIRST_API_LEVEL": "32"
+}

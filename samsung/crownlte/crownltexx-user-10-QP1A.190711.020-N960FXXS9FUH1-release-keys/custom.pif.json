@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "crownltexx",
+  "DEVICE": "crownlte",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-N960F",
+  "FINGERPRINT": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXS9FUH1:user/release-keys",
+  "SECURITY_PATCH": "2021-08-01",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "aion_g_sys",
+  "DEVICE": "aion",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 2023",
+  "FINGERPRINT": "motorola/aion_g_sys/aion:13/T2TT33M.60-27/6a302a:user/release-keys",
+  "SECURITY_PATCH": "2023-07-01",
+  "FIRST_API_LEVEL": "31"
+}

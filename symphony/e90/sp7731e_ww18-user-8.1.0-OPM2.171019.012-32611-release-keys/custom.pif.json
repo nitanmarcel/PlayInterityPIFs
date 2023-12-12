@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "E90",
+  "DEVICE": "E90",
+  "MANUFACTURER": "Symphony",
+  "BRAND": "Symphony",
+  "MODEL": "E90",
+  "FINGERPRINT": "Symphony/E90/E90:8.1.0/OPM2.171019.012/32611:user/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "27"
+}

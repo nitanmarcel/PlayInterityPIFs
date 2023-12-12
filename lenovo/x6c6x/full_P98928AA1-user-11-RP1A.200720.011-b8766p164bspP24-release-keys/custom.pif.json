@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "LenovoTB-X6C6X",
+  "DEVICE": "X6C6X",
+  "MANUFACTURER": "LENOVO",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo TB-X6C6X",
+  "FINGERPRINT": "Lenovo/LenovoTB-X6C6X/X6C6X:11/RP1A.200720.011/S106_220410_ROW:user/release-keys",
+  "SECURITY_PATCH": "2022-03-05",
+  "FIRST_API_LEVEL": "30"
+}

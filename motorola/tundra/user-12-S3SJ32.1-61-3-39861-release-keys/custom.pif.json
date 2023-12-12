@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "tundra_cn",
+  "DEVICE": "tundra",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT2243-2",
+  "FINGERPRINT": "motorola/tundra_cn/tundra:12/S3SJ32M.1-61-3/2b3ed:user/release-keys",
+  "SECURITY_PATCH": "2022-09-01",
+  "FIRST_API_LEVEL": "31"
+}

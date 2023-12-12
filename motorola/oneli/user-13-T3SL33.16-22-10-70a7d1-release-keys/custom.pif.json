@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "oneli_cn",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT2251-1",
+  "FINGERPRINT": "motorola/oneli_cn/msi:13/T3SL33M.16-22-10/593b5:user/release-keys",
+  "SECURITY_PATCH": "2023-10-01",
+  "FIRST_API_LEVEL": "31"
+}

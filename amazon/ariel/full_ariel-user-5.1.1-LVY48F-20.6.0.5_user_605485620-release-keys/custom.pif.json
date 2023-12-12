@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_ariel",
+  "DEVICE": "ariel",
+  "MANUFACTURER": "Amazon",
+  "BRAND": "Amazon",
+  "MODEL": "",
+  "FINGERPRINT": "Amazon/full_ariel/ariel:5.1.1/LVY48F/20.6.0.5_user_605485620:user/release-keys",
+  "SECURITY_PATCH": "2017-11-01",
+  "FIRST_API_LEVEL": "22"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "land",
+  "DEVICE": "land",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi 3S",
+  "FINGERPRINT": "Xiaomi/land/land:6.0.1/MMB29M/V10.2.2.0.MALMIXM:user/release-keys",
+  "SECURITY_PATCH": "2017-04-01",
+  "FIRST_API_LEVEL": "23"
+}

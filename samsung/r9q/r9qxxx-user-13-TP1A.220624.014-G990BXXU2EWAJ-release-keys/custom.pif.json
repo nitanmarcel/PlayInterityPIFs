@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "r9qxxx",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G990B",
+  "FINGERPRINT": "samsung/r9qxxx/qssi:13/TP1A.220624.014/G990BXXU2EWAJ:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "FIRST_API_LEVEL": "30"
+}

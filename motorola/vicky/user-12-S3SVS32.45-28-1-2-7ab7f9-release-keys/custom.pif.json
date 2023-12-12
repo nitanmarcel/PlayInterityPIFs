@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "vicky_g_sys",
+  "DEVICE": "vicky",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g72",
+  "FINGERPRINT": "motorola/vicky_g_sys/vicky:12/S3SVS32.45-28-1-2/7ab7f9:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "FIRST_API_LEVEL": "31"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "shark",
+  "DEVICE": "shark",
+  "MANUFACTURER": "Blackshark",
+  "BRAND": "blackshark",
+  "MODEL": "shark",
+  "FINGERPRINT": "blackshark/shark/shark:8.1.0/G66X1812291CN00MPX/buildf07-2748:user/release-keys",
+  "SECURITY_PATCH": "2018-12-05",
+  "FIRST_API_LEVEL": "27"
+}

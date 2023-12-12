@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sofiar_retail",
+  "DEVICE": "sofiar",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(8) power",
+  "FINGERPRINT": "motorola/sofiar_retail/sofiar:11/RPES31.Q4U-47-35-5/50a0a:user/release-keys",
+  "SECURITY_PATCH": "2021-06-01",
+  "FIRST_API_LEVEL": "29"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "gracerltexx",
+  "DEVICE": "gracerlte",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-N935F",
+  "FINGERPRINT": "samsung/gracerltexx/gracerlte:9/PPR1.180610.011/N935FXXS7CTJ2:user/release-keys",
+  "SECURITY_PATCH": "2020-11-01",
+  "FIRST_API_LEVEL": "24"
+}

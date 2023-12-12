@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "kyoto_retail",
+  "DEVICE": "kyoto",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 20 lite",
+  "FINGERPRINT": "motorola/kyoto_retail/kyoto:11/RRK31.Q3-19-19/002f6:user/release-keys",
+  "SECURITY_PATCH": "2021-07-01",
+  "FIRST_API_LEVEL": "30"
+}

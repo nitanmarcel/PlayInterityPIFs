@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "xcover5xx",
+  "DEVICE": "xcover5",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G525F",
+  "FINGERPRINT": "samsung/xcover5xx/xcover5:12/SP1A.210812.016/G525FXXS5BVI1:user/release-keys",
+  "SECURITY_PATCH": "2022-10-01",
+  "FIRST_API_LEVEL": "30"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "msi_prc",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "Motorola System Image",
+  "FINGERPRINT": "motorola/msi_prc/msi:11/RRYA31.Q3-56-29/6e0e3:user/release-keys",
+  "SECURITY_PATCH": "2021-11-01",
+  "FIRST_API_LEVEL": "30"
+}

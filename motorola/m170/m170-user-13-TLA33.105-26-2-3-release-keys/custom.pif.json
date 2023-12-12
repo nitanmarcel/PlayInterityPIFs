@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "m170",
+  "DEVICE": "m170",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "SabahLite",
+  "FINGERPRINT": "motorola/m170/m170:13/TLA33.105-26-2/3:user/release-keys",
+  "SECURITY_PATCH": "2022-12-05",
+  "FIRST_API_LEVEL": "32"
+}

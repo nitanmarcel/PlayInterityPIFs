@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_hinoki",
+  "DEVICE": "hinoki",
+  "MANUFACTURER": "Sony",
+  "BRAND": "alps",
+  "MODEL": "G3112",
+  "FINGERPRINT": "alps/full_hinoki/hinoki:8.0.0/O00623/1557504422:user/test-keys",
+  "SECURITY_PATCH": "2019-05-05",
+  "FIRST_API_LEVEL": "24"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a22xub",
+  "DEVICE": "a22x",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A226BR",
+  "FINGERPRINT": "samsung/a22xub/a22x:13/TP1A.220624.014/A226BRUBU8DWK2:user/release-keys",
+  "SECURITY_PATCH": "2023-10-01",
+  "FIRST_API_LEVEL": "30"
+}

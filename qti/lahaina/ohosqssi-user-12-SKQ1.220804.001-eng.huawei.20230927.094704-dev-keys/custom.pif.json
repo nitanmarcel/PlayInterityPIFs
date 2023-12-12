@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ohosqssi",
+  "DEVICE": "ohosqssi",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "Huawei",
+  "MODEL": "ohosqssi system image for arm64",
+  "FINGERPRINT": "Huawei/ohosqssi/ohosqssi:12/SKQ1.220804.001/huawei09270955:user/dev-keys",
+  "SECURITY_PATCH": "2022-08-01",
+  "FIRST_API_LEVEL": "30"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "zx70",
+  "DEVICE": "zx70",
+  "MANUFACTURER": "Getac",
+  "BRAND": "Getac",
+  "MODEL": "ZX70",
+  "FINGERPRINT": "Getac/zx70/zx70:7.1.1/NMF27D/66:user/release-keys",
+  "SECURITY_PATCH": "2019-10-01",
+  "FIRST_API_LEVEL": "25"
+}

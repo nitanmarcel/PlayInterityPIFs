@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ImPAD_P101",
+  "DEVICE": "ImPAD_P101",
+  "MANUFACTURER": "bnd",
+  "BRAND": "Impression",
+  "MODEL": "ImPAD_P101",
+  "FINGERPRINT": "Impression/ImPAD_P101/ImPAD_P101:8.1.0/O11019/1525700820:user/release-keys",
+  "SECURITY_PATCH": "2018-06-05",
+  "FIRST_API_LEVEL": "27"
+}

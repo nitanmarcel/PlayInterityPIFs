@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cezanne",
+  "DEVICE": "cezanne",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "M2006J10C",
+  "FINGERPRINT": "Redmi/cezanne/cezanne:12/SP1A.210812.016/22.3.29:user/release-keys",
+  "SECURITY_PATCH": "2022-03-01",
+  "FIRST_API_LEVEL": "29"
+}

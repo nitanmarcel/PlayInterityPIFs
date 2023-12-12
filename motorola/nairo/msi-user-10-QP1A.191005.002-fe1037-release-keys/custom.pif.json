@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "msi",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "Motorola System Image",
+  "FINGERPRINT": "motorola/msi/msi:10/QP1A.191005.002/fe1037:user/release-keys",
+  "SECURITY_PATCH": "2020-12-01",
+  "FIRST_API_LEVEL": "29"
+}

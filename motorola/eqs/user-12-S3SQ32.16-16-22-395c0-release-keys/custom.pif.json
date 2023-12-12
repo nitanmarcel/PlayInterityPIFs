@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "eqs_g",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 30 ultra",
+  "FINGERPRINT": "motorola/eqs_g/msi:12/S3SQ32M.16-16-22/8c64a:user/release-keys",
+  "SECURITY_PATCH": "2022-07-01",
+  "FIRST_API_LEVEL": "31"
+}

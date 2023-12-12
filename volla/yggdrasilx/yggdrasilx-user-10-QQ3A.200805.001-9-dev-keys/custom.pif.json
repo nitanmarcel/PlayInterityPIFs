@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lineage_yggdrasilx",
+  "DEVICE": "yggdrasilx",
+  "MANUFACTURER": "Volla",
+  "BRAND": "volla",
+  "MODEL": "Volla Phone X",
+  "FINGERPRINT": "volla/lineage_yggdrasilx/yggdrasilx:10/QQ3A.200805.001/9:user/dev-keys",
+  "SECURITY_PATCH": "2022-04-05",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sheldonp",
+  "DEVICE": "sheldonp",
+  "MANUFACTURER": "Amazon",
+  "BRAND": "Amazon",
+  "MODEL": "AFTSSS",
+  "FINGERPRINT": "Amazon/sheldonp/sheldonp:7.0/PS7234/2042N:user/amz-p,release-keys",
+  "SECURITY_PATCH": "2018-10-05",
+  "FIRST_API_LEVEL": "28"
+}

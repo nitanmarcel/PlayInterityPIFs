@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "PQ6001_vsmart",
+  "DEVICE": "PQ6001",
+  "MANUFACTURER": "vsmart",
+  "BRAND": "vsmart",
+  "MODEL": "Active 1",
+  "FINGERPRINT": "vsmart/PQ6001_vsmart/PQ6001:9/PKQ1.190118.001/62:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "27"
+}

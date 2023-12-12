@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "shamu",
+  "DEVICE": "shamu",
+  "MANUFACTURER": "motorola",
+  "BRAND": "google",
+  "MODEL": "Nexus 6",
+  "FINGERPRINT": "google/shamu/shamu:7.1.1/N8I11F/4345189:user/release-keys",
+  "FIRST_API_LEVEL": "25"
+}

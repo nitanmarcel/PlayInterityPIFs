@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "qti",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "qti/qssi/qssi:12/SKQ1.210908.001/V13.0.16.0.SKFMIXM:user/release-keys",
+  "SECURITY_PATCH": "2023-01-01",
+  "FIRST_API_LEVEL": "30"
+}

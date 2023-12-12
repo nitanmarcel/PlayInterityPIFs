@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "troika_retail",
+  "DEVICE": "troika_sprout",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola one action",
+  "FINGERPRINT": "motorola/troika_retail/troika_sprout:11/RSBS31.Q1-48-36-20/3e578:user/release-keys",
+  "SECURITY_PATCH": "2022-03-01",
+  "FIRST_API_LEVEL": "28"
+}

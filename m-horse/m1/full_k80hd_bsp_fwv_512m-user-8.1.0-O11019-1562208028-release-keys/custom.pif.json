@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "M1",
+  "DEVICE": "M1",
+  "MANUFACTURER": "M-HORSE",
+  "BRAND": "M-HORSE",
+  "MODEL": "M1",
+  "FINGERPRINT": "M-HORSE/M1/M1:8.1.0/O11019/1562208028:user/release-keys",
+  "SECURITY_PATCH": "2019-06-05",
+  "FIRST_API_LEVEL": "27"
+}

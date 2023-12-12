@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "mh2lm_5g",
+  "DEVICE": "mh2lm",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-V510N",
+  "FINGERPRINT": "lge/mh2lm_5g/mh2lm:12/SKQ1.211103.001/2231911563102:user/release-keys",
+  "SECURITY_PATCH": "2022-09-01",
+  "FIRST_API_LEVEL": "28"
+}

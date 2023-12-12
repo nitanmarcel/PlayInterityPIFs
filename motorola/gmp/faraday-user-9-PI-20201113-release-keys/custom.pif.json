@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "4K_AndroidTV_Stick",
+  "DEVICE": "GMP",
+  "MANUFACTURER": "SDMC",
+  "BRAND": "Motorola",
+  "MODEL": "DVM4KA01",
+  "FINGERPRINT": "Motorola/4K_AndroidTV_Stick/GMP:9/PI/20201106:user/release-keys",
+  "SECURITY_PATCH": "2020-10-05",
+  "FIRST_API_LEVEL": "28"
+}

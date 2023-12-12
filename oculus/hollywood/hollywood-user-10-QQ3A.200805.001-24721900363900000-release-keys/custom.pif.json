@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "hollywood",
+  "DEVICE": "hollywood",
+  "MANUFACTURER": "Oculus",
+  "BRAND": "oculus",
+  "MODEL": "Quest 2",
+  "FINGERPRINT": "oculus/hollywood/hollywood:10/QQ3A.200805.001/24721900363900000:user/release-keys",
+  "SECURITY_PATCH": "2021-04-05",
+  "FIRST_API_LEVEL": "29"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "r8qxx",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G780G",
+  "FINGERPRINT": "samsung/r8qxx/qssi:12/SP1A.210812.016/G780GXXS3CVF3:user/release-keys",
+  "SECURITY_PATCH": "2022-07-01",
+  "FIRST_API_LEVEL": "29"
+}

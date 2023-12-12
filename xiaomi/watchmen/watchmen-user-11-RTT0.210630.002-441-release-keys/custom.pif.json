@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "watchmen",
+  "DEVICE": "watchmen",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MiTV-AXFR2",
+  "FINGERPRINT": "Xiaomi/watchmen/watchmen:11/RTT0.210630.002/441:user/release-keys",
+  "SECURITY_PATCH": "2023-05-05",
+  "FIRST_API_LEVEL": "30"
+}

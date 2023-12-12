@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "kunlun2_row",
+  "DEVICE": "kunlun2",
+  "MANUFACTURER": "Lenovo",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo L38111",
+  "FINGERPRINT": "Lenovo/kunlun2_row/kunlun2:9/PKQ1.190127.001/11.0.092_190719:user/release-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "FIRST_API_LEVEL": "28"
+}

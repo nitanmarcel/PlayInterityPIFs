@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Allure_M3",
+  "DEVICE": "Allure_M3",
+  "MANUFACTURER": "SPA Condor Electronics",
+  "BRAND": "Condor",
+  "MODEL": "Allure M3",
+  "FINGERPRINT": "Condor/Allure_M3/Allure_M3:8.1.0/O11019/1540462721:user/release-keys",
+  "SECURITY_PATCH": "2018-10-05",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lucye_global_com",
+  "DEVICE": "lucye",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LG-H870",
+  "FINGERPRINT": "lge/lucye_global_com/lucye:9/PKQ1.190522.001/1930916292597:user/release-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "FIRST_API_LEVEL": "24"
+}

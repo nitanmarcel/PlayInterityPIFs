@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lake_revvl",
+  "DEVICE": "lake",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "REVVLRY+",
+  "FINGERPRINT": "motorola/lake_revvl/lake:10/QPWS30.142-Q3-28-25-9/0977d1:user/release-keys",
+  "SECURITY_PATCH": "2021-04-01",
+  "FIRST_API_LEVEL": "28"
+}

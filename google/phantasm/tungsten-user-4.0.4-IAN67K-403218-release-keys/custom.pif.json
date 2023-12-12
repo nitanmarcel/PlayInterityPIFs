@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "tungsten",
+  "DEVICE": "phantasm",
+  "MANUFACTURER": "google",
+  "BRAND": "google",
+  "MODEL": "Nexus Q",
+  "FINGERPRINT": "google/tungsten/phantasm:4.0.4/IAN67K/403218:user/release-keys",
+  "FIRST_API_LEVEL": "15"
+}

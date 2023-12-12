@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "daisy",
+  "DEVICE": "daisy_sprout",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Mi A2 Lite",
+  "FINGERPRINT": "xiaomi/daisy/daisy_sprout:10/QKQ1.191002.002/V11.0.2.0.QDLMIXM:user/release-keys",
+  "SECURITY_PATCH": "2020-02-01",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rk312x",
+  "DEVICE": "rk312x",
+  "MANUFACTURER": "ZED",
+  "BRAND": "rockchip",
+  "MODEL": "YS",
+  "FINGERPRINT": "rockchip/rk312x/rk312x:6.0.1/MXC89K/user.zfc.20221115.153823:user/release-keys",
+  "SECURITY_PATCH": "2016-07-05",
+  "FIRST_API_LEVEL": "23"
+}

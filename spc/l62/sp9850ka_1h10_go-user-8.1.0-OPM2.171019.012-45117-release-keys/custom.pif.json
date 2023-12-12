@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "L62",
+  "DEVICE": "L62",
+  "MANUFACTURER": "SPC",
+  "BRAND": "SPC",
+  "MODEL": "L62",
+  "FINGERPRINT": "SPC/L62/L62:8.1.0/OPM2.171019.012/45117:user/release-keys",
+  "SECURITY_PATCH": "2018-11-05",
+  "FIRST_API_LEVEL": "27"
+}

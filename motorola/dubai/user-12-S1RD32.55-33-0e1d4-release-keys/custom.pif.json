@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "dubai_g",
+  "DEVICE": "dubai",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 30",
+  "FINGERPRINT": "motorola/dubai_g/dubai:12/S1RD32M.55-33/9b0471:user/release-keys",
+  "SECURITY_PATCH": "2022-04-01",
+  "FIRST_API_LEVEL": "31"
+}

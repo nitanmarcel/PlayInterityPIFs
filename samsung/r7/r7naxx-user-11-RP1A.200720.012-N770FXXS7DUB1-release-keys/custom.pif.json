@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "r7naxx",
+  "DEVICE": "r7",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-N770F",
+  "FINGERPRINT": "samsung/r7naxx/r7:11/RP1A.200720.012/N770FXXS7DUB1:user/release-keys",
+  "SECURITY_PATCH": "2021-02-01",
+  "FIRST_API_LEVEL": "29"
+}

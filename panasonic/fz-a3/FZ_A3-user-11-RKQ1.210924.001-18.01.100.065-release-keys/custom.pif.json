@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "FZ_A3",
+  "DEVICE": "FZ-A3",
+  "MANUFACTURER": "PANASONIC",
+  "BRAND": "panasonic",
+  "MODEL": "FZ-A3",
+  "FINGERPRINT": "panasonic/FZ_A3/FZ-A3:11/RKQ1.210924.001/18.01.100.065:user/release-keys",
+  "SECURITY_PATCH": "2023-09-01",
+  "FIRST_API_LEVEL": "28"
+}

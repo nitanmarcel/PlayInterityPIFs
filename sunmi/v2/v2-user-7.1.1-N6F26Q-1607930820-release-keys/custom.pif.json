@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "V2",
+  "DEVICE": "V2",
+  "MANUFACTURER": "SUNMI",
+  "BRAND": "SUNMI",
+  "MODEL": "V2",
+  "FINGERPRINT": "alps/full_rlk6580_we_c_m/rlk6580_we_c_m:7.1.1/N6F26Q/1607930820:user/release-keys",
+  "SECURITY_PATCH": "2017-12-05",
+  "FIRST_API_LEVEL": "25"
+}

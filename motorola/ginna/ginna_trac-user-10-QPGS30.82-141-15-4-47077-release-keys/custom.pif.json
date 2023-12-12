@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ginna_trac",
+  "DEVICE": "ginna",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto e (XT2052DL)",
+  "FINGERPRINT": "motorola/ginna_trac/ginna:10/QPGS30.82-141-15-4/47077:user/release-keys",
+  "SECURITY_PATCH": "2022-06-01",
+  "FIRST_API_LEVEL": "29"
+}

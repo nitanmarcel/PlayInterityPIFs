@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "chef_retail",
+  "DEVICE": "chef_sprout",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola one power",
+  "FINGERPRINT": "motorola/chef_retail/chef_sprout:10/QPTS30.61-18-16-8/03acd:user/release-keys",
+  "SECURITY_PATCH": "2021-04-01",
+  "FIRST_API_LEVEL": "27"
+}

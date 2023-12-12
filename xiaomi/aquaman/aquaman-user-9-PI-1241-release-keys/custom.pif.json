@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "aquaman",
+  "DEVICE": "aquaman",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MiTV-AESP0",
+  "FINGERPRINT": "Xiaomi/aquaman/aquaman:9/PI/1241:user/release-keys",
+  "SECURITY_PATCH": "2021-03-05",
+  "FIRST_API_LEVEL": "28"
+}

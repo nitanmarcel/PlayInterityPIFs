@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a05snsdxx",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A057F",
+  "FINGERPRINT": "samsung/a05snsdxx/qssi:13/TP1A.220624.014/A057FXXU1AWIE:user/release-keys",
+  "SECURITY_PATCH": "2023-08-01",
+  "FIRST_API_LEVEL": "32"
+}

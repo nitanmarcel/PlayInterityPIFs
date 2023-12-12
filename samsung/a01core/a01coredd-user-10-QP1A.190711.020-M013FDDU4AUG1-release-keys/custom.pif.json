@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a01coredd",
+  "DEVICE": "a01core",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-M013F",
+  "FINGERPRINT": "samsung/a01coredd/a01core:10/QP1A.190711.020/M013FDDU4AUG1:user/release-keys",
+  "SECURITY_PATCH": "2021-07-01",
+  "FIRST_API_LEVEL": "29"
+}

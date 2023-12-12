@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "missi",
+  "DEVICE": "missi",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "missi system image for arm64",
+  "FINGERPRINT": "qti/missi_phoneext4_cn/missi:13/TKQ1.220807.001/V13.1.22.10.15.DEV:user/release-keys",
+  "SECURITY_PATCH": "2022-10-01",
+  "FIRST_API_LEVEL": "31"
+}

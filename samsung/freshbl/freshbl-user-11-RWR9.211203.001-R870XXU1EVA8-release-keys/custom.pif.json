@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "freshbl",
+  "DEVICE": "freshbl",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-R870",
+  "FINGERPRINT": "samsung/freshbl/freshbl:11/RWR9.211203.001/R870XXU1EVA8:user/release-keys",
+  "SECURITY_PATCH": "2022-01-01",
+  "FIRST_API_LEVEL": "30"
+}

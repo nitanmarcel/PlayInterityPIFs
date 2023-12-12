@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lithium",
+  "DEVICE": "lithium",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MIX",
+  "FINGERPRINT": "Xiaomi/lithium/lithium:8.0.0/OPR1.170623.032/V10.2.1.0.OAHMIXM:user/release-keys",
+  "SECURITY_PATCH": "2018-10-01",
+  "FIRST_API_LEVEL": "23"
+}

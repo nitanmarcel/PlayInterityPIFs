@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "kama2_row",
+  "DEVICE": "kama2",
+  "MANUFACTURER": "Lenovo",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo L39051",
+  "FINGERPRINT": "Lenovo/kama2_row/kama2:9/PKQ1.190616.001/B229:user/release-keys",
+  "SECURITY_PATCH": "2019-10-01",
+  "FIRST_API_LEVEL": "28"
+}

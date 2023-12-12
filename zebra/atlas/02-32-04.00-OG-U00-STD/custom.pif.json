@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "atlas",
+  "DEVICE": "atlas",
+  "MANUFACTURER": "Zebra Technologies",
+  "BRAND": "Zebra",
+  "MODEL": "atlas for arm64",
+  "FINGERPRINT": "Zebra/atlas/atlas:8.1.0/02-32-04.00-OG-U00-STD/293:user/release-keys",
+  "SECURITY_PATCH": "2020-04-05",
+  "FIRST_API_LEVEL": "23"
+}

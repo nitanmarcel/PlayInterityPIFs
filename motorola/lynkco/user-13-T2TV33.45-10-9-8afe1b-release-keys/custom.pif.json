@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lynkco_cn",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT2323-3",
+  "FINGERPRINT": "motorola/lynkco_cn/msi:13/T2TV33M.45-10-9/0a267:user/release-keys",
+  "SECURITY_PATCH": "2023-06-01",
+  "FIRST_API_LEVEL": "32"
+}

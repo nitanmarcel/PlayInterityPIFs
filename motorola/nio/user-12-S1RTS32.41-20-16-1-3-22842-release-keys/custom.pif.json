@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "nio_retail",
+  "DEVICE": "nio",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(100)",
+  "FINGERPRINT": "motorola/nio_retail/nio:12/S1RTS32M.41-20-16-1-3/f0a4cf:user/release-keys",
+  "SECURITY_PATCH": "2022-07-01",
+  "FIRST_API_LEVEL": "30"
+}

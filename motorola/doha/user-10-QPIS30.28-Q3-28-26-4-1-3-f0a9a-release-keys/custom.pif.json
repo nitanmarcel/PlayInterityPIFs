@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "doha_retail",
+  "DEVICE": "doha",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(8) plus",
+  "FINGERPRINT": "motorola/doha_retail/doha:10/QPIS30.28-Q3-28-26-4-1-3/f0a9a:user/release-keys",
+  "SECURITY_PATCH": "2021-04-01",
+  "FIRST_API_LEVEL": "28"
+}

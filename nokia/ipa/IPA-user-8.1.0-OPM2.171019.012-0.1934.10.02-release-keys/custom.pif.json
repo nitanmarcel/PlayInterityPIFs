@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "IPA",
+  "DEVICE": "IPA",
+  "MANUFACTURER": "Iron GAFP",
+  "BRAND": "Nokia",
+  "MODEL": "Iron GAFP",
+  "FINGERPRINT": "Nokia/IPA/IPA:8.1.0/OPM2.171019.012/0.1934.10.02:user/release-keys",
+  "SECURITY_PATCH": "2019-08-05",
+  "FIRST_API_LEVEL": "26"
+}

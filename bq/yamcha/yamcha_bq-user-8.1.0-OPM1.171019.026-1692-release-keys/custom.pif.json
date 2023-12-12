@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "yamcha",
+  "DEVICE": "yamcha",
+  "MANUFACTURER": "bq",
+  "BRAND": "bq",
+  "MODEL": "Aquaris U2",
+  "FINGERPRINT": "bq/yamcha/yamcha:8.1.0/OPM1.171019.026/1692:user/release-keys",
+  "SECURITY_PATCH": "2019-07-01",
+  "FIRST_API_LEVEL": "25"
+}

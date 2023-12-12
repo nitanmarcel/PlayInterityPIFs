@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rav_retail",
+  "DEVICE": "rav",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(8)",
+  "FINGERPRINT": "motorola/rav_retail/rav:10/QPJ30.53-16/23451:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "29"
+}

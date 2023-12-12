@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "XP9904",
+  "DEVICE": "XP9900",
+  "MANUFACTURER": "Sonimtech",
+  "BRAND": "Sonim",
+  "MODEL": "XP9900",
+  "FINGERPRINT": "Sonim/XP9904/XP9900:13/10.0.0-10-13.0.0-11.12.10/1699269364:user/release-keys",
+  "SECURITY_PATCH": "2023-10-05",
+  "FIRST_API_LEVEL": "31"
+}

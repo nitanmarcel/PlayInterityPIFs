@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "MK241",
+  "DEVICE": "msm8909_512",
+  "MANUFACTURER": "241",
+  "BRAND": "Maxcom",
+  "MODEL": "MK241",
+  "FINGERPRINT": "Maxcom/MK241/msm8909_512:6.0.1/MMB29M/liufeicong04261611:user/dev-keys",
+  "SECURITY_PATCH": "xxxx-xx-xx",
+  "FIRST_API_LEVEL": "23"
+}

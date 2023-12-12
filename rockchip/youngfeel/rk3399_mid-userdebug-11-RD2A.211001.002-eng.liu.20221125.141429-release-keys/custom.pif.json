@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rk3399_mid",
+  "DEVICE": "YoungFeel",
+  "MANUFACTURER": "rockchip",
+  "BRAND": "rockchip",
+  "MODEL": "RK3399",
+  "FINGERPRINT": "rockchip/rk3399_mid/rk3399_mid:11/RD2A.211001.002/liu11251406:userdebug/release-keys",
+  "SECURITY_PATCH": "2021-10-01",
+  "FIRST_API_LEVEL": "30"
+}

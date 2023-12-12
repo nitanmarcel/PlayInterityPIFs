@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cactus",
+  "DEVICE": "cactus",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Redmi 6A",
+  "FINGERPRINT": "xiaomi/cactus/cactus:8.1.0/O11019/V10.3.3.0.OCBMIXM:user/release-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "FIRST_API_LEVEL": "27"
+}

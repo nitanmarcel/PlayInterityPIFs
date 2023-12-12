@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "hero2ltexx",
+  "DEVICE": "hero2lte",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G935F",
+  "FINGERPRINT": "samsung/hero2ltexx/hero2lte:8.0.0/R16NW/G935FXXS7ETAB:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "23"
+}

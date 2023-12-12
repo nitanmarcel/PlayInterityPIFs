@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Gemini",
+  "DEVICE": "Gemini_4G",
+  "MANUFACTURER": "Planet",
+  "BRAND": "Planet",
+  "MODEL": "Gemini_4G",
+  "FINGERPRINT": "Planet/Gemini/Gemini_4G:8.1.0/O11019/1544242497:user/release-keys",
+  "SECURITY_PATCH": "2018-12-05",
+  "FIRST_API_LEVEL": "27"
+}

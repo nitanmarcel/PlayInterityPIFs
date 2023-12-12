@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a03nnxx",
+  "DEVICE": "a03",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A035F",
+  "FINGERPRINT": "samsung/a03nnxx/a03:11/RP1A.200720.012/A035FXXU1AUL4:user/release-keys",
+  "SECURITY_PATCH": "2021-12-01",
+  "FIRST_API_LEVEL": "30"
+}

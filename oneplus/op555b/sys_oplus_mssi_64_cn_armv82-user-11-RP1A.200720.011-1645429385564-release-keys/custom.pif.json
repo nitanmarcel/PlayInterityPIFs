@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sys_oplus_mssi_64_cn_armv82",
+  "DEVICE": "oplus_mssi_64_cn_armv82",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "oplus_mssi_64_cn_armv82",
+  "FINGERPRINT": "alps/sys_oplus_mssi_64_cn_armv82/oplus_mssi_64_cn_armv82:11/RP1A.200720.011/1645429385564:user/release-keys",
+  "SECURITY_PATCH": "2022-02-05",
+  "FIRST_API_LEVEL": "30"
+}

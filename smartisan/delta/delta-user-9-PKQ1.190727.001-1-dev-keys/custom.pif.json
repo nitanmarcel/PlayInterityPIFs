@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "delta",
+  "DEVICE": "delta",
+  "MANUFACTURER": "deltainno",
+  "BRAND": "SMARTISAN",
+  "MODEL": "DT1901A",
+  "FINGERPRINT": "SMARTISAN/aries/aries:9/PKQ1.190727.001/1572490152:user/dev-keys",
+  "SECURITY_PATCH": "2019-09-10",
+  "FIRST_API_LEVEL": "28"
+}

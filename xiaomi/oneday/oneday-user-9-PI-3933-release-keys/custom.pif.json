@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "oneday",
+  "DEVICE": "oneday",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MIBOX4",
+  "FINGERPRINT": "Xiaomi/oneday/oneday:9/PI/3933:user/release-keys",
+  "SECURITY_PATCH": "2021-07-05",
+  "FIRST_API_LEVEL": "28"
+}

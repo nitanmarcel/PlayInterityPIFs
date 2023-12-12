@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "S62",
+  "DEVICE": "S62",
+  "MANUFACTURER": "Cat",
+  "BRAND": "Cat",
+  "MODEL": "S62",
+  "FINGERPRINT": "Cat/S62/S62:11/RKQ1.210924.001/LTE_S02111.11_N_S62_1.009.04:user/release-keys",
+  "SECURITY_PATCH": "2022-06-05",
+  "FIRST_API_LEVEL": "29"
+}

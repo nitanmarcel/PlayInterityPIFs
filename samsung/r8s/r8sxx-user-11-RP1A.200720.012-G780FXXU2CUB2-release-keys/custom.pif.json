@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "r8sxx",
+  "DEVICE": "r8s",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G780F",
+  "FINGERPRINT": "samsung/r8sxx/r8s:11/RP1A.200720.012/G780FXXU2CUB2:user/release-keys",
+  "SECURITY_PATCH": "2021-02-01",
+  "FIRST_API_LEVEL": "29"
+}

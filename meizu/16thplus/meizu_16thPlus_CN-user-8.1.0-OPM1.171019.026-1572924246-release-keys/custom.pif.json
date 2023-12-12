@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "meizu_16thPlus_CN",
+  "DEVICE": "16thPlus",
+  "MANUFACTURER": "Meizu",
+  "BRAND": "Meizu",
+  "MODEL": "16th Plus",
+  "FINGERPRINT": "Meizu/meizu_16thPlus_CN/16thPlus:8.1.0/OPM1.171019.026/1572924246:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "27"
+}

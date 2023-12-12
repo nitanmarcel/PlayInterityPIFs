@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rutherford",
+  "DEVICE": "rutherford",
+  "MANUFACTURER": "Droidlogic",
+  "BRAND": "Droidlogic",
+  "MODEL": "rutherford",
+  "FINGERPRINT": "Droidlogic/rutherford/rutherford:9/PPR1.180610.011/20201216:userdebug/test-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "28"
+}

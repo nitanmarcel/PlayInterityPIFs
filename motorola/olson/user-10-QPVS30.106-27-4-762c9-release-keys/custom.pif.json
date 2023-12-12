@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "olson_retail",
+  "DEVICE": "olson",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola razr",
+  "FINGERPRINT": "motorola/olson_retail/olson:10/QPVS30.106-27-4/762c9:user/release-keys",
+  "SECURITY_PATCH": "2020-08-01",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "zerofltexx",
+  "DEVICE": "zeroflte",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G920F",
+  "FINGERPRINT": "samsung/zerofltexx/zeroflte:7.0/NRD90M/G920FXXS6ETI6:user/release-keys",
+  "SECURITY_PATCH": "2018-06-01",
+  "FIRST_API_LEVEL": "21"
+}

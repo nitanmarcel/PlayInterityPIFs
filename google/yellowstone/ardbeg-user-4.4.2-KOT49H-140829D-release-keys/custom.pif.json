@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "tango",
+  "DEVICE": "yellowstone",
+  "MANUFACTURER": "Google",
+  "BRAND": "google",
+  "MODEL": "Yellowstone",
+  "FINGERPRINT": "google/tango/yellowstone:4.4.2/KOT49H/140829D:user/release-keys",
+  "FIRST_API_LEVEL": "19"
+}

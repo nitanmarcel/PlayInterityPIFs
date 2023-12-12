@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Ronin_00WW",
+  "DEVICE": "RNN_sprout",
+  "MANUFACTURER": "HMD Global",
+  "BRAND": "Nokia",
+  "MODEL": "Nokia G20",
+  "FINGERPRINT": "Nokia/Ronin_00WW/RNN_sprout:12/SP1A.210812.016/00WW_2_230:user/release-keys",
+  "SECURITY_PATCH": "2022-05-05",
+  "FIRST_API_LEVEL": "30"
+}

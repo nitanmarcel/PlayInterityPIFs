@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "tesla_g_sys",
+  "DEVICE": "tesla",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge (2022)",
+  "FINGERPRINT": "motorola/tesla_g_sys/tesla:13/T2ST33M.105-51-5-2/d5d7ea:user/release-keys",
+  "SECURITY_PATCH": "2023-09-01",
+  "FIRST_API_LEVEL": "31"
+}

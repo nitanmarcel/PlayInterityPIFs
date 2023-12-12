@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "markw",
+  "DEVICE": "markw",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi 4",
+  "FINGERPRINT": "Xiaomi/markw/markw:6.0.1/MMB29M/V10.2.2.0.MBEMIXM:user/release-keys",
+  "SECURITY_PATCH": "2018-04-01",
+  "FIRST_API_LEVEL": "23"
+}

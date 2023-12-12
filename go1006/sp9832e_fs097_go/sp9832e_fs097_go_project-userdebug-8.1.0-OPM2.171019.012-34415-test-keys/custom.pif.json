@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sp9832e_fs097_go_project",
+  "DEVICE": "sp9832e_fs097_go",
+  "MANUFACTURER": "GO1006",
+  "BRAND": "GO1006",
+  "MODEL": "GO1006",
+  "FINGERPRINT": "GOMOBILE/GO404/GO404:8.1.0/OPM2.171019.012/23215:user/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_LW_C15_TFT_LFLT",
+  "DEVICE": "LW_C15_TFT_LFLT",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "LEM14",
+  "FINGERPRINT": "alps/full_LW_C15_TFT_LFLT/LW_C15_TFT_LFLT:10/QP1A.190711.020/mp1V948:user/test-keys",
+  "SECURITY_PATCH": "2020-04-05",
+  "FIRST_API_LEVEL": "29"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "bronco_g",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "ThinkPhone by motorola",
+  "FINGERPRINT": "motorola/bronco_g/msi:13/T3TBS33M.2-28-2-3/de3b4:user/release-keys",
+  "SECURITY_PATCH": "2023-10-01",
+  "FIRST_API_LEVEL": "32"
+}

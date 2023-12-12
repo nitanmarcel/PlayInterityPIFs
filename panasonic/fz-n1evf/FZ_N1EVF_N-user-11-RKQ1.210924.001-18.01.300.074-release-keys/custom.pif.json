@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "FZ_N1EVF_N",
+  "DEVICE": "FZ-N1EVF",
+  "MANUFACTURER": "PANASONIC",
+  "BRAND": "panasonic",
+  "MODEL": "FZ-N1",
+  "FINGERPRINT": "panasonic/FZ_N1EVF_N/FZ-N1EVF:11/RKQ1.210924.001/18.01.300.074:user/release-keys",
+  "SECURITY_PATCH": "2023-08-01",
+  "FIRST_API_LEVEL": "28"
+}

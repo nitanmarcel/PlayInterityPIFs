@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "zangya_bq",
+  "DEVICE": "",
+  "MANUFACTURER": "bq",
+  "BRAND": "bq",
+  "MODEL": "Aquaris X2",
+  "FINGERPRINT": "bq/zangya_bq/zangya_sprout:10/QKQ1.200216.002/617:user/release-keys",
+  "SECURITY_PATCH": "2020-10-01",
+  "FIRST_API_LEVEL": "27"
+}

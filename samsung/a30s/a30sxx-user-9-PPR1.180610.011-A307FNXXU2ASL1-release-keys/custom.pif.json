@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a30sxx",
+  "DEVICE": "a30s",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A307FN",
+  "FINGERPRINT": "samsung/a30sxx/a30s:9/PPR1.180610.011/A307FNXXU2ASL1:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "28"
+}

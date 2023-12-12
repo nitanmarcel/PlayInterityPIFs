@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "B340_ru",
+  "DEVICE": "B340",
+  "MANUFACTURER": "DEXP",
+  "BRAND": "DEXP",
+  "MODEL": "B340",
+  "FINGERPRINT": "DEXP/B340_ru/B340:8.1.0/O11019/1544146215:user/release-keys",
+  "SECURITY_PATCH": "2018-12-05",
+  "FIRST_API_LEVEL": "27"
+}

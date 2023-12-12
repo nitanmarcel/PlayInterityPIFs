@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sakura",
+  "DEVICE": "sakura",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Redmi 6 Pro",
+  "FINGERPRINT": "xiaomi/sakura/sakura:8.1.0/OPM1.171019.019/8.9.6:user/release-keys",
+  "SECURITY_PATCH": "2018-09-05",
+  "FIRST_API_LEVEL": "27"
+}

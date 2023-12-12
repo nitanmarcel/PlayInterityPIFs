@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "olivelite_eea",
+  "DEVICE": "olivelite",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi 8A",
+  "FINGERPRINT": "Xiaomi/olivelite_eea/olivelite:9/PKQ1.190319.001/V11.0.1.0.PCPEUXM:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "28"
+}

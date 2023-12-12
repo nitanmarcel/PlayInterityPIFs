@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "falcon_retla_fe",
+  "DEVICE": "falcon_umts",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT1002",
+  "FINGERPRINT": "motorola/falcon_retla_fe/falcon_umts:5.1/LPBS23.13-56-2/2:user/release-keys",
+  "FIRST_API_LEVEL": "22"
+}

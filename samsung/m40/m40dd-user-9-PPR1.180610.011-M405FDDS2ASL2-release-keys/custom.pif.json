@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "m40dd",
+  "DEVICE": "m40",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-M405F",
+  "FINGERPRINT": "samsung/m40dd/m40:9/PPR1.180610.011/M405FDDS2ASL2:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_amar_prc_wifi_com",
+  "DEVICE": "amar_prc_wifi_com",
+  "MANUFACTURER": "LENOVO",
+  "BRAND": "Lenovo",
+  "MODEL": "amar_prc_wifi_com",
+  "FINGERPRINT": "Lenovo/full_amar_prc_wifi_com/amar_prc_wifi_com:10/QP1A.190711.020/TB-X306F_S2028_200926:userdebug/test-keys",
+  "SECURITY_PATCH": "2020-04-05",
+  "FIRST_API_LEVEL": "29"
+}

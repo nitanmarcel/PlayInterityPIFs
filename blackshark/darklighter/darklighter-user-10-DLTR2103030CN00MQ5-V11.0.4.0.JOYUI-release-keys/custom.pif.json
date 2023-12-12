@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "DLT-A0",
+  "DEVICE": "darklighter",
+  "MANUFACTURER": "blackshark",
+  "BRAND": "blackshark",
+  "MODEL": "DLT-A0",
+  "FINGERPRINT": "blackshark/DLT-A0/darklighter:10/DLTR2103030CN00MQ5/V11.0.4.0.JOYUI:user/release-keys",
+  "SECURITY_PATCH": "2021-01-01",
+  "FIRST_API_LEVEL": "28"
+}

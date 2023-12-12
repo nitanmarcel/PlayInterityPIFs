@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Everest",
+  "DEVICE": "Everest",
+  "MANUFACTURER": "magcomm",
+  "BRAND": "STREAM",
+  "MODEL": "S9",
+  "FINGERPRINT": "STREAM/Everest/Everest:8.1.0/O11019/1543055299:user/release-keys",
+  "SECURITY_PATCH": "2018-10-05",
+  "FIRST_API_LEVEL": "27"
+}

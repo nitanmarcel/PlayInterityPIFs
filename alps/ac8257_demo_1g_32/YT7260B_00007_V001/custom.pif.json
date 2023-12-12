@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_ac8257_demo_1g_32",
+  "DEVICE": "ac8257_demo_1g_32",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "YT7260B",
+  "FINGERPRINT": "alps/full_ac8257_demo_1g_32/ac8257_demo_1g_32:10.0/PPR1.180610.011/public_user09211303:user/test-keys",
+  "SECURITY_PATCH": "2019-02-05",
+  "FIRST_API_LEVEL": "28"
+}

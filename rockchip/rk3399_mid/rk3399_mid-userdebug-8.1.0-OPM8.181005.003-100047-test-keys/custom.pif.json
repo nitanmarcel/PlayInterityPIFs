@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rk3399_mid",
+  "DEVICE": "rk3399_mid",
+  "MANUFACTURER": "rockchip",
+  "BRAND": "rockchip",
+  "MODEL": "rk3399-mid",
+  "FINGERPRINT": "rockchip/rk3399_mid/rk3399_mid:8.1.0/OPM8.181005.003/100047:userdebug/test-keys",
+  "SECURITY_PATCH": "2018-11-05",
+  "FIRST_API_LEVEL": "26"
+}

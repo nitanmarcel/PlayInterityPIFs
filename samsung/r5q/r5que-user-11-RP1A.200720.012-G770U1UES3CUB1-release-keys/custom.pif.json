@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "r5que",
+  "DEVICE": "r5q",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G770U1",
+  "FINGERPRINT": "samsung/r5que/r5q:11/RP1A.200720.012/G770U1UES3CUB1:user/release-keys",
+  "SECURITY_PATCH": "2021-02-01",
+  "FIRST_API_LEVEL": "29"
+}

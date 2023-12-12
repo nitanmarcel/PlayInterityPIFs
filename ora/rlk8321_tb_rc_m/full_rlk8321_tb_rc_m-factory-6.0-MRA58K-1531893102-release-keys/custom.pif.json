@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_rlk8321_tb_rc_m",
+  "DEVICE": "rlk8321_tb_rc_m",
+  "MANUFACTURER": "Ora",
+  "BRAND": "Ora",
+  "MODEL": "Ora1",
+  "FINGERPRINT": "Ora/full_rlk8321_tb_rc_m/rlk8321_tb_rc_m:6.0/MRA58K/1531893102:factory/release-keys",
+  "SECURITY_PATCH": "2016-08-05",
+  "FIRST_API_LEVEL": "23"
+}

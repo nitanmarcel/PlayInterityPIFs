@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "evergo",
+  "DEVICE": "evergo",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "evergo",
+  "FINGERPRINT": "Redmi/evergo/evergo:12/SP1A.210812.016/22.6.20:user/release-keys",
+  "SECURITY_PATCH": "2022-06-01",
+  "FIRST_API_LEVEL": "30"
+}

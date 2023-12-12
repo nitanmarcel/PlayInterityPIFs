@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_aiv8167sm3_bsp",
+  "DEVICE": "aiv8167sm3_bsp",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "aiv8167sm3_bsp",
+  "FINGERPRINT": "alps/full_aiv8167sm3_bsp/aiv8167sm3_bsp:8.1.0/O11019/1547503594:eng/test-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "27"
+}

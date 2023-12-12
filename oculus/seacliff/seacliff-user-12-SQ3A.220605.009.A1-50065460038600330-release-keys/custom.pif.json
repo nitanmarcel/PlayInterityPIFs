@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "seacliff",
+  "DEVICE": "seacliff",
+  "MANUFACTURER": "Oculus",
+  "BRAND": "oculus",
+  "MODEL": "Quest Pro",
+  "FINGERPRINT": "oculus/seacliff/seacliff:12/SQ3A.220605.009.A1/50065460038600330:user/release-keys",
+  "SECURITY_PATCH": "2022-09-05",
+  "FIRST_API_LEVEL": "29"
+}

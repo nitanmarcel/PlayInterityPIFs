@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "hanoip_retail",
+  "DEVICE": "hanoip",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(60)",
+  "FINGERPRINT": "motorola/hanoip_retail/hanoip:11/RRIS31.Q1-42-51-12-4/24f96:user/release-keys",
+  "SECURITY_PATCH": "2022-05-01",
+  "FIRST_API_LEVEL": "30"
+}

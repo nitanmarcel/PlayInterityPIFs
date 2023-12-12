@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lineage_mimameid",
+  "DEVICE": "mimameid",
+  "MANUFACTURER": "Volla",
+  "BRAND": "volla",
+  "MODEL": "Volla Phone 22",
+  "FINGERPRINT": "volla/lineage_mimameid/mimameid:11/RQ3A.211001.001/101:user/dev-keys",
+  "SECURITY_PATCH": "2022-07-05",
+  "FIRST_API_LEVEL": "30"
+}

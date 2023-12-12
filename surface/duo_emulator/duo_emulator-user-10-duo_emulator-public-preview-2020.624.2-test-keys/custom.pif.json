@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "duo_emulator",
+  "DEVICE": "duo_emulator",
+  "MANUFACTURER": "microsoft",
+  "BRAND": "surface",
+  "MODEL": "Surface Duo Emulator API 29",
+  "FINGERPRINT": "surface/duo_emulator/duo_emulator:10/duo_emulator-public-preview/2020.624.2:user/test-keys",
+  "SECURITY_PATCH": "2020-01-01",
+  "FIRST_API_LEVEL": "28"
+}

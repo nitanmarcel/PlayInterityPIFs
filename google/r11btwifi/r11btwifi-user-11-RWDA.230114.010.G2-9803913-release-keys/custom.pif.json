@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "r11btwifi",
+  "DEVICE": "r11btwifi",
+  "MANUFACTURER": "Google",
+  "BRAND": "google",
+  "MODEL": "Google Pixel Watch",
+  "FINGERPRINT": "google/r11btwifi/r11btwifi:11/RWDA.230114.010.G2/9803913:user/release-keys",
+  "SECURITY_PATCH": "2023-04-05",
+  "FIRST_API_LEVEL": "30"
+}

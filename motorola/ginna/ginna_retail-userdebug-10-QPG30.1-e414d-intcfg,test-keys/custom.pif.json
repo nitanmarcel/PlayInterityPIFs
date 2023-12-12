@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ginna_retail",
+  "DEVICE": "ginna",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto e7",
+  "FINGERPRINT": "motorola/ginna_retail/ginna:10/QPG30.1/e414d:userdebug/intcfg,test-keys",
+  "SECURITY_PATCH": "2019-11-05",
+  "FIRST_API_LEVEL": "29"
+}

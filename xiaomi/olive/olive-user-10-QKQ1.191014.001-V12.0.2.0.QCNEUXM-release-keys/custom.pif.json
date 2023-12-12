@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "olive_eea",
+  "DEVICE": "olive",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi 8",
+  "FINGERPRINT": "Xiaomi/olive_eea/olive:10/QKQ1.191014.001/V12.0.2.0.QCNEUXM:user/release-keys",
+  "SECURITY_PATCH": "2021-03-01",
+  "FIRST_API_LEVEL": "28"
+}

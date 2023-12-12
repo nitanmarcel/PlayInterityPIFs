@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "iris51",
+  "DEVICE": "iris51",
+  "MANUFACTURER": "LAVA",
+  "BRAND": "LAVA",
+  "MODEL": "iris51",
+  "FINGERPRINT": "LAVA/iris51/iris51:8.1.0/OPM2.171019.012/44418:user/release-keys",
+  "SECURITY_PATCH": "2018-11-05",
+  "FIRST_API_LEVEL": "27"
+}

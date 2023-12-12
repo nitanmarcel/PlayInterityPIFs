@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "CN_P875A12",
+  "DEVICE": "P875A12",
+  "MANUFACTURER": "ZTE",
+  "BRAND": "ZTE",
+  "MODEL": "ZTE A2022P",
+  "FINGERPRINT": "qti/qssi/qssi:S/SPB1.210331.013/zte05151038:user/release-keys",
+  "SECURITY_PATCH": "2021-05-05",
+  "FIRST_API_LEVEL": "30"
+}

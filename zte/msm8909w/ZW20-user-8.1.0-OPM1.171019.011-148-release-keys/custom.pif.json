@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ZW20",
+  "DEVICE": "msm8909w",
+  "MANUFACTURER": "ZTE",
+  "BRAND": "ZTE",
+  "MODEL": "ZW20",
+  "FINGERPRINT": "ZTE/ZW20/msm8909w:8.1.0/OPM1.171019.011/20200207.120017:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "27"
+}

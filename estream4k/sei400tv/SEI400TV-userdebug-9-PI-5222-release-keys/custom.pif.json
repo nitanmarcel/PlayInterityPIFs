@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "SEI400TV",
+  "DEVICE": "SEI400TV",
+  "MANUFACTURER": "SEI Robotics",
+  "BRAND": "eSTREAM4K",
+  "MODEL": "TiVo Stream 4K",
+  "FINGERPRINT": "eSTREAM4K/SEI400TV/SEI400TV:9/PI/5222:userdebug/release-keys",
+  "SECURITY_PATCH": "2020-10-05",
+  "FIRST_API_LEVEL": "28"
+}

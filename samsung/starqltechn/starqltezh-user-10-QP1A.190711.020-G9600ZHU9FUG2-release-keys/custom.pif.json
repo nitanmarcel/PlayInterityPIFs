@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "starqltezh",
+  "DEVICE": "starqltechn",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G9600",
+  "FINGERPRINT": "samsung/starqltezh/starqltechn:10/QP1A.190711.020/G9600ZHU9FUG2:user/release-keys",
+  "SECURITY_PATCH": "2021-08-01",
+  "FIRST_API_LEVEL": "26"
+}

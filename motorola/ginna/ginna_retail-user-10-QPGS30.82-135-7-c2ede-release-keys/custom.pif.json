@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ginna_retail",
+  "DEVICE": "ginna",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto e",
+  "FINGERPRINT": "motorola/ginna_retail/ginna:10/QPGS30.82-135-7/c2ede:user/release-keys",
+  "SECURITY_PATCH": "2021-06-01",
+  "FIRST_API_LEVEL": "29"
+}

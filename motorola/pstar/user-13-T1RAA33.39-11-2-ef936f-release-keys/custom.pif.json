@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "pstar_cmcc",
+  "DEVICE": "pstar",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT2153-1",
+  "FINGERPRINT": "motorola/pstar_cmcc/pstar:13/T1RAA33M.39-11-2/1008e:user/release-keys",
+  "SECURITY_PATCH": "2023-06-01",
+  "FIRST_API_LEVEL": "30"
+}

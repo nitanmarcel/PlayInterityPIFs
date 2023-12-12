@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "channel_retail",
+  "DEVICE": "channel",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(7) play",
+  "FINGERPRINT": "motorola/channel_retail/channel:10/QPYS30.52-22-14/d965a:user/release-keys",
+  "SECURITY_PATCH": "2021-02-01",
+  "FIRST_API_LEVEL": "28"
+}

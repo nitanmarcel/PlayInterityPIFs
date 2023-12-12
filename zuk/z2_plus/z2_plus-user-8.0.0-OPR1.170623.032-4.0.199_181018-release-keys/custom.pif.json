@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "z2_plus",
+  "DEVICE": "z2_plus",
+  "MANUFACTURER": "ZUK",
+  "BRAND": "ZUK",
+  "MODEL": "ZUK Z2131",
+  "FINGERPRINT": "ZUK/z2_plus/z2_plus:8.0.0/OPR1.170623.032/4.0.199_181018:user/release-keys",
+  "SECURITY_PATCH": "2018-08-01",
+  "FIRST_API_LEVEL": "21"
+}

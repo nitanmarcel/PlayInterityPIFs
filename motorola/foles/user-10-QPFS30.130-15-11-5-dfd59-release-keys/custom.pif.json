@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "foles_retail",
+  "DEVICE": "foles",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto z4",
+  "FINGERPRINT": "motorola/foles_retail/foles:10/QPFS30.130-15-11-5/dfd59:user/release-keys",
+  "SECURITY_PATCH": "2020-07-01",
+  "FIRST_API_LEVEL": "28"
+}

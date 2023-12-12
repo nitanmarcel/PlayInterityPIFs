@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "jacarandapro_open",
+  "DEVICE": "jacarandapro",
+  "MANUFACTURER": "vsmart",
+  "BRAND": "vsmart",
+  "MODEL": "Aris Pro",
+  "FINGERPRINT": "vsmart/jacarandapro_open/jacarandapro:11/RKQ1.200928.002/V741A_OPN_U_B6_210419:user/release-keys",
+  "SECURITY_PATCH": "2021-04-01",
+  "FIRST_API_LEVEL": "29"
+}

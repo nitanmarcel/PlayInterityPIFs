@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a20ub",
+  "DEVICE": "a20",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A205G",
+  "FINGERPRINT": "samsung/a20ub/a20:9/PPR1.180610.011/A205GUBU4ASK2:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "28"
+}

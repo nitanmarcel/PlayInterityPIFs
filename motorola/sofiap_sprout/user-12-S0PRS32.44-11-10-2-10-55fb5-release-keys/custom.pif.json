@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sofiap_ao",
+  "DEVICE": "sofiap_sprout",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g pro",
+  "FINGERPRINT": "motorola/sofiap_ao/sofiap_sprout:12/S0PRS32M.44-11-10-2-10/e6a8b:user/release-keys",
+  "SECURITY_PATCH": "2022-07-01",
+  "FIRST_API_LEVEL": "29"
+}

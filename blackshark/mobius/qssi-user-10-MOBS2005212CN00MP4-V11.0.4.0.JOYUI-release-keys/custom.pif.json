@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "MBU-A0",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "blackshark",
+  "BRAND": "blackshark",
+  "MODEL": "SHARK MBU-A0",
+  "FINGERPRINT": "blackshark/MBU-A0/mobius:10/MOBS2005212CN00MP4/V11.0.4.0.JOYUI:user/release-keys",
+  "SECURITY_PATCH": "2020-03-01",
+  "FIRST_API_LEVEL": "29"
+}

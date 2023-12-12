@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rtwo_g",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 30 pro",
+  "FINGERPRINT": "motorola/rtwo_g/msi:13/TTR33M.88/47:user/release-keys",
+  "SECURITY_PATCH": "2022-09-05",
+  "FIRST_API_LEVEL": "32"
+}

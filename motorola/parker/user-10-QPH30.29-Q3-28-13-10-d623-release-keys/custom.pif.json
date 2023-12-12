@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "parker_retail",
+  "DEVICE": "parker",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola one zoom",
+  "FINGERPRINT": "motorola/parker_retail/parker:10/QPH30.29-Q3-28-13-10/d623:user/release-keys",
+  "SECURITY_PATCH": "2020-11-01",
+  "FIRST_API_LEVEL": "28"
+}

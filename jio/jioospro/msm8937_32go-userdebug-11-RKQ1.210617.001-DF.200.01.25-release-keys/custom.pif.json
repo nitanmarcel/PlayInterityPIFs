@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "jioospro",
+  "DEVICE": "jioospro",
+  "MANUFACTURER": "BlueBank",
+  "BRAND": "Jio",
+  "MODEL": "LS-5035",
+  "FINGERPRINT": "Jio/jioospro/jioospro:11/RKQ1.210617.001/DF.200.01.25:userdebug/release-keys",
+  "SECURITY_PATCH": "2021-06-05",
+  "FIRST_API_LEVEL": "30"
+}

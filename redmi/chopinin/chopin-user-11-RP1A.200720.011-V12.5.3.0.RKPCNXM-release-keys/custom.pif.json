@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "chopin",
+  "DEVICE": "chopin",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "redmi",
+  "MODEL": "chopin",
+  "FINGERPRINT": "redmi/chopin/chopin:11/RP1A.200720.011/V12.5.3.0.RKPCNXM:user/release-keys",
+  "SECURITY_PATCH": "2021-05-01",
+  "FIRST_API_LEVEL": "30"
+}

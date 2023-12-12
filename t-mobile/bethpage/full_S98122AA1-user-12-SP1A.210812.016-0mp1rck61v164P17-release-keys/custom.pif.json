@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Bethpage",
+  "DEVICE": "Bethpage",
+  "MANUFACTURER": "Wingtech",
+  "BRAND": "T-Mobile",
+  "MODEL": "TMAF025G",
+  "FINGERPRINT": "T-Mobile/Bethpage/Bethpage:12/SP1A.210812.016/SW_S98122AA1_V050:user/release-keys",
+  "SECURITY_PATCH": "2022-07-05",
+  "FIRST_API_LEVEL": "31"
+}

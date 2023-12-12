@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "Sony",
+  "BRAND": "Sony",
+  "MODEL": "Qssi",
+  "FINGERPRINT": "Sony/qssi/qssi:13/TKQ1.220807.001/1:user/release-keys",
+  "SECURITY_PATCH": "2022-11-01",
+  "FIRST_API_LEVEL": "30"
+}

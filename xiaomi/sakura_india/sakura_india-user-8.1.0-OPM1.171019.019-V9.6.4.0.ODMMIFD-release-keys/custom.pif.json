@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sakura_india",
+  "DEVICE": "sakura_india",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Redmi 6 Pro",
+  "FINGERPRINT": "xiaomi/sakura_india/sakura_india:8.1.0/OPM1.171019.019/V9.6.4.0.ODMMIFD:user/release-keys",
+  "SECURITY_PATCH": "2018-07-01",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "pstar_retail",
+  "DEVICE": "pstar",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 20 pro",
+  "FINGERPRINT": "motorola/pstar_retail/pstar:13/T1RA33M.55-15-10/aac78:user/release-keys",
+  "SECURITY_PATCH": "2023-03-01",
+  "FIRST_API_LEVEL": "30"
+}

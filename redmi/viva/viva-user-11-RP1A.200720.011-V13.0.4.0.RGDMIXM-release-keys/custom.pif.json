@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "viva_global",
+  "DEVICE": "viva",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "viva",
+  "FINGERPRINT": "Redmi/viva_global/viva:11/RP1A.200720.011/V13.0.4.0.RGDMIXM:user/release-keys",
+  "SECURITY_PATCH": "2022-02-01",
+  "FIRST_API_LEVEL": "30"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "flashlmdd_lao_com",
+  "DEVICE": "flashlmdd",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-V500",
+  "FINGERPRINT": "lge/flashlmdd_lao_com/flashlmdd:9/PKQ1.190223.001/192032055e5c2:user/release-keys",
+  "SECURITY_PATCH": "2019-07-01",
+  "FIRST_API_LEVEL": "28"
+}

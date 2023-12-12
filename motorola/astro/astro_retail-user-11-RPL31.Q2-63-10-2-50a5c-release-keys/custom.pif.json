@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "astro_retail",
+  "DEVICE": "astro",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola one fusion",
+  "FINGERPRINT": "motorola/astro_retail/astro:11/RPL31.Q2-63-10-2/50a5c:user/release-keys",
+  "SECURITY_PATCH": "2021-06-01",
+  "FIRST_API_LEVEL": "29"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "willow",
+  "DEVICE": "willow",
+  "MANUFACTURER": "Redmi",
+  "BRAND": "xiaomi",
+  "MODEL": "willow",
+  "FINGERPRINT": "xiaomi/willow/willow:9/PKQ1.190416.001/lilin06271657:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-07-05",
+  "FIRST_API_LEVEL": "28"
+}

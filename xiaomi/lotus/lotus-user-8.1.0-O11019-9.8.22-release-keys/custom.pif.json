@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lotus",
+  "DEVICE": "lotus",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "MI PLAY",
+  "FINGERPRINT": "xiaomi/lotus/lotus:8.1.0/O11019/9.8.22:user/release-keys",
+  "SECURITY_PATCH": "2019-08-01",
+  "FIRST_API_LEVEL": "27"
+}

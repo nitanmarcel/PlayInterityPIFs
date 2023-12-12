@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "vnd_camellia",
+  "DEVICE": "camellia",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "camellia",
+  "FINGERPRINT": "Redmi/vnd_camellia/camellia:11/RP1A.200720.011/V12.5.5.0.RKSMIXM:user/release-keys",
+  "SECURITY_PATCH": "2022-03-01",
+  "FIRST_API_LEVEL": "30"
+}

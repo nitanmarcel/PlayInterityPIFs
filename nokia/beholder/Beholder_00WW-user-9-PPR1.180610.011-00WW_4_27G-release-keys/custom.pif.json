@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "fih_sdm845_AOP_00WW",
+  "DEVICE": "fih_sdm845",
+  "MANUFACTURER": "Unknown",
+  "BRAND": "Unkown",
+  "MODEL": "AOP",
+  "FINGERPRINT": "Nokia/Beholder_00WW/fih_sdm845:9/PPR1.180610.011/00WW_4_27G:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "28"
+}

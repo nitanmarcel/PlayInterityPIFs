@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "mido",
+  "DEVICE": "mido",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Redmi Note 4X",
+  "FINGERPRINT": "xiaomi/mido/mido:7.0/NRD90M/9.7.4:user/release-keys",
+  "SECURITY_PATCH": "2018-12-01",
+  "FIRST_API_LEVEL": "23"
+}

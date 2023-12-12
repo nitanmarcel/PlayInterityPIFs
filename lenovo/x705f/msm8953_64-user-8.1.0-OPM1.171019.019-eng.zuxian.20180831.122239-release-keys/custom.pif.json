@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "LenovoTB-X705F",
+  "DEVICE": "X705F",
+  "MANUFACTURER": "LENOVO",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo TB-X705F",
+  "FINGERPRINT": "Lenovo/LenovoTB-X705F/X705F:8.1.0/OPM1.171019.019/S000017_180831_ROW:user/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "27"
+}

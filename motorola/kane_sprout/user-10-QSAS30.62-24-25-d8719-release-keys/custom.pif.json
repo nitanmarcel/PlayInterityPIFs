@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "kane_retail",
+  "DEVICE": "kane_sprout",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola one vision",
+  "FINGERPRINT": "motorola/kane_retail/kane_sprout:10/QSAS30.62-24-25/d8719:user/release-keys",
+  "SECURITY_PATCH": "2021-07-01",
+  "FIRST_API_LEVEL": "28"
+}

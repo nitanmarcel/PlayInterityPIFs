@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "PQ4002_vsmart",
+  "DEVICE": "PQ4002",
+  "MANUFACTURER": "vsmart",
+  "BRAND": "vsmart",
+  "MODEL": "Joy 1+",
+  "FINGERPRINT": "vsmart/PQ4002_vsmart/PQ4002:8.1.0/OPM1.171019.026/452:user/release-keys",
+  "SECURITY_PATCH": "2019-04-01",
+  "FIRST_API_LEVEL": "27"
+}

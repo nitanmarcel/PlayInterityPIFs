@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "M6",
+  "DEVICE": "M030P",
+  "MANUFACTURER": "BLU",
+  "BRAND": "BLU",
+  "MODEL": "M6",
+  "FINGERPRINT": "BLU/M6/M030P:8.1.0/O11019/1557213970:user/release-keys",
+  "SECURITY_PATCH": "2019-04-05",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "missi",
+  "DEVICE": "missi",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "alps",
+  "MODEL": "missi",
+  "FINGERPRINT": "alps/missi/missi:12/SP1A.210812.016/V13.0.2.0.SCVINXM:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "FIRST_API_LEVEL": "31"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ss80x_64",
+  "DEVICE": "ss80x_64",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "Qualcomm",
+  "MODEL": "ss80x_64",
+  "FINGERPRINT": "Fibocom/ss80x_64/ss80x_64:9/PKQ1.190414.001/jiangds11271145:user/test-keys",
+  "SECURITY_PATCH": "2020-03-05",
+  "FIRST_API_LEVEL": "28"
+}

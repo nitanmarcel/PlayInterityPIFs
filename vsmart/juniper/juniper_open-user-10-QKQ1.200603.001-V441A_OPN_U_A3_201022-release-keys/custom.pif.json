@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "juniper_open",
+  "DEVICE": "juniper",
+  "MANUFACTURER": "vsmart",
+  "BRAND": "vsmart",
+  "MODEL": "Joy 4",
+  "FINGERPRINT": "vsmart/juniper_open/juniper:10/QKQ1.200603.001/V441A_OPN_U_A3_201022:user/release-keys",
+  "SECURITY_PATCH": "2020-10-01",
+  "FIRST_API_LEVEL": "29"
+}

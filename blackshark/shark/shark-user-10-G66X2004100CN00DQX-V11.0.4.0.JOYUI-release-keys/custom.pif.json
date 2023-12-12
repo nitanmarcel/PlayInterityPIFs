@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "SKR-A0",
+  "DEVICE": "shark",
+  "MANUFACTURER": "blackshark",
+  "BRAND": "blackshark",
+  "MODEL": "SKR-A0",
+  "FINGERPRINT": "blackshark/SKR-A0/shark:10/G66X2004100CN00DQX/V11.0.0.0.QG66XCN:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "27"
+}

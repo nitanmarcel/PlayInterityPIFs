@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "laurel_sprout",
+  "DEVICE": "laurel_sprout",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "Xiaomi",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "Xiaomi/laurel_sprout/laurel_sprout:11/RKQ1.200903.002/V12.0.11.0.RFQMIXM:user/release-keys",
+  "SECURITY_PATCH": "2021-06-05",
+  "FIRST_API_LEVEL": "28"
+}

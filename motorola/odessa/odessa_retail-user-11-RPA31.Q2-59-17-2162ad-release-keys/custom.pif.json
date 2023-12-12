@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "odessa_retail",
+  "DEVICE": "odessa",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(9) plus",
+  "FINGERPRINT": "motorola/odessa_retail/odessa:11/RPA31.Q2-59-17/2162ad:user/release-keys",
+  "SECURITY_PATCH": "2021-07-01",
+  "FIRST_API_LEVEL": "29"
+}

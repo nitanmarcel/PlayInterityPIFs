@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "zeekr_cn",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT2321-2",
+  "FINGERPRINT": "motorola/zeekr_cn/msi:13/T2TZ33M.18-16-19/109fe:user/release-keys",
+  "SECURITY_PATCH": "2023-05-01",
+  "FIRST_API_LEVEL": "32"
+}

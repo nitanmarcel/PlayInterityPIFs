@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "WW_Phone",
+  "DEVICE": "ASUS_X00ID",
+  "MANUFACTURER": "asus",
+  "BRAND": "asus",
+  "MODEL": "",
+  "FINGERPRINT": "asus/WW_Phone/ASUS_X00ID:9/PKQ1.181203.001/16.0200.1907.28-20190708:user/release-keys",
+  "SECURITY_PATCH": "2019-07-05",
+  "FIRST_API_LEVEL": "28"
+}

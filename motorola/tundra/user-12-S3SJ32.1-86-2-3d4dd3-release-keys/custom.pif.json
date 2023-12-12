@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "tundra_g",
+  "DEVICE": "tundra",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 30 fusion",
+  "FINGERPRINT": "motorola/tundra_g/tundra:12/S3SJ32M.1-86-2/192ca:user/release-keys",
+  "SECURITY_PATCH": "2022-11-01",
+  "FIRST_API_LEVEL": "31"
+}

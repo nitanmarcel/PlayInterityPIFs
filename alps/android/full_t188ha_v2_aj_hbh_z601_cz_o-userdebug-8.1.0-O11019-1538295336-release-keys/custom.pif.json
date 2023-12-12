@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Android",
+  "DEVICE": "Android",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "Android",
+  "FINGERPRINT": "alps/Android/Android:8.1.0/O11019/1538295336:userdebug/release-keys",
+  "SECURITY_PATCH": "2018-09-05",
+  "FIRST_API_LEVEL": "27"
+}

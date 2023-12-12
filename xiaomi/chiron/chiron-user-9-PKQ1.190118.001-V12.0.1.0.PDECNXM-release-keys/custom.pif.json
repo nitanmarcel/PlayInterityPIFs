@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "chiron",
+  "DEVICE": "chiron",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MIX 2",
+  "FINGERPRINT": "Xiaomi/chiron/chiron:9/PKQ1.190118.001/V12.0.1.0.PDECNXM:user/release-keys",
+  "SECURITY_PATCH": "2019-09-01",
+  "FIRST_API_LEVEL": "25"
+}

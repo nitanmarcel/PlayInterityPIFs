@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "vr_monterey",
+  "DEVICE": "monterey",
+  "MANUFACTURER": "Oculus",
+  "BRAND": "oculus",
+  "MODEL": "Quest",
+  "FINGERPRINT": "oculus/vr_monterey/monterey:7.1.1/NGI77B/256550.6810.0:user/release-keys",
+  "SECURITY_PATCH": "2017-10-05",
+  "FIRST_API_LEVEL": "25"
+}

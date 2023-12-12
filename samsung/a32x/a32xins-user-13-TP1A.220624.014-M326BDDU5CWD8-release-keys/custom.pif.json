@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a32xins",
+  "DEVICE": "a32x",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-M326B",
+  "FINGERPRINT": "samsung/a32xins/a32x:13/TP1A.220624.014/M326BDDU5CWD8:user/release-keys",
+  "SECURITY_PATCH": "2023-04-01",
+  "FIRST_API_LEVEL": "30"
+}

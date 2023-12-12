@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sofiar_retail",
+  "DEVICE": "sofiar",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(8) power",
+  "FINGERPRINT": "motorola/sofiar_retail/sofiar:10/QPES30.79-124-2/42d236:user/release-keys",
+  "SECURITY_PATCH": "2020-07-01",
+  "FIRST_API_LEVEL": "29"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ysl",
+  "DEVICE": "ysl",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Redmi S2",
+  "FINGERPRINT": "xiaomi/ysl/ysl:9/PKQ1.181203.001/V12.0.2.0.PEFMIXM:user/release-keys",
+  "SECURITY_PATCH": "2020-09-01",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "CN_I005D",
+  "DEVICE": "ASUS_I005_1",
+  "MANUFACTURER": "asus",
+  "BRAND": "asus",
+  "MODEL": "ASUS_I005D",
+  "FINGERPRINT": "asus/CN_I005D/ASUS_I005_1:11/RKQ1.210303.002/18.1220.2107.108-0:user/release-keys",
+  "SECURITY_PATCH": "2021-07-05",
+  "FIRST_API_LEVEL": "30"
+}

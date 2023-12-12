@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "bloomque",
+  "DEVICE": "bloomq",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-F700U1",
+  "FINGERPRINT": "samsung/bloomque/bloomq:10/QP1A.190711.020/F700U1UEU1ATAK:user/release-keys",
+  "SECURITY_PATCH": "2020-01-01",
+  "FIRST_API_LEVEL": "29"
+}

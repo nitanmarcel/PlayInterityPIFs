@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "WW_I003D",
+  "DEVICE": "ASUS_I003_1",
+  "MANUFACTURER": "asus",
+  "BRAND": "asus",
+  "MODEL": "ASUS_I003DD",
+  "FINGERPRINT": "asus/WW_I003D/ASUS_I003_1:12/SKQ1.210821.001/31.0210.0210.272-0:user/release-keys",
+  "SECURITY_PATCH": "2023-04-01",
+  "FIRST_API_LEVEL": "28"
+}

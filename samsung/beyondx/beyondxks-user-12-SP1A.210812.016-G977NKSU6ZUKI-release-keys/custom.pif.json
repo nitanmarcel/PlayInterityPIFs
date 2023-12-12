@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "beyondxks",
+  "DEVICE": "beyondx",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G977N",
+  "FINGERPRINT": "samsung/beyondxks/beyondx:12/SP1A.210812.016/G977NKSU6ZUKI:user/release-keys",
+  "SECURITY_PATCH": "2021-12-01",
+  "FIRST_API_LEVEL": "28"
+}

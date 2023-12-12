@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "hiphic_cn",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT2201-2",
+  "FINGERPRINT": "motorola/hiphic_cn/msi:12/S3SC32M.7-42-20/df139:user/release-keys",
+  "SECURITY_PATCH": "2023-01-01",
+  "FIRST_API_LEVEL": "31"
+}

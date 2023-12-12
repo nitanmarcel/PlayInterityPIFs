@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "GM9PLUS",
+  "DEVICE": "GM9PLUS_s",
+  "MANUFACTURER": "General Mobile",
+  "BRAND": "GM",
+  "MODEL": "GM 9 Plus",
+  "FINGERPRINT": "GM/GM9PLUS/GM9PLUS_s:9/PPR1.180610.011/P.9PL.2001.A-s:user/release-keys",
+  "SECURITY_PATCH": "2020-01-05",
+  "FIRST_API_LEVEL": "28"
+}

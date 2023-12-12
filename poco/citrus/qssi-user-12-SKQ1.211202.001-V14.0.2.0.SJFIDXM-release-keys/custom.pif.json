@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "POCO",
+  "MODEL": "M2010J19CG",
+  "FINGERPRINT": "POCO/qssi/qssi:12/SKQ1.211202.001/V14.0.2.0.SJFIDXM:user/release-keys",
+  "SECURITY_PATCH": "2023-04-01",
+  "FIRST_API_LEVEL": "29"
+}

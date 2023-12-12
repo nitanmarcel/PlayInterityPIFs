@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Linx_Base_4G",
+  "DEVICE": "LT5052ML",
+  "MANUFACTURER": "DIGMA",
+  "BRAND": "DIGMA",
+  "MODEL": "Linx Base 4G LT5052ML",
+  "FINGERPRINT": "DIGMA/Linx_Base_4G/LT5052ML:8.1.0/O11019/20180905:user/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "27"
+}

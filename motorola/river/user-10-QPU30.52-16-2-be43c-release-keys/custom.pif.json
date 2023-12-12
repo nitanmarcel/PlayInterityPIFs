@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "river_retail",
+  "DEVICE": "river",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(7)",
+  "FINGERPRINT": "motorola/river_retail/river:10/QPU30.52-16-2/be43c:user/release-keys",
+  "SECURITY_PATCH": "2020-04-01",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_k63v2_64_bsp",
+  "DEVICE": "k63v2_64_bsp",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "Volla Phone",
+  "FINGERPRINT": "alps/full_k63v2_64_bsp/k63v2_64_bsp:9/PPR1.180610.011/helios05091444:user/dev-keys",
+  "SECURITY_PATCH": "2020-01-05",
+  "FIRST_API_LEVEL": "28"
+}

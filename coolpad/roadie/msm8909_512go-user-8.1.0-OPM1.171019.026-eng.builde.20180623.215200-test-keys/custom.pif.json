@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "3311A",
+  "DEVICE": "Roadie",
+  "MANUFACTURER": "Yulong",
+  "BRAND": "Coolpad",
+  "MODEL": "3311A",
+  "FINGERPRINT": "qcom/msm8909_512go/msm8909_512go:8.1.0/OPM1.171019.026/builde06232152:user/test-keys",
+  "SECURITY_PATCH": "2018-04-05",
+  "FIRST_API_LEVEL": "27"
+}

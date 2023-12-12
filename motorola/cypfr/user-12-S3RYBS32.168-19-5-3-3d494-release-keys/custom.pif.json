@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cypfr_g",
+  "DEVICE": "cypfr",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g52j 5G",
+  "FINGERPRINT": "motorola/cypfr_g/cypfr:12/S3RYBS32M.168-19-5-3/5e11d:user/release-keys",
+  "SECURITY_PATCH": "2023-04-01",
+  "FIRST_API_LEVEL": "30"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "meizu_note8_EEA",
+  "DEVICE": "meizunote8",
+  "MANUFACTURER": "Meizu",
+  "BRAND": "Meizu",
+  "MODEL": "meizu note8",
+  "FINGERPRINT": "Meizu/meizu_note8_EEA/meizunote8:8.1.0/OPM1.171019.026/1563415055:user/release-keys",
+  "SECURITY_PATCH": "2019-06-01",
+  "FIRST_API_LEVEL": "27"
+}

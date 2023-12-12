@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "V620A_open",
+  "DEVICE": "V620A",
+  "MANUFACTURER": "vsmart",
+  "BRAND": "vsmart",
+  "MODEL": "Live",
+  "FINGERPRINT": "vsmart/V620A_open/V620A:10/QKQ1.191215.002/V620A_OPN_U_B14_210717:user/release-keys",
+  "SECURITY_PATCH": "2021-07-01",
+  "FIRST_API_LEVEL": "28"
+}

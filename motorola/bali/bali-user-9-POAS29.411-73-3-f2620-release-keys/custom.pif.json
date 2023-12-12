@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "bali",
+  "DEVICE": "bali",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto e6 play",
+  "FINGERPRINT": "motorola/bali/bali:9/POAS29.411-73-3/f2620:user/release-keys",
+  "SECURITY_PATCH": "2019-11-05",
+  "FIRST_API_LEVEL": "28"
+}

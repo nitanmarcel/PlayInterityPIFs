@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sys_mssi_64_cn",
+  "DEVICE": "mssi_64_cn",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "mssi_64_cn",
+  "FINGERPRINT": "alps/sys_mssi_64_cn/mssi_64_cn:10/QP1A.190711.020/mp1V91221:userdebug/test-keys",
+  "SECURITY_PATCH": "2020-08-05",
+  "FIRST_API_LEVEL": "29"
+}

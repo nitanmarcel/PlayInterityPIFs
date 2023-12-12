@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "LenovoTB-7306F_GO",
+  "DEVICE": "7306F",
+  "MANUFACTURER": "LENOVO",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo TB-7306F",
+  "FINGERPRINT": "Lenovo/LenovoTB-7306F_GO/7306F:11/RP1A.200720.011/S000022_210301_ROW:user/release-keys",
+  "SECURITY_PATCH": "2021-02-05",
+  "FIRST_API_LEVEL": "30"
+}

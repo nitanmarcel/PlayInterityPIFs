@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "liber_retail",
+  "DEVICE": "liber",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola one mid",
+  "FINGERPRINT": "motorola/liber_retail/liber:10/QPI30.36/a7706:userdebug/intcfg,test-keys",
+  "SECURITY_PATCH": "2020-03-01",
+  "FIRST_API_LEVEL": "29"
+}

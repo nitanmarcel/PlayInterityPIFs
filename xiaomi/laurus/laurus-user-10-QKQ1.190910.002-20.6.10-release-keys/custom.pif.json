@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "laurus",
+  "DEVICE": "laurus",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI CC 9e",
+  "FINGERPRINT": "Xiaomi/laurus/laurus:10/QKQ1.190910.002/20.6.10:user/release-keys",
+  "SECURITY_PATCH": "2020-06-01",
+  "FIRST_API_LEVEL": "28"
+}

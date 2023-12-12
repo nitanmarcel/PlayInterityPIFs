@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "aio_otfp",
+  "DEVICE": "K50a40",
+  "MANUFACTURER": "LENOVO",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo K50a40",
+  "FINGERPRINT": "Lenovo/aio_otfp/K50a40:6.0/MRA58K/K50a40_S433_160909_ROW:user/release-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "FIRST_API_LEVEL": "23"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "FP3",
+  "DEVICE": "FP3",
+  "MANUFACTURER": "Fairphone",
+  "BRAND": "Fairphone",
+  "MODEL": "FP3",
+  "FINGERPRINT": "Fairphone/FP3/FP3:11/8901.4.A.0010/gms-f74c58a8:user/release-keys",
+  "SECURITY_PATCH": "2022-04-05",
+  "FIRST_API_LEVEL": "28"
+}

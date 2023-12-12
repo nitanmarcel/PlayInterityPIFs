@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a20exx",
+  "DEVICE": "a20e",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A202F",
+  "FINGERPRINT": "samsung/a20exx/a20e:9/PPR1.180610.011/A202FXXS2ASL1:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "xihu",
+  "DEVICE": "msm8909w",
+  "MANUFACTURER": "Huami",
+  "BRAND": "Huami",
+  "MODEL": "Amazfit Smartwatch2",
+  "FINGERPRINT": "Huami/xihu/msm8909w:8.1.0/OPM1.171019.011/ubuntu06171908:user/release-keys",
+  "SECURITY_PATCH": "2017-12-05",
+  "FIRST_API_LEVEL": "27"
+}

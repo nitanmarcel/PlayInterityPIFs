@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a70qxx",
+  "DEVICE": "a70q",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A705FN",
+  "FINGERPRINT": "samsung/a70qxx/a70q:11/RP1A.200720.012/A705FNXXU5DUI1:user/release-keys",
+  "SECURITY_PATCH": "2021-09-01",
+  "FIRST_API_LEVEL": "28"
+}

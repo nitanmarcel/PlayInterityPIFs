@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "XP8812",
+  "DEVICE": "XP8800",
+  "MANUFACTURER": "Sonimtech",
+  "BRAND": "Sonim",
+  "MODEL": "XP8800",
+  "FINGERPRINT": "Sonim/XP8812/XP8800:8.1.0/8A.0.5-11-8.1.0-10.54.00/29:user/release-keys",
+  "SECURITY_PATCH": "2019-07-01",
+  "FIRST_API_LEVEL": "25"
+}

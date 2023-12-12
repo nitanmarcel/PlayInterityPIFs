@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "dipper_old",
+  "DEVICE": "dipper_old",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "dipper_old",
+  "FINGERPRINT": "Xiaomi/dipper_old/dipper_old:8.1.0/OPM1.171019.011/8.4.10:user/release-keys",
+  "SECURITY_PATCH": "2018-03-05",
+  "FIRST_API_LEVEL": "26"
+}

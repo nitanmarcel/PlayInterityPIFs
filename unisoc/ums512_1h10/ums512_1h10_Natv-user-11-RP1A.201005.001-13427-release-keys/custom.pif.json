@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ums512_1h10_Natv",
+  "DEVICE": "ums512_1h10",
+  "MANUFACTURER": "UNISOC",
+  "BRAND": "UNISOC",
+  "MODEL": "ums512_1h10_Natv",
+  "FINGERPRINT": "UNISOC/ums512_1h10_Natv/ums512_1h10:11/RP1A.201005.001/13427:user/release-keys",
+  "SECURITY_PATCH": "2021-04-05",
+  "FIRST_API_LEVEL": "30"
+}

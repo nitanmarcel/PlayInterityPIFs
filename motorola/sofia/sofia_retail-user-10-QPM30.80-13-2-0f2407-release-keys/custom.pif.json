@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sofia_retail",
+  "DEVICE": "sofia",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g power",
+  "FINGERPRINT": "motorola/sofia_retail/sofia:10/QPM30.80-13-2/0f2407:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "29"
+}

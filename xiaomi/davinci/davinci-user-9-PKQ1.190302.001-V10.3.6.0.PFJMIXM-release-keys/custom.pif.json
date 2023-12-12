@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "davinci",
+  "DEVICE": "davinci",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Mi 9T",
+  "FINGERPRINT": "Xiaomi/davinci/davinci:9/PKQ1.190302.001/V10.3.6.0.PFJMIXM:user/release-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "FIRST_API_LEVEL": "28"
+}

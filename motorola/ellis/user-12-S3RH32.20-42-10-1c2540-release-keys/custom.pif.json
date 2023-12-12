@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ellis_retail",
+  "DEVICE": "ellis",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g pure",
+  "FINGERPRINT": "motorola/ellis_retail/ellis:12/S3RH32.20-42-10/1c2540:user/release-keys",
+  "SECURITY_PATCH": "2022-08-01",
+  "FIRST_API_LEVEL": "30"
+}

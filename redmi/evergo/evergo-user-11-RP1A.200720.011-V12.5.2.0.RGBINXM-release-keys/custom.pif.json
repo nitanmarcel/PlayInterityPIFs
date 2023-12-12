@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "evergo_in",
+  "DEVICE": "evergo",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "evergo",
+  "FINGERPRINT": "Redmi/evergo_in/evergo:11/RP1A.200720.011/V12.5.2.0.RGBINXM:user/release-keys",
+  "SECURITY_PATCH": "2021-12-05",
+  "FIRST_API_LEVEL": "30"
+}

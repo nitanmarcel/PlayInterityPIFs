@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "Honeywell",
+  "BRAND": "qti",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "qti/qssi/qssi:12/412.01.05-N/0056:user/release-keys",
+  "SECURITY_PATCH": "2023-04-05",
+  "FIRST_API_LEVEL": "30"
+}

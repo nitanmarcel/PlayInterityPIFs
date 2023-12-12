@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "liber_retail",
+  "DEVICE": "liber",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola one fusion+",
+  "FINGERPRINT": "motorola/liber_retail/liber:10/QPIS30.73-33-2/90024:user/release-keys",
+  "SECURITY_PATCH": "2021-01-01",
+  "FIRST_API_LEVEL": "29"
+}

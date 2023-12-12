@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "missi_pad_global",
+  "DEVICE": "missi",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "missi_pad_global system image for arm64",
+  "FINGERPRINT": "qti/missi_pad_global/missi:13/TKQ1.221114.001/V14.0.2.0.TMUTWXM:user/release-keys",
+  "SECURITY_PATCH": "2023-08-01",
+  "FIRST_API_LEVEL": "32"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "dm2qxxx",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-S916B",
+  "FINGERPRINT": "samsung/dm2qxxx/qssi:14/UP1A.230905.011/S916BXXU3ZWHO:user/release-keys",
+  "SECURITY_PATCH": "2023-09-01",
+  "FIRST_API_LEVEL": "30"
+}

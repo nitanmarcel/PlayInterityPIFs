@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "F1",
+  "DEVICE": "F1",
+  "MANUFACTURER": "WE",
+  "BRAND": "WE",
+  "MODEL": "F1",
+  "FINGERPRINT": "WE/F1/F1:8.1.0/O11019/1538132684:user/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "27"
+}

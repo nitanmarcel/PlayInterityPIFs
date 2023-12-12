@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "fih_msm8937_32go",
+  "DEVICE": "fih_msm8937_32go",
+  "MANUFACTURER": "Essential",
+  "BRAND": "Android",
+  "MODEL": "FIH-E2M",
+  "FINGERPRINT": "Android/fih_msm8937_32go/fih_msm8937_32go:9/PKQ1.180819.001/wzhang09231655:userdebug/test-keys",
+  "SECURITY_PATCH": "2018-10-01",
+  "FIRST_API_LEVEL": "28"
+}

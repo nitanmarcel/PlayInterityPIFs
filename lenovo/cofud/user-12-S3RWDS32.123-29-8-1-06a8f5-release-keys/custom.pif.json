@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cofud_l",
+  "DEVICE": "cofud",
+  "MANUFACTURER": "lenovo",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo K14 Note",
+  "FINGERPRINT": "Lenovo/cofud_l/cofud:12/S3RWDS32.123-29-8-1/06a8f5:user/release-keys",
+  "SECURITY_PATCH": "2023-04-01",
+  "FIRST_API_LEVEL": "30"
+}

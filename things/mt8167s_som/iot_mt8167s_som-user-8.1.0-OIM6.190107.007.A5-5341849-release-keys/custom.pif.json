@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "iot_mt8167s_som",
+  "DEVICE": "mt8167s_som",
+  "MANUFACTURER": "Google",
+  "BRAND": "Things",
+  "MODEL": "iot_mt8167s_som",
+  "FINGERPRINT": "Things/iot_mt8167s_som/mt8167s_som:8.1.0/OIM6.190107.007.A5/5341849:user/release-keys",
+  "SECURITY_PATCH": "2019-02-05",
+  "FIRST_API_LEVEL": "27"
+}

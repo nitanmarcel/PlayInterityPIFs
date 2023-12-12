@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "HydrogenONE",
+  "DEVICE": "HydrogenONE",
+  "MANUFACTURER": "RED",
+  "BRAND": "RED",
+  "MODEL": "H1A1000",
+  "FINGERPRINT": "RED/HydrogenONE/HydrogenONE:9/PKQ1.190118.001/118:userdebug/release-keys",
+  "SECURITY_PATCH": "2019-04-05",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Atom_L_EEA",
+  "DEVICE": "Atom_L",
+  "MANUFACTURER": "Unihertz",
+  "BRAND": "Unihertz",
+  "MODEL": "Atom_L",
+  "FINGERPRINT": "Unihertz/Atom_L_EEA/Atom_L:11/RP1A.200720.011/root.20210722.143145:user/release-keys",
+  "SECURITY_PATCH": "2021-07-05",
+  "FIRST_API_LEVEL": "29"
+}

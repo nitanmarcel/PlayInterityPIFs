@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_k63v1us_64_bsp_na_cxp",
+  "DEVICE": "k63v1us_64_bsp",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "k63v1us_64_bsp_na_cxp",
+  "FINGERPRINT": "alps/full_k63v1us_64_bsp_na_cxp/k63v1us_64_bsp:8.1.0/O11019/1534824801:userdebug/dev-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "26"
+}

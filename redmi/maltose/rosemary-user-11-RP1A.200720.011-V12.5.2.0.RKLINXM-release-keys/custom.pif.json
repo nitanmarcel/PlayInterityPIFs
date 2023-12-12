@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rosemary",
+  "DEVICE": "rosemary",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "rosemary",
+  "FINGERPRINT": "Redmi/rosemary/rosemary:11/RP1A.200720.011/V12.5.2.0.RKLINXM:user/release-keys",
+  "SECURITY_PATCH": "2021-04-01",
+  "FIRST_API_LEVEL": "30"
+}

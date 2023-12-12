@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sofia_retail",
+  "DEVICE": "sofia",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g power",
+  "FINGERPRINT": "motorola/sofia_retail/sofia:11/RPM31.Q1-54-13-4-1/84cca:user/release-keys",
+  "SECURITY_PATCH": "2021-06-01",
+  "FIRST_API_LEVEL": "29"
+}

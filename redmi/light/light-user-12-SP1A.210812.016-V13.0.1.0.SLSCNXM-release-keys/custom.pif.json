@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "light",
+  "DEVICE": "light",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "22041219G",
+  "FINGERPRINT": "Redmi/light/light:12/SP1A.210812.016/V13.0.1.0.SLSCNXM:user/release-keys",
+  "SECURITY_PATCH": "2022-02-01",
+  "FIRST_API_LEVEL": "31"
+}

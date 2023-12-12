@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "devon_g",
+  "DEVICE": "devon",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g32",
+  "FINGERPRINT": "motorola/devon_g/devon:13/T2SN33M.73-22-3/b531e:user/release-keys",
+  "SECURITY_PATCH": "2023-10-01",
+  "FIRST_API_LEVEL": "31"
+}

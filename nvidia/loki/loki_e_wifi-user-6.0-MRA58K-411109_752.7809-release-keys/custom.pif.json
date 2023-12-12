@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "loki_e_wifi",
+  "DEVICE": "loki",
+  "MANUFACTURER": "NVIDIA",
+  "BRAND": "NVIDIA",
+  "MODEL": "SHIELD Portable",
+  "FINGERPRINT": "NVIDIA/loki_e_wifi/loki:6.0/MRA58K/411109_752.7809:user/release-keys",
+  "FIRST_API_LEVEL": "23"
+}

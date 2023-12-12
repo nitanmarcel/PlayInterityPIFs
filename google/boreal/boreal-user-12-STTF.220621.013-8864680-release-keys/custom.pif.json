@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "boreal",
+  "DEVICE": "boreal",
+  "MANUFACTURER": "Google",
+  "BRAND": "google",
+  "MODEL": "Chromecast HD",
+  "FINGERPRINT": "google/boreal/boreal:12/STTF.220621.013/8864680:user/release-keys",
+  "SECURITY_PATCH": "2022-05-01",
+  "FIRST_API_LEVEL": "31"
+}

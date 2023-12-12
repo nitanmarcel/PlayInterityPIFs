@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "m51nsxx",
+  "DEVICE": "m51",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-M515F",
+  "FINGERPRINT": "samsung/m51nsxx/m51:11/RP1A.200720.012/M515FXXU3CUH2:user/release-keys",
+  "SECURITY_PATCH": "2021-06-01",
+  "FIRST_API_LEVEL": "29"
+}

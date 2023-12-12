@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a10eue",
+  "DEVICE": "a10e",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A102U1",
+  "FINGERPRINT": "samsung/a10eue/a10e:9/PPR1.180610.011/A102U1UES4ASK1:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "28"
+}

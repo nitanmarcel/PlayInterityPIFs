@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "WW_I006D",
+  "DEVICE": "ASUS_I006D",
+  "MANUFACTURER": "asus",
+  "BRAND": "asus",
+  "MODEL": "ASUS_I006D",
+  "FINGERPRINT": "asus/OPEN_I006D/ASUS_I006D:11/RKQ1.200903.002/30.02.46.97:userdebug/test-keys",
+  "SECURITY_PATCH": "2020-10-05",
+  "FIRST_API_LEVEL": "30"
+}

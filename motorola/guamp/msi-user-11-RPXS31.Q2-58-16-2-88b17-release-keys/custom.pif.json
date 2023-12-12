@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "msi",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "Motorola System Image",
+  "FINGERPRINT": "motorola/msi/msi:11/RPXS31.Q2-58-16-2/88b17:user/release-keys",
+  "SECURITY_PATCH": "2021-07-01",
+  "FIRST_API_LEVEL": "29"
+}

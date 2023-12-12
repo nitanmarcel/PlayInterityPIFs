@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Luna",
+  "DEVICE": "Luna",
+  "MANUFACTURER": "Unihertz",
+  "BRAND": "Unihertz",
+  "MODEL": "Luna",
+  "FINGERPRINT": "Unihertz/Luna/Luna:12/SP1A.210812.016/root.20221216.184036:user/release-keys",
+  "SECURITY_PATCH": "2022-12-05",
+  "FIRST_API_LEVEL": "31"
+}

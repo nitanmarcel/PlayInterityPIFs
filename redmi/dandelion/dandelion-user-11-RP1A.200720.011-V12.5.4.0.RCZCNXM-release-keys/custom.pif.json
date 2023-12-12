@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "dandelion_cn",
+  "DEVICE": "dandelion",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "220233L2C",
+  "FINGERPRINT": "Redmi/dandelion_cn/dandelion:11/RP1A.200720.011/V12.5.4.0.RCZCNXM:user/release-keys",
+  "SECURITY_PATCH": "2022-02-01",
+  "FIRST_API_LEVEL": "29"
+}

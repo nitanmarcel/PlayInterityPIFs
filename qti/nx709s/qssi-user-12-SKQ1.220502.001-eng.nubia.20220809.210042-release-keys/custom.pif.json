@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "NX709S-UN",
+  "DEVICE": "NX709S-UN",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "qti/qssi-UN/qssi-UN:12/SKQ1.220502.001/eng.nubia.20220809.210042:user/release-keys",
+  "SECURITY_PATCH": "2022-06-01",
+  "FIRST_API_LEVEL": "31"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "xihuEA",
+  "DEVICE": "msm8909w",
+  "MANUFACTURER": "Huami",
+  "BRAND": "Amazfit",
+  "MODEL": "Amazfit Nexo",
+  "FINGERPRINT": "Amazfit/xihuEA/msm8909w:8.1.0/OPM1.171019.011/ubuntu12032054:user/release-keys",
+  "SECURITY_PATCH": "2017-12-05",
+  "FIRST_API_LEVEL": "27"
+}

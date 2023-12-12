@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "adt2",
+  "DEVICE": "adt2",
+  "MANUFACTURER": "SEI Robotics",
+  "BRAND": "google",
+  "MODEL": "ADT-2",
+  "FINGERPRINT": "google/adt2/adt2:9/PTT5.190307.001/5360859:user/dev-keys",
+  "SECURITY_PATCH": "2019-04-05",
+  "FIRST_API_LEVEL": "26"
+}

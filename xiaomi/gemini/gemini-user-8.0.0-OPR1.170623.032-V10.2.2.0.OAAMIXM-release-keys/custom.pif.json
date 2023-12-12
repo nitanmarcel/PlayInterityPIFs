@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "gemini",
+  "DEVICE": "gemini",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI 5",
+  "FINGERPRINT": "Xiaomi/gemini/gemini:8.0.0/OPR1.170623.032/V10.2.2.0.OAAMIXM:user/release-keys",
+  "SECURITY_PATCH": "2018-10-01",
+  "FIRST_API_LEVEL": "23"
+}

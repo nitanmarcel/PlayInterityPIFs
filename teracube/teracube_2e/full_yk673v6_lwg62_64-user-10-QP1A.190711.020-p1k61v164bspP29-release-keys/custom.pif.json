@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Teracube_2e",
+  "DEVICE": "Teracube_2e",
+  "MANUFACTURER": "Teracube",
+  "BRAND": "Teracube",
+  "MODEL": "Teracube 2e",
+  "FINGERPRINT": "Teracube/Teracube_2e/Teracube_2e:10/QP1A.190711.020/202011161116:user/release-keys",
+  "SECURITY_PATCH": "2020-11-05",
+  "FIRST_API_LEVEL": "29"
+}

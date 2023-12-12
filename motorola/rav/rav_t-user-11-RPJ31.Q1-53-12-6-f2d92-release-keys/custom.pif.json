@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rav_t",
+  "DEVICE": "rav",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g fast",
+  "FINGERPRINT": "motorola/rav_t/rav:11/RPJ31.Q1-53-12-6/f2d92:user/release-keys",
+  "SECURITY_PATCH": "2021-06-01",
+  "FIRST_API_LEVEL": "29"
+}

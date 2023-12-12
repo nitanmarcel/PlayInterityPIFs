@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "fleur_eea",
+  "DEVICE": "fleur",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "fleur",
+  "FINGERPRINT": "Redmi/fleur_eea/fleur:11/RP1A.200720.011/V13.0.1.0.RKEEUXM:user/release-keys",
+  "SECURITY_PATCH": "2021-12-01",
+  "FIRST_API_LEVEL": "30"
+}

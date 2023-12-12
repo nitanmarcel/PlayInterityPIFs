@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "r3qxx",
+  "DEVICE": "r3q",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A908B",
+  "FINGERPRINT": "samsung/r3qxx/r3q:11/RP1A.200720.012/A908BXXU5DUE1:user/release-keys",
+  "SECURITY_PATCH": "2021-05-01",
+  "FIRST_API_LEVEL": "28"
+}

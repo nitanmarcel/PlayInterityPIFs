@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "c2sxxx",
+  "DEVICE": "essi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-N986B",
+  "FINGERPRINT": "samsung/c2sxxx/essi:13/TP1A.220624.014/N986BXXU7HWF4:user/release-keys",
+  "SECURITY_PATCH": "2023-06-01",
+  "FIRST_API_LEVEL": "29"
+}

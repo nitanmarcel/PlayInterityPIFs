@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "PRS-A0",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "blackshark",
+  "MODEL": "SHARK PRS-A0",
+  "FINGERPRINT": "blackshark/PRS-A0/penrose:11/PROS2201111CN00MR1/V12.0.1.0.RBICNBS:user/release-keys",
+  "SECURITY_PATCH": "2021-11-01",
+  "FIRST_API_LEVEL": "30"
+}

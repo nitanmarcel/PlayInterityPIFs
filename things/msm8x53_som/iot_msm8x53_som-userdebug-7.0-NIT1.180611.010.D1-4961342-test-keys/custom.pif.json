@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "iot_msm8x53_som",
+  "DEVICE": "msm8x53_som",
+  "MANUFACTURER": "Google",
+  "BRAND": "Things",
+  "MODEL": "iot_msm8x53_som",
+  "FINGERPRINT": "Things/iot_msm8x53_som/msm8x53_som:7.0/NIT1.180611.010.D1/4961342:userdebug/test-keys",
+  "SECURITY_PATCH": "2018-05-01",
+  "FIRST_API_LEVEL": "24"
+}

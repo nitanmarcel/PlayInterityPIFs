@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "VZW_Midnight",
+  "DEVICE": "WTVIS01",
+  "MANUFACTURER": "Wingtech",
+  "BRAND": "Visible",
+  "MODEL": "WTVIS01",
+  "FINGERPRINT": "Visible/VZW_Midnight/WTVIS01:11/RP1A.200720.011/SW_S98421AA1_V036:user/release-keys",
+  "SECURITY_PATCH": "2021-10-05",
+  "FIRST_API_LEVEL": "30"
+}

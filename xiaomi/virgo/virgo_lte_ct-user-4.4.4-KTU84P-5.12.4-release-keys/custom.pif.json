@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "virgo_lte_ct",
+  "DEVICE": "virgo",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI 3W",
+  "FINGERPRINT": "Xiaomi/virgo_lte_ct/virgo:4.4.4/KTU84P/5.12.4:user/release-keys",
+  "FIRST_API_LEVEL": "19"
+}

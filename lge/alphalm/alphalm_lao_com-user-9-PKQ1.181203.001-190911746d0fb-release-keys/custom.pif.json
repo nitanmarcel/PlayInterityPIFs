@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "alphalm_lao_com",
+  "DEVICE": "alphalm",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-G820",
+  "FINGERPRINT": "lge/alphalm_lao_com/alphalm:9/PKQ1.181203.001/190911746d0fb:user/release-keys",
+  "SECURITY_PATCH": "2019-04-01",
+  "FIRST_API_LEVEL": "28"
+}

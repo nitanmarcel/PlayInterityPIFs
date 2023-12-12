@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "beyond2ltexx",
+  "DEVICE": "beyond2",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G975F",
+  "FINGERPRINT": "samsung/beyond2ltexx/beyond2:10/QP1A.190711.020/G975FXXS4BTB3:user/release-keys",
+  "SECURITY_PATCH": "2020-03-01",
+  "FIRST_API_LEVEL": "28"
+}

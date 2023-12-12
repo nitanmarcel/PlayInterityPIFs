@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Pardus",
+  "DEVICE": "Pardus",
+  "MANUFACTURER": "Vestel",
+  "BRAND": "Vestel",
+  "MODEL": "Venus V7",
+  "FINGERPRINT": "Vestel/Pardus/Pardus:9/VT1060/1560329181:user/release-keys",
+  "SECURITY_PATCH": "2019-05-05",
+  "FIRST_API_LEVEL": "28"
+}

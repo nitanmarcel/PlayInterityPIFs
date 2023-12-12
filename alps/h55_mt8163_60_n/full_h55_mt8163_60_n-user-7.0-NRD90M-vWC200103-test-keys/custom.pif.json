@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_h55_mt8163_60_n",
+  "DEVICE": "h55_mt8163_60_n",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "h55_mt8163_60_n",
+  "FINGERPRINT": "alps/full_h55_mt8163_60_n/h55_mt8163_60_n:7.0/NRD90M/vWC200103:user/test-keys",
+  "SECURITY_PATCH": "2018-01-05",
+  "FIRST_API_LEVEL": "24"
+}

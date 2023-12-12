@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "AjnaXR_SE",
+  "DEVICE": "AjnaXR",
+  "MANUFACTURER": "Dimension NXG (AjnaLens)",
+  "BRAND": "AjnaXR",
+  "MODEL": "AjnaXR SE",
+  "FINGERPRINT": "qti/qssi/qssi:12/SKQ1.221224.001/46:user/test-keys",
+  "SECURITY_PATCH": "2022-12-01",
+  "FIRST_API_LEVEL": "30"
+}

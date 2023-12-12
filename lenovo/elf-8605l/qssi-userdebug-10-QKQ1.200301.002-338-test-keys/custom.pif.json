@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ELF-8605L",
+  "DEVICE": "ELF-8605L",
+  "MANUFACTURER": "LENOVO",
+  "BRAND": "Lenovo",
+  "MODEL": "ELF-8605L",
+  "FINGERPRINT": "qti/qssi/qssi:10/QKQ1.200301.002/338:userdebug/test-keys",
+  "SECURITY_PATCH": "2020-01-01",
+  "FIRST_API_LEVEL": "29"
+}

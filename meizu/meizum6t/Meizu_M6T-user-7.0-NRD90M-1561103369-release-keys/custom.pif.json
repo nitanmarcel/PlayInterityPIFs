@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Meizu_M6T",
+  "DEVICE": "MeizuM6T",
+  "MANUFACTURER": "Meizu",
+  "BRAND": "Meizu",
+  "MODEL": "M6T",
+  "FINGERPRINT": "Meizu/Meizu_M6T/MeizuM6T:7.0/NRD90M/1561103369:user/release-keys",
+  "SECURITY_PATCH": "2019-05-05",
+  "FIRST_API_LEVEL": "24"
+}

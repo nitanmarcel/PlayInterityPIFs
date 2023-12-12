@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rtk_kylin32",
+  "DEVICE": "kylin32",
+  "MANUFACTURER": "realtek",
+  "BRAND": "realtek",
+  "MODEL": "ZIDOO_X20 Pro",
+  "FINGERPRINT": "realtek/rtk_kylin32/kylin32:7.1.1/N9F27C/jiangb04021621:eng/test-keys",
+  "SECURITY_PATCH": "2017-06-05",
+  "FIRST_API_LEVEL": "25"
+}

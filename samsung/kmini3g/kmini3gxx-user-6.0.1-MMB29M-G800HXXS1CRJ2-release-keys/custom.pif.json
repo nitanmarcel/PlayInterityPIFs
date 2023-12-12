@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "kmini3gxx",
+  "DEVICE": "kmini3g",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G800H",
+  "FINGERPRINT": "samsung/kmini3gxx/kmini3g:6.0.1/MMB29M/G800HXXS1CRJ2:user/release-keys",
+  "SECURITY_PATCH": "2016-11-01",
+  "FIRST_API_LEVEL": "23"
+}

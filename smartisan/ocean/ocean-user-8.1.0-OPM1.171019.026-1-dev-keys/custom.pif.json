@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ocean",
+  "DEVICE": "ocean",
+  "MANUFACTURER": "smartisan",
+  "BRAND": "SMARTISAN",
+  "MODEL": "OE106",
+  "FINGERPRINT": "SMARTISAN/oxford/oxford:8.1.0/OPM1.171019.026/1557735263:user/dev-keys",
+  "SECURITY_PATCH": "2019-04-10",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_f202_f22_p10",
+  "DEVICE": "f202_f22_p10",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "SOYES XS11",
+  "FINGERPRINT": "alps/full_f202_f22_p10/f202_f22_p10:6.0/MRA58K/1637753601:user/release-keys",
+  "SECURITY_PATCH": "2020-08-05",
+  "FIRST_API_LEVEL": "23"
+}

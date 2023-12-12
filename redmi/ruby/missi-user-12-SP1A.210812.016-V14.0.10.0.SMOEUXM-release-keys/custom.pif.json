@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "missi",
+  "DEVICE": "missi",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "missi",
+  "FINGERPRINT": "Redmi/missi/missi:12/SP1A.210812.016/V14.0.10.0.SMOEUXM:user/release-keys",
+  "SECURITY_PATCH": "2023-05-01",
+  "FIRST_API_LEVEL": "31"
+}

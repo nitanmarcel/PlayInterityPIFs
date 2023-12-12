@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "tesla_g_sys",
+  "DEVICE": "tesla",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge (2022)",
+  "FINGERPRINT": "motorola/tesla_g_sys/tesla:12/S2ST32.71-118-4/da101:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "FIRST_API_LEVEL": "31"
+}

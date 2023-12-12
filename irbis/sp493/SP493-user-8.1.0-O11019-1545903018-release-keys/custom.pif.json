@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "SP493",
+  "DEVICE": "SP493",
+  "MANUFACTURER": "FISE",
+  "BRAND": "Irbis",
+  "MODEL": "SP493",
+  "FINGERPRINT": "Irbis/SP493/SP493:8.1.0/O11019/1545903018:user/release-keys",
+  "SECURITY_PATCH": "2018-12-05",
+  "FIRST_API_LEVEL": "27"
+}

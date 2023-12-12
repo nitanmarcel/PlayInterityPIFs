@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cappu",
+  "DEVICE": "cappu",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI PAD 3",
+  "FINGERPRINT": "Xiaomi/cappu/cappu:7.0/NRD90M/V10.2.1.0.NCICNXM:user/release-keys",
+  "SECURITY_PATCH": "2018-12-01",
+  "FIRST_API_LEVEL": "24"
+}

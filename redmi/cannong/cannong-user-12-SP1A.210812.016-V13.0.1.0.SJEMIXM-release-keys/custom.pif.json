@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cannong_global",
+  "DEVICE": "cannong",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "M2007J22G",
+  "FINGERPRINT": "Redmi/cannong_global/cannong:12/SP1A.210812.016/V13.0.1.0.SJEMIXM:user/release-keys",
+  "SECURITY_PATCH": "2022-05-01",
+  "FIRST_API_LEVEL": "29"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "camellia",
+  "DEVICE": "camellia",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "M2103K19C",
+  "FINGERPRINT": "Redmi/camellia/camellia:11/RP1A.200720.011/V12.0.5.0.RKSCNXM:user/release-keys",
+  "SECURITY_PATCH": "2021-05-01",
+  "FIRST_API_LEVEL": "30"
+}

@@ -1,0 +1,360 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor.brand=Nokia
+ro.product.vendor.device=PGN
+ro.product.vendor.manufacturer=HMD Global
+ro.product.vendor.model=Nokia T10
+ro.product.vendor.name=Penguin_00WW
+ro.vendor.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.vendor.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.vendor.product.cpu.abilist64=arm64-v8a
+ro.vendor.build.date=Sat May  6 07:12:27 UTC 2023
+ro.vendor.build.date.utc=1683357147
+ro.vendor.build.fingerprint=Nokia/Penguin_00WW/PGN:13/TP1A.220624.014/00WW_2_310:user/release-keys
+ro.vendor.build.id=TP1A.220624.014
+ro.vendor.build.tags=release-keys
+ro.vendor.build.type=user
+ro.vendor.build.version.incremental=00WW_2_310
+ro.vendor.build.version.release=13
+ro.vendor.build.version.release_or_codename=13
+ro.vendor.build.version.sdk=33
+####################################
+# from device/sprd/mpool/module/vendor/gpu/natt/arm.gralloc.usage.prop
+####################################
+# Copyright (C) 2021 Arm Limited.
+# SPDX-License-Identifier: Apache-2.0
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#       http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# Usage properties for Gralloc
+#
+# No AFBC Vendor usage bit
+ro.vendor.arm.gralloc.no_afbc_usage_flags=0x20000000
+ro.vendor.arm.gralloc.no_afbc_usage_mask=0x60000000
+# Force Back Buffer Vendor usage bit
+ro.vendor.arm.gralloc.force_back_buffer_usage_flags=0x40000000000000
+ro.vendor.arm.gralloc.force_back_buffer_usage_mask=0x40000000000000
+# Shared Access Vendor usage bit
+ro.vendor.arm.gralloc.shared_access_usage_flags=0x10000000
+ro.vendor.arm.gralloc.shared_access_usage_mask=0x50000000
+# RGBA AFRC Vendor usage bits               16B        24B        32B
+ro.vendor.arm.gralloc.afrc_rgba_usage_flags=0x50000000,0x60000000,0x40000000
+ro.vendor.arm.gralloc.afrc_rgba_usage_mask=0x70000000
+# YUV AFRC Vendor usage bits                16B        24B        32B
+ro.vendor.arm.gralloc.afrc_luma_usage_flags=0x50000000,0x60000000,0x40000000
+ro.vendor.arm.gralloc.afrc_luma_usage_mask=0x70000000
+ro.vendor.arm.gralloc.afrc_chroma_usage_flags=0x100000000000000,0x80000000000000,0x180000000000000
+ro.vendor.arm.gralloc.afrc_chroma_usage_mask=0x180000000000000
+####################################
+# from device/sprd/mpool/module/vendor/gpu/natt/arm.egl.config.prop
+####################################
+# Copyright (C) 2022 Arm Limited.
+# SPDX-License-Identifier: Apache-2.0
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#       http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# EGL config properties
+#
+# r8_g8_b8_a8_32bit_fixed
+ro.vendor.arm.egl.configs.r8_g8_b8_a8_32bit_fixed.hal_format=0x1
+ro.vendor.arm.egl.configs.r8_g8_b8_a8_32bit_fixed.recordable=true
+ro.vendor.arm.egl.configs.r8_g8_b8_a8_32bit_fixed.framebuffer_target=true
+# r8_g8_b8_a0_32bit_fixed
+ro.vendor.arm.egl.configs.r8_g8_b8_a0_32bit_fixed.hal_format=0x2
+ro.vendor.arm.egl.configs.r8_g8_b8_a0_32bit_fixed.recordable=false
+ro.vendor.arm.egl.configs.r8_g8_b8_a0_32bit_fixed.framebuffer_target=false
+# r8_g8_b8_a0_24bit_fixed
+ro.vendor.arm.egl.configs.r8_g8_b8_a0_24bit_fixed.hal_format=0x2
+ro.vendor.arm.egl.configs.r8_g8_b8_a0_24bit_fixed.recordable=false
+ro.vendor.arm.egl.configs.r8_g8_b8_a0_24bit_fixed.framebuffer_target=false
+# r5_g6_b5_a0_16bit_fixed
+ro.vendor.arm.egl.configs.r5_g6_b5_a0_16bit_fixed.hal_format=0x4
+ro.vendor.arm.egl.configs.r5_g6_b5_a0_16bit_fixed.recordable=false
+ro.vendor.arm.egl.configs.r5_g6_b5_a0_16bit_fixed.framebuffer_target=true
+# r10_g10_b10_a2_32bit_fixed
+ro.vendor.arm.egl.configs.r10_g10_b10_a2_32bit_fixed.hal_format=0x2b
+ro.vendor.arm.egl.configs.r10_g10_b10_a2_32bit_fixed.recordable=false
+ro.vendor.arm.egl.configs.r10_g10_b10_a2_32bit_fixed.framebuffer_target=false
+# r16_g16_b16_a16_64bit_float
+ro.vendor.arm.egl.configs.r16_g16_b16_a16_64bit_float.hal_format=0x16
+ro.vendor.arm.egl.configs.r16_g16_b16_a16_64bit_float.recordable=false
+ro.vendor.arm.egl.configs.r16_g16_b16_a16_64bit_float.framebuffer_target=false
+# r8_g8_b8_a0_24bit_yuv_special (implicitly recordable)
+ro.vendor.arm.egl.configs.r8_g8_b8_a0_24bit_yuv_special.hal_format=0x23
+ro.vendor.arm.egl.configs.r8_g8_b8_a0_24bit_yuv_special.framebuffer_target=false
+####################################
+# from out/target/product/ums9230_4h10/obj/ETC/android_info_prop_intermediates/android_info.prop
+####################################
+####################################
+# from variable ADDITIONAL_VENDOR_PROPERTIES
+####################################
+ro.vndk.version=33
+ro.bionic.arch=arm64
+ro.bionic.cpu_variant=cortex-a75
+ro.bionic.2nd_arch=arm
+ro.bionic.2nd_cpu_variant=cortex-a55
+persist.sys.dalvik.vm.lib.2=libart.so
+dalvik.vm.isa.arm64.variant=cortex-a75
+dalvik.vm.isa.arm64.features=default
+dalvik.vm.isa.arm.variant=cortex-a55
+dalvik.vm.isa.arm.features=default
+ro.minui.pixel_format=RGBX_8888
+ro.boot.dynamic_partitions=true
+ro.product.first_api_level=31
+ro.vendor.build.security_patch=2023-05-05
+ro.board.platform=ums9230
+ro.hwui.use_vulkan=
+ro.build.ab_update=true
+####################################
+# from variable PRODUCT_VENDOR_PROPERTIES
+####################################
+ro.zygote=zygote64_32
+ro.config.ringtone=Nokia_Tune.ogg
+ro.config.notification_sound=Nokia_Message_1.ogg
+# Removed by post_process_props.py because overridden by ro.zygote=zygote64_32
+#ro.zygote?=zygote32
+ro.logd.size.stats=64K
+log.tag.stats_log=I
+ro.carrier=unknown
+# Removed by post_process_props.py because overridden by ro.config.notification_sound=Nokia_Message_1.ogg
+#ro.config.notification_sound?=OnTheHunt.ogg
+ro.config.alarm_alert=Nokia_Alarm_Clock.ogg
+ro.soc.model=T616
+ro.virtual_ab.enabled=true
+ro.virtual_ab.enabled=true
+ro.virtual_ab.compression.enabled=true
+ro.virtual_ab.userspace.snapshots.enabled=true
+ro.virtual_ab.io_uring.enabled=true
+ro.virtual_ab.compression.xor.enabled=true
+external_storage.projid.enabled=1
+external_storage.casefold.enabled=1
+external_storage.sdcardfs.enabled=0
+ro.apex.updatable=true
+ro.surface_flinger.has_HDR_display=false
+ro.vendor.gpu.boost=0
+ro.opengles.version=196610
+debug.sf.enable_gpu_security=1
+debug.sf.enable_skip_rotation=1
+graphics.gpu.profiler.support=true
+ro.soc.manufacturer=Spreadtrum
+ro.vendor.component.label=13--230506
+persist.vendor.eng.reset=2
+ro.vendor.ko.mount.point=/mnt/vendor
+persist.sys.hight_volume_switch=true
+ro.vendor.audio.whale_hal=true
+ro.audio.offload_wakelock=false
+ro.vendor.af.bt_fc_multiplier=1
+ro.vendor.af.dup_multiplier=2
+ro.vendor.af.raise_bt_thread_prio=true
+persist.vendor.audio.hifi_enabled=false
+camera.disable_zsl_mode=1
+ro.camerax.extensions.enabled=false
+persist.sys.pq.cabc.enabled=1
+persist.sys.pq.dci.enabled=1
+persist.sys.pq.enabled=1
+ro.hardware.enhance=unisoc
+ro.vendor.display.sr=true
+ro.vendor.displayenhance=true
+ro.vendor.nightdisplay.enhance=true
+ro.hardware.dpu=unisoc
+ro.hardware.gsp=unisoc
+persist.sys.sf.color_saturation=1.0
+persist.vendor.modem.log_dest=0
+persist.vendor.wcn.log_dest=0
+persist.vendor.sys.modemreset=1
+persist.vendor.sys.modem.save_dump=1
+ro.vendor.ldsp.log=/dev/slog_ldsp
+ro.vendor.modem.dev=/proc/cptl/
+ro.vendor.sp.dev=/proc/pmic/
+ro.vendor.modem.tty=/dev/stty_lte
+ro.vendor.modem.tmctl=/dev/sprd_time_sync
+ro.vendor.modem.tmtsf=/dev/stime_pm
+ro.vendor.modem.eth=seth_lte
+ro.vendor.modem.snd=1
+ro.vendor.radio.modemtype=l
+ro.vendor.modem.diag=/dev/sdiag_lte
+ro.vendor.modem.log=/dev/slog_lte
+ro.vendor.modem.loop=/dev/spipe_lte0
+ro.vendor.modem.nv=/dev/spipe_lte1
+ro.vendor.modem.assert=/dev/spipe_lte2
+ro.vendor.modem.fixnv_size=0x100000
+ro.vendor.modem.runnv_size=0x120000
+persist.vendor.modem.nvp=l_
+persist.vendor.modem.l.enable=1
+persist.vendor.sys.isfirstboot=1
+ro.vendor.sp.log=/dev/slog_pm
+ro.vendor.ag.log=/dev/audio_dsp_log
+ro.vendor.ag.pcm=/dev/audio_dsp_pcm
+ro.vendor.ag.mem=/dev/audio_dsp_mem
+ro.vendor.modem.nvpacket_size=0x400
+ro.vendor.keybox.id.value=HMD_PGN_TA
+ro.vendor.tee.gpapi.support=true
+persist.vendor.debug.fp.support=false
+ro.oem_unlock_supported=1
+ro.vendor.fps.support=true
+ro.vendor.tui.chip=qogirl6
+ro.vendor.tui.support=true
+ro.vendor.soter.support=true
+persist.vendor.bsservice.enable=1
+ro.surface_flinger.vsync_event_phase_offset_ns=1000000
+ro.surface_flinger.vsync_sf_event_phase_offset_ns=1000000
+ro.surface_flinger.use_context_priority=true
+ro.surface_flinger.has_wide_color_display=false
+ro.surface_flinger.present_time_offset_from_vsync_ns=0
+ro.surface_flinger.running_without_sync_framework=false
+ro.surface_flinger.use_vr_flinger=false
+ro.surface_flinger.max_frame_buffer_acquired_buffers=3
+ro.surface_flinger.start_graphics_allocator_service=false
+ro.surface_flinger.primary_display_orientation=ORIENTATION_0
+ro.surface_flinger.set_idle_timer_ms=4000
+ro.surface_flinger.set_touch_timer_ms=200
+ro.surface_flinger.set_display_power_timer_ms=1000
+debug.renderengine.backend=skiaglthreaded
+ro.surface_flinger.use_content_detection_for_refresh_rate=true
+debug.sf.auto_latch_unsignaled=false
+debug.sf.treat_170m_as_sRGB=1
+ro.hardware.hwcomposer=unisoc
+ro.vendor.media.wfd.resolution=2
+persist.vendor.powerhint.hint.enable=true
+media.stagefright.thumbnail.prefer_hw_codecs=true
+vendor.media.omx=0
+drm.service.enabled=true
+ro.lmk.filecache_min_kb=153600
+ro.lmk.psi_complete_stall_ms=500
+ro.lmk.swap_free_low_percentage=20
+ro.lmk.stall_limit_critical=40
+ro.lmk.kill_timeout_ms=200
+ro.vendor.lmk.kill_heaviest_task_enabled=false
+ro.zram.mark_idle_delay_mins=60
+ro.zram.first_wb_delay_mins=180
+ro.zram.periodic_wb_delay_hours=24
+persist.sys.zram_enabled=1
+persist.sys.pwctl.enable=1
+persist.sys.pwctl.guru=1
+persist.sys.pwctl.appidle=1
+persist.sys.pwctl.bgclean=1
+persist.sys.pwctl.gps=1
+persist.sys.pwctl.wl=1
+persist.sys.pwctl.appidle.force=1
+persist.sys.pwctl.onlysave=0
+persist.sys.pwctl.appstats=0
+persist.sys.pwctl.gps.onlysave=0
+persist.sys.ss.predict=false
+persist.sys.ss.hmm=true
+persist.sys.ss.sr.enable=true
+persist.sys.ss.enable=true
+persist.sys.ss.scroll=false
+persist.sys.ss.track=true
+persist.sys.ss.scene=true
+persist.sys.ss.habit=true
+persist.sys.ss.uhc.enable=true
+persist.sys.heartbeat.enable=1
+persist.sys.power.touch=0
+ro.hardware.sensors=unisoc
+persist.vendor.sys.modem.diag=disable
+sys.usb.controller=musb-hdrc.0.auto
+persist.vendor.sys.wcnreset=1
+persist.vendor.sys.wcnstate=0
+ro.vendor.modem.gnss.log=/dev/slog_gnss
+ro.vendor.modem.gnss.diag=/dev/wcn_gnss_dump
+wifi.interface=wlan0
+wifi.direct.interface=p2p-dev-wlan0
+wlan.driver.status=ok
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.hid.device.enabled=true
+bluetooth.profile.hid.host.enabled=true
+bluetooth.profile.map.server.enabled=true
+bluetooth.profile.opp.enabled=true
+bluetooth.profile.pan.nap.enabled=true
+bluetooth.profile.pan.panu.enabled=true
+bluetooth.profile.pbap.server.enabled=true
+ro.vendor.modem.wcn.enable=1
+ro.vendor.modem.wcn.diag=/dev/slog_wcn0
+ro.vendor.modem.wcn.id=1
+ro.vendor.modem.wcn.count=1
+ro.vendor.mmi.use.audio.whale.hal=1
+persist.fingerprint.location=RIGHT
+ro.control_privapp_permissions=enforce
+persist.vendor.aprservice.enabled=0
+persist.sys.apr.enabled=0
+persist.sys.apr.timechanged=180
+persist.sys.apr.rlchanged=800
+persist.sys.apr.lifetime=0
+persist.sys.apr.reload=0
+persist.sys.apr.reportlevel=2
+persist.sys.apr.exceptionnode=0
+persist.sys.apr.intervaltime=1
+persist.sys.apr.testgroup=CSSLAB
+persist.sys.apr.autoupload=1
+persist.vendor.eng.reset=2
+persist.vendor.eng.jeita=1
+ro.vendor.modem.support=1
+persist.sys.support.antenna=true
+persist.sys.audio.source=true
+persist.sys.support.typeC=true
+ro.vendor.product.partitionpath=/dev/block/by-name/
+ro.frp.pst=/dev/block/by-name/persist
+ro.sys.sdcardfs=true
+persist.sys.sdcardfs=force_on
+ro.storage.flash_type=2
+persist.sys.log.yloglite=0
+persist.sys.vilte.socket=ap
+ro.telephony.default_network=9
+persist.vendor.sys.single.imsstack=true
+persist.sys.wfc.supp_dual_sim=true
+persist.vendor.sys.volte.enable=true
+dalvik.vm.dex2oat64.enabled=true
+service.wait_for_bootanim=1
+ro.rebootescrow.device=/dev/block/pmem0
+ro.incremental.enable=module:/vendor/lib/modules/incrementalfs.ko
+####################################
+# from variable PRODUCT_DEFAULT_PROPERTY_OVERRIDES
+####################################
+ro.surface_flinger.force_hwc_copy_for_virtual_displays=true
+ro.surface_flinger.max_virtual_display_dimension=4096
+####################################
+# from variable PRODUCT_PROPERTY_OVERRIDES
+####################################
+persist.vendor.cam.record.fps=3020
+ro.sf.lcd_density=200
+ro.sf.lcd_width=108
+ro.sf.lcd_height=172
+ro.recovery.ui.dropscreen=1
+ro.recovery.ui.margin_height=45
+ro.boot.wificountrycode=CN
+persist.vendor.radio.imsua.setting=1
+ro.hardware.audio.primary=whale
+ro.vendor.wcn.hardware.etcpath=/odm/firmware
+ro.bt.bdaddr_path=/data/vendor/bluetooth/btmac.txt
+persist.bluetooth.a2dp_offload.cap=sbc
+persist.bluetooth.a2dp_offload.switch=false
+persist.bluetooth.a2dp_offload.aidl_flag=aidl
+ro.bluetooth.a2dp_offload.supported=true
+persist.vendor.cam.ip.switch.on=1
+# end of file
+

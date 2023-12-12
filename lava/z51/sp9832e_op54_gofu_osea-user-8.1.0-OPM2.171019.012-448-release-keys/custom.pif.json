@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Z51",
+  "DEVICE": "Z51",
+  "MANUFACTURER": "LAVA",
+  "BRAND": "LAVA",
+  "MODEL": "Z51",
+  "FINGERPRINT": "LAVA/Z51/Z51:8.1.0/OPM2.171019.012/448:user/release-keys",
+  "SECURITY_PATCH": "2019-03-05",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "dm1qzcx",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-S9110",
+  "FINGERPRINT": "samsung/dm1qzcx/qssi:14/UP1A.231005.007/S9110ZCU2BWK7:user/release-keys",
+  "SECURITY_PATCH": "2023-09-01",
+  "FIRST_API_LEVEL": "32"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "riva",
+  "DEVICE": "riva",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi 5A",
+  "FINGERPRINT": "Xiaomi/riva/riva:8.1.0/OPM1.171019.026/V11.0.2.0.OCKMIXM:user/release-keys",
+  "SECURITY_PATCH": "2019-10-01",
+  "FIRST_API_LEVEL": "25"
+}

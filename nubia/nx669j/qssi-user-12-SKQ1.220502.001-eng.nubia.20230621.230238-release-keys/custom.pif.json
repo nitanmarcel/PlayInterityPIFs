@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "NX669J-UN",
+  "DEVICE": "NX669J-UN",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "qti/qssi-UN/qssi-UN:12/SKQ1.220502.001/eng.nubia.20230621.230238:user/release-keys",
+  "SECURITY_PATCH": "2023-06-01",
+  "FIRST_API_LEVEL": "30"
+}

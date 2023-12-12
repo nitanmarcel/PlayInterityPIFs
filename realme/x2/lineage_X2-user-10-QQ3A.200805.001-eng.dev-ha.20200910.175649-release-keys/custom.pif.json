@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lineage_X2",
+  "DEVICE": "X2",
+  "MANUFACTURER": "realme",
+  "BRAND": "realme",
+  "MODEL": "realme X2",
+  "FINGERPRINT": "realme/RMX1992/RMX1992L1:10/QKQ1.191201.002/1592194586:user/release-keys",
+  "SECURITY_PATCH": "2020-08-05",
+  "FIRST_API_LEVEL": "29"
+}

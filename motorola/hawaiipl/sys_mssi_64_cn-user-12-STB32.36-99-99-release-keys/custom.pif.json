@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "hawaiipl_g",
+  "DEVICE": "hawaiipl",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto e32(s)",
+  "FINGERPRINT": "motorola/hawaiipl_g/hawaiipl:12/STB32.36-99/99:user/release-keys",
+  "SECURITY_PATCH": "2022-09-01",
+  "FIRST_API_LEVEL": "31"
+}

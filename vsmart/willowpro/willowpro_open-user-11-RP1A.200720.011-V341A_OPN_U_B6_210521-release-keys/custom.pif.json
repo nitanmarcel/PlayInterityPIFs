@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "willowpro_open",
+  "DEVICE": "willowpro",
+  "MANUFACTURER": "vsmart",
+  "BRAND": "vsmart",
+  "MODEL": "Star 4",
+  "FINGERPRINT": "vsmart/willowpro_open/willowpro:11/RP1A.200720.011/V341A_OPN_U_B6_210521:user/release-keys",
+  "SECURITY_PATCH": "2021-05-01",
+  "FIRST_API_LEVEL": "29"
+}

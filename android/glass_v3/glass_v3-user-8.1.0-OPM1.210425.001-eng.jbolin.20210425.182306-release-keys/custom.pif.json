@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "glass_v3",
+  "DEVICE": "glass_v3",
+  "MANUFACTURER": "Google",
+  "BRAND": "Android",
+  "MODEL": "Glass Enterprise Edition 2",
+  "FINGERPRINT": "Android/glass_v3/glass_v3:8.1.0/OPM1.210425.001/jbolin04251823:user/release-keys",
+  "SECURITY_PATCH": "2018-07-05",
+  "FIRST_API_LEVEL": "27"
+}

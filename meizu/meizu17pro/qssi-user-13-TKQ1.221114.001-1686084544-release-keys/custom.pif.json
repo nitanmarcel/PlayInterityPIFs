@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "meizu_17Pro_N_CN",
+  "DEVICE": "meizu17Pro",
+  "MANUFACTURER": "meizu",
+  "BRAND": "meizu",
+  "MODEL": "meizu 17 Pro",
+  "FINGERPRINT": "meizu/meizu_17Pro_N_CN/meizu17Pro:13/TKQ1.221114.001/1686084544:user/release-keys",
+  "SECURITY_PATCH": "2023-06-01",
+  "FIRST_API_LEVEL": "29"
+}

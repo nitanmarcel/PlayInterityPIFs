@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "pyxis",
+  "DEVICE": "pyxis",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Mi 9 Lite",
+  "FINGERPRINT": "Xiaomi/pyxis/pyxis:10/QKQ1.190828.002/V12.0.6.0.QFCMIXM:user/release-keys",
+  "SECURITY_PATCH": "2021-02-01",
+  "FIRST_API_LEVEL": "28"
+}

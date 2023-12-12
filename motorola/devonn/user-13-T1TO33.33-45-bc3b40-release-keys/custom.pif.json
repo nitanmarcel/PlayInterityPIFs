@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "devonn_g_sys",
+  "DEVICE": "devonn",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g power 5G - 2023",
+  "FINGERPRINT": "motorola/devonn_g_sys/devonn:13/T1TO33M.33-45/b36f10:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "FIRST_API_LEVEL": "31"
+}

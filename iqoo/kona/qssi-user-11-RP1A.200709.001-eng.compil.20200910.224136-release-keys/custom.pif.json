@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "vivo",
+  "BRAND": "iQOO",
+  "MODEL": "iQOO I1928",
+  "FINGERPRINT": "iQOO/I1928/I1928:11/RP1A.200709.001/compiler09102241:user/release-keys",
+  "SECURITY_PATCH": "2020-09-01",
+  "FIRST_API_LEVEL": "30"
+}

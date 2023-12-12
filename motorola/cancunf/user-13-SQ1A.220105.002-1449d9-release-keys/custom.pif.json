@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cancunf_g_sys",
+  "DEVICE": "cancunf",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g54 5G",
+  "FINGERPRINT": "motorola/cancunf_g_sys/cancunf:13/T3TD33M.16-13-5/6cef3:user/release-keys",
+  "SECURITY_PATCH": "2023-08-01",
+  "FIRST_API_LEVEL": "31"
+}

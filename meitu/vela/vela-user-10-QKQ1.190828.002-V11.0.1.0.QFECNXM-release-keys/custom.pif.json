@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "vela",
+  "DEVICE": "vela",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Meitu",
+  "MODEL": "MI CC 9 Meitu Edition",
+  "FINGERPRINT": "Meitu/vela/vela:10/QKQ1.190828.002/V11.0.1.0.QFECNXM:user/release-keys",
+  "SECURITY_PATCH": "2020-02-01",
+  "FIRST_API_LEVEL": "28"
+}

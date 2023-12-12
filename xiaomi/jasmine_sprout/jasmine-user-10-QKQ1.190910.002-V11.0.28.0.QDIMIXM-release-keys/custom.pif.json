@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "jasmine",
+  "DEVICE": "jasmine_sprout",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Mi A2",
+  "FINGERPRINT": "xiaomi/jasmine/jasmine_sprout:10/QKQ1.190910.002/V11.0.28.0.QDIMIXM:user/release-keys",
+  "SECURITY_PATCH": "2021-07-01",
+  "FIRST_API_LEVEL": "28"
+}

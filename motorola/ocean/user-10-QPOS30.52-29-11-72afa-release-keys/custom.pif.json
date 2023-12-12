@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ocean_retail",
+  "DEVICE": "ocean",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(7) power",
+  "FINGERPRINT": "motorola/ocean_retail/ocean:10/QPOS30.52-29-11/72afa:user/release-keys",
+  "SECURITY_PATCH": "2020-12-01",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "CO2_00WW_FIH",
+  "DEVICE": "CO2",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "Nokia 5.1",
+  "FINGERPRINT": "Nokia/Core2_00WW/CO2_sprout:10/QP1A.190711.020/00WW_4_160:user/release-keys",
+  "SECURITY_PATCH": "2020-09-05",
+  "FIRST_API_LEVEL": "26"
+}

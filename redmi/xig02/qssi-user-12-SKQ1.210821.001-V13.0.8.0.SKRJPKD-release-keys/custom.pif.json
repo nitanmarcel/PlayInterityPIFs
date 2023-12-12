@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "Redmi/qssi/qssi:12/SKQ1.210821.001/V13.0.8.0.SKRJPKD:user/release-keys",
+  "SECURITY_PATCH": "2022-08-01",
+  "FIRST_API_LEVEL": "30"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "oneli_g",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola razr 2022",
+  "FINGERPRINT": "motorola/oneli_g/msi:12/S3SL32M.16-72-8/215b31:user/release-keys",
+  "SECURITY_PATCH": "2022-10-01",
+  "FIRST_API_LEVEL": "31"
+}

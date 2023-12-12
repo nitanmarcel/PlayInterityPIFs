@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "shamu",
+  "DEVICE": "shamu",
+  "MANUFACTURER": "motorola",
+  "BRAND": "google",
+  "MODEL": "Nexus 6",
+  "FINGERPRINT": "google/shamu/shamu:5.1/LMX72G/1645782:userdebug/dev-keys",
+  "FIRST_API_LEVEL": "22"
+}

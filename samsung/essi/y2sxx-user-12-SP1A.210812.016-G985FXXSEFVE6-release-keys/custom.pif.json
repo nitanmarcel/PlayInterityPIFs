@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "y2sxx",
+  "DEVICE": "essi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G985F",
+  "FINGERPRINT": "samsung/y2sxx/essi:12/SP1A.210812.016/G985FXXSEFVE6:user/release-keys",
+  "SECURITY_PATCH": "2022-06-01",
+  "FIRST_API_LEVEL": "29"
+}

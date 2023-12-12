@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "taido_row",
+  "DEVICE": "taido_row",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT1706",
+  "FINGERPRINT": "motorola/taido_row/taido_row:6.0/MRA58K/XT1706_S152_190315_ROW:user/release-keys",
+  "SECURITY_PATCH": "2018-05-05",
+  "FIRST_API_LEVEL": "23"
+}

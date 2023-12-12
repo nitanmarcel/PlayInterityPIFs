@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "R4",
+  "DEVICE": "WE_R4",
+  "MANUFACTURER": "teksun",
+  "BRAND": "WE",
+  "MODEL": "WE R4",
+  "FINGERPRINT": "WE/R4/WE_R4:8.1.0/O11019/1526457068:user/release-keys",
+  "SECURITY_PATCH": "2018-04-05",
+  "FIRST_API_LEVEL": "27"
+}

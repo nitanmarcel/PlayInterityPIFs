@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "meizu_16s",
+  "DEVICE": "16s",
+  "MANUFACTURER": "meizu",
+  "BRAND": "meizu",
+  "MODEL": "16s",
+  "FINGERPRINT": "meizu/meizu_16s/16s:9/PKQ1.190202.001/1558508547:user/release-keys",
+  "SECURITY_PATCH": "2019-04-01",
+  "FIRST_API_LEVEL": "28"
+}

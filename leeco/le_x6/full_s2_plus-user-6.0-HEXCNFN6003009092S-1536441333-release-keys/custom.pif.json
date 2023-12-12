@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Le2_CN1",
+  "DEVICE": "le_x6",
+  "MANUFACTURER": "LeMobile",
+  "BRAND": "LeEco",
+  "MODEL": "LEX626",
+  "FINGERPRINT": "LeEco/Le2_CN1/le_x6:6.0/HEXCNFN6003009092S/1536441333:user/release-keys",
+  "SECURITY_PATCH": "2017-01-05",
+  "FIRST_API_LEVEL": "23"
+}

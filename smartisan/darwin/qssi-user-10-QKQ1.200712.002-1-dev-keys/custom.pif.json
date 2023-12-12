@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "SMARTISAN/aries/aries:10/QKQ1.200712.002/1618405797:user/dev-keys",
+  "SECURITY_PATCH": "2021-02-10",
+  "FIRST_API_LEVEL": "29"
+}

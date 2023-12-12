@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "berlin_global",
+  "DEVICE": "berlin",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 20",
+  "FINGERPRINT": "motorola/berlin_global/berlin:12/S1RGS32M.53-18-22-2/0e3b7:user/release-keys",
+  "SECURITY_PATCH": "2022-08-01",
+  "FIRST_API_LEVEL": "30"
+}

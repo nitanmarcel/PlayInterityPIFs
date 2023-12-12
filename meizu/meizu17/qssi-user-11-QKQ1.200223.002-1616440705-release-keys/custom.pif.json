@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "meizu_17_N_CN",
+  "DEVICE": "meizu17",
+  "MANUFACTURER": "meizu",
+  "BRAND": "meizu",
+  "MODEL": "meizu 17",
+  "FINGERPRINT": "meizu/meizu_17_N_CN/meizu17:11/QKQ1.200223.002/1616440705:user/release-keys",
+  "SECURITY_PATCH": "2021-03-01",
+  "FIRST_API_LEVEL": "29"
+}

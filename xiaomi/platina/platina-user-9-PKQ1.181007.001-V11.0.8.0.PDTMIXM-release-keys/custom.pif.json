@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "platina",
+  "DEVICE": "platina",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI 8 Lite",
+  "FINGERPRINT": "Xiaomi/platina/platina:9/PKQ1.181007.001/V11.0.8.0.PDTMIXM:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "27"
+}

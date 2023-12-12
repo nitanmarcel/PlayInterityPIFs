@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ursa",
+  "DEVICE": "ursa",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI 8 Explorer Edition",
+  "FINGERPRINT": "Xiaomi/ursa/ursa:9/PKQ1.180729.001/V11.0.2.0.PEHCNXM:user/release-keys",
+  "SECURITY_PATCH": "2019-09-01",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "eos_emulator",
+  "DEVICE": "eos_emulator",
+  "MANUFACTURER": "Microsoft",
+  "BRAND": "Surface",
+  "MODEL": "SurfaceDuoEmulator API 29",
+  "FINGERPRINT": "Surface/eos_emulator/eos_emulator:10/emu-q-pub-user/2020.429.3:user/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "28"
+}

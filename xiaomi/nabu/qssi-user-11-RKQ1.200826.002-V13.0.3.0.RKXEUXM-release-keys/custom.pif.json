@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi_eea",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "qti",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "qti/qssi_eea/qssi:11/RKQ1.200826.002/V13.0.3.0.RKXEUXM:user/release-keys",
+  "SECURITY_PATCH": "2022-01-01",
+  "FIRST_API_LEVEL": "30"
+}

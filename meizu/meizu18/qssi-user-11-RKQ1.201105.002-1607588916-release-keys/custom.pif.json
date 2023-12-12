@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "meizu_18_CN",
+  "DEVICE": "meizu18",
+  "MANUFACTURER": "meizu",
+  "BRAND": "meizu",
+  "MODEL": "MEIZU 18",
+  "FINGERPRINT": "meizu/meizu_18_CN/meizu18:11/RKQ1.201105.002/1607588916:user/release-keys",
+  "SECURITY_PATCH": "2021-01-01",
+  "FIRST_API_LEVEL": "30"
+}

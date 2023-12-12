@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "foster_e_hdd",
+  "DEVICE": "foster",
+  "MANUFACTURER": "NVIDIA",
+  "BRAND": "NVIDIA",
+  "MODEL": "SHIELD Android TV",
+  "FINGERPRINT": "NVIDIA/foster_e_hdd/foster:9/PPR1.180610.011/4086637_1697.8089:user/release-keys",
+  "SECURITY_PATCH": "2019-07-05",
+  "FIRST_API_LEVEL": "21"
+}

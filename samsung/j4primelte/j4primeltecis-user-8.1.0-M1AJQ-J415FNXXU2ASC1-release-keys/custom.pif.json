@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "j4primeltecis",
+  "DEVICE": "j4primelte",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-J415FN",
+  "FINGERPRINT": "samsung/j4primeltecis/j4primelte:8.1.0/M1AJQ/J415FNXXU2ASC1:user/release-keys",
+  "SECURITY_PATCH": "2019-03-01",
+  "FIRST_API_LEVEL": "27"
+}

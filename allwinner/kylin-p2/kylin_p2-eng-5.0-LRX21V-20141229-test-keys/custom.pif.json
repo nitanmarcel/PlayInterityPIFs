@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "kylin_p2",
+  "DEVICE": "kylin-p2",
+  "MANUFACTURER": "Allwinner",
+  "BRAND": "Allwinner",
+  "MODEL": "UltraOcta A80 p2",
+  "FINGERPRINT": "Allwinner/kylin_p2/kylin-p2:5.0/LRX21V/20141229:eng/test-keys",
+  "FIRST_API_LEVEL": "21"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cofud_g",
+  "DEVICE": "cofud",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g31(w)",
+  "FINGERPRINT": "motorola/cofud_g/cofud:12/S3RWDS32.123-29-8-1/06a8f5:user/release-keys",
+  "SECURITY_PATCH": "2023-04-01",
+  "FIRST_API_LEVEL": "30"
+}

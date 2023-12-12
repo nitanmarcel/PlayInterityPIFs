@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "condor_retbr_ds",
+  "DEVICE": "condor_umtsds",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT1022",
+  "FINGERPRINT": "motorola/condor_retbr_ds/condor_umtsds:5.1/LPCS23.13-34.8-3/3:user/release-keys",
+  "FIRST_API_LEVEL": "22"
+}

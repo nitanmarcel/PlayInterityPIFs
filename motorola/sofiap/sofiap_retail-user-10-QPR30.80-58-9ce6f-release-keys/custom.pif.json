@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sofiap_retail",
+  "DEVICE": "sofiap",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g stylus",
+  "FINGERPRINT": "motorola/sofiap_retail/sofiap:10/QPR30.80-58/9ce6f:user/release-keys",
+  "SECURITY_PATCH": "2020-02-01",
+  "FIRST_API_LEVEL": "29"
+}

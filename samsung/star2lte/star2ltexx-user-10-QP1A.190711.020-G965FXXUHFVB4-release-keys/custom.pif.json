@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "star2ltexx",
+  "DEVICE": "star2lte",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G965F",
+  "FINGERPRINT": "samsung/star2ltexx/star2lte:10/QP1A.190711.020/G965FXXUHFVB4:user/release-keys",
+  "SECURITY_PATCH": "2022-03-01",
+  "FIRST_API_LEVEL": "26"
+}

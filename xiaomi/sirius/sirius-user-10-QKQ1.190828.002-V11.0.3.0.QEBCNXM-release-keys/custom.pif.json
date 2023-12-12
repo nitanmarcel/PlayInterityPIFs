@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sirius",
+  "DEVICE": "sirius",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI 8 SE",
+  "FINGERPRINT": "Xiaomi/sirius/sirius:10/QKQ1.190828.002/V11.0.3.0.QEBCNXM:user/release-keys",
+  "SECURITY_PATCH": "2020-04-01",
+  "FIRST_API_LEVEL": "27"
+}

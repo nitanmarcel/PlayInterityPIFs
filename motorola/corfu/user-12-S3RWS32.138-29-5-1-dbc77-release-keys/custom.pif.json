@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "corfu_g",
+  "DEVICE": "corfu",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g41",
+  "FINGERPRINT": "motorola/corfu_g/corfu:12/S3RWS32.138-29-5-1/dbc77:user/release-keys",
+  "SECURITY_PATCH": "2023-04-01",
+  "FIRST_API_LEVEL": "30"
+}

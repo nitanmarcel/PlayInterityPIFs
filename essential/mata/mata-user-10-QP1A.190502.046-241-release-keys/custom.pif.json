@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "mata",
+  "DEVICE": "mata",
+  "MANUFACTURER": "Essential Products",
+  "BRAND": "essential",
+  "MODEL": "PH-1",
+  "FINGERPRINT": "essential/mata/mata:10/QP1A.190502.046/241:user/test-keys",
+  "SECURITY_PATCH": "2019-06-05",
+  "FIRST_API_LEVEL": "25"
+}

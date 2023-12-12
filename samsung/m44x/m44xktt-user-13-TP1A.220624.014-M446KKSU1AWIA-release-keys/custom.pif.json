@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "m44xktt",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-M446K",
+  "FINGERPRINT": "samsung/m44xktt/qssi:13/TP1A.220624.014/M446KKSU1AWIA:user/release-keys",
+  "SECURITY_PATCH": "2023-09-01",
+  "FIRST_API_LEVEL": "32"
+}

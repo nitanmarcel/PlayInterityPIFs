@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Neon",
+  "DEVICE": "Neon",
+  "MANUFACTURER": "Jinga",
+  "BRAND": "Jinga",
+  "MODEL": "Neon",
+  "FINGERPRINT": "Jinga/Neon/Neon:8.1.0/OPM2.171019.012/15122018200203:user/release-keys",
+  "SECURITY_PATCH": "2018-12-05",
+  "FIRST_API_LEVEL": "27"
+}

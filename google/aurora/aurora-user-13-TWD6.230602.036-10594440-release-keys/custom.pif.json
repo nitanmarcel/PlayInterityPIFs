@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "aurora",
+  "DEVICE": "aurora",
+  "MANUFACTURER": "Google",
+  "BRAND": "google",
+  "MODEL": "Google Pixel Watch 2",
+  "FINGERPRINT": "google/aurora/aurora:13/TWD6.230602.036/10594440:user/release-keys",
+  "SECURITY_PATCH": "2023-08-01",
+  "FIRST_API_LEVEL": "32"
+}

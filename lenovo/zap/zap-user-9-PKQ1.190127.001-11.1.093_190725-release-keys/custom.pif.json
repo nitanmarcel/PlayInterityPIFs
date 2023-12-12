@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "zap",
+  "DEVICE": "zap",
+  "MANUFACTURER": "Lenovo",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo L78031",
+  "FINGERPRINT": "Lenovo/zap/zap:9/PKQ1.190127.001/11.1.093_190725:user/release-keys",
+  "SECURITY_PATCH": "2019-07-01",
+  "FIRST_API_LEVEL": "27"
+}

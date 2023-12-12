@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "OPEN_Phone",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "asus",
+  "BRAND": "asus",
+  "MODEL": "ASUS_I006D",
+  "FINGERPRINT": "asus/qssi/qssi:13/TKQ1.220523.001/32.0501.0403.4:user/release-keys",
+  "SECURITY_PATCH": "2022-06-05",
+  "FIRST_API_LEVEL": "30"
+}

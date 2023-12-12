@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "pokerp_k10_64",
+  "DEVICE": "pokerp",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "Lenovo K10",
+  "FINGERPRINT": "motorola/pokerp_k10_64/pokerp:9/PTBS29.425-25-1/25-1:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "28"
+}

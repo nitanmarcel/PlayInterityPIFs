@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "m21nsxx",
+  "DEVICE": "m21",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-M215F",
+  "FINGERPRINT": "samsung/m21nsxx/m21:12/SP1A.210812.016/M215FXXU3CVH1:user/release-keys",
+  "SECURITY_PATCH": "2022-08-01",
+  "FIRST_API_LEVEL": "29"
+}

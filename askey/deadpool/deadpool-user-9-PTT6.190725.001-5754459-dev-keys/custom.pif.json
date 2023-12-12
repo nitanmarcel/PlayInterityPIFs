@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "deadpool",
+  "DEVICE": "deadpool",
+  "MANUFACTURER": "askey",
+  "BRAND": "askey",
+  "MODEL": "4K TV Device",
+  "FINGERPRINT": "askey/deadpool/deadpool:9/PTT6.190725.001/5754459:user/dev-keys",
+  "SECURITY_PATCH": "2019-08-01",
+  "FIRST_API_LEVEL": "28"
+}

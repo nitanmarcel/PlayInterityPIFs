@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "d2que",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-N975U1",
+  "FINGERPRINT": "samsung/d2que/qssi:12/SP1A.210812.016/N975U1UEU7ZUKI:user/release-keys",
+  "SECURITY_PATCH": "2021-12-01",
+  "FIRST_API_LEVEL": "28"
+}

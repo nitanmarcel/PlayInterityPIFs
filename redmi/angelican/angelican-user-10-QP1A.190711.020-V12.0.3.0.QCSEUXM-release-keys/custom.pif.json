@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "angelican_eea",
+  "DEVICE": "angelican",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "M2006C3MNG",
+  "FINGERPRINT": "Redmi/angelican_eea/angelican:10/QP1A.190711.020/V12.0.3.0.QCSEUXM:user/release-keys",
+  "SECURITY_PATCH": "2020-08-01",
+  "FIRST_API_LEVEL": "29"
+}

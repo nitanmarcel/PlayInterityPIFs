@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "S2",
+  "DEVICE": "S2_sprout",
+  "MANUFACTURER": "KYOCERA",
+  "BRAND": "KYOCERA",
+  "MODEL": "S2",
+  "FINGERPRINT": "KYOCERA/S2/S2_sprout:9/5.120VE.29.a/5.120VE.29.a:user/release-keys",
+  "SECURITY_PATCH": "2018-12-01",
+  "FIRST_API_LEVEL": "24"
+}

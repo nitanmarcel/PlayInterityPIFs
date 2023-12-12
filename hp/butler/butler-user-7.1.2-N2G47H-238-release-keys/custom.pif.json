@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "butler",
+  "DEVICE": "butler",
+  "MANUFACTURER": "HP",
+  "BRAND": "hp",
+  "MODEL": "Butler",
+  "FINGERPRINT": "hp/butler/butler:7.1.2/N2G47H/0.00.42-238:user/release-keys",
+  "FIRST_API_LEVEL": "0"
+}

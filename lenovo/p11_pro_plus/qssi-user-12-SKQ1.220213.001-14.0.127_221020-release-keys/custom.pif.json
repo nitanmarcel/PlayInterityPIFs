@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "LenovoTB-J716F_PRC",
+  "DEVICE": "J716F",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "Lenovo/LenovoTB-J716F_PRC/J716F:12/SKQ1.220213.001/14.0.127_221020:user/release-keys",
+  "SECURITY_PATCH": "2022-08-01",
+  "FIRST_API_LEVEL": "30"
+}

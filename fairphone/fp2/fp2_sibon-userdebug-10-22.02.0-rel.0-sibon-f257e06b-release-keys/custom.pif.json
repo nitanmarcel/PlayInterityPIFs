@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "FP2",
+  "DEVICE": "FP2",
+  "MANUFACTURER": "Fairphone",
+  "BRAND": "Fairphone",
+  "MODEL": "FP2",
+  "FINGERPRINT": "Fairphone/FP2/FP2:10/22.02.0-rel.0/sibon-f257e06b:userdebug/release-keys",
+  "SECURITY_PATCH": "2022-02-05",
+  "FIRST_API_LEVEL": "29"
+}

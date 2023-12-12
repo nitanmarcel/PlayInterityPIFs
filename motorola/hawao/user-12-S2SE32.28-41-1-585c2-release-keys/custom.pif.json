@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "hawao_g",
+  "DEVICE": "hawao",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g42",
+  "FINGERPRINT": "motorola/hawao_g/hawao:12/S2SE32M.28-41-1/6b23cf:user/release-keys",
+  "SECURITY_PATCH": "2022-06-01",
+  "FIRST_API_LEVEL": "31"
+}

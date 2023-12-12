@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "hiphi_g",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 30 pro",
+  "FINGERPRINT": "motorola/hiphi_g/msi:12/S3SH32M.12-41-4/0fc314:user/release-keys",
+  "SECURITY_PATCH": "2022-11-01",
+  "FIRST_API_LEVEL": "31"
+}

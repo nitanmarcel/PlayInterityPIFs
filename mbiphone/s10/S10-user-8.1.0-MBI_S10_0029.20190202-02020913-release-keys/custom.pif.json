@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "S10",
+  "DEVICE": "S10",
+  "MANUFACTURER": "MBIPhone",
+  "BRAND": "MBIPhone",
+  "MODEL": "S10",
+  "FINGERPRINT": "MBIPhone/S10/S10:8.1.0/MBI_S10_0029.20190202/02020913:user/release-keys",
+  "SECURITY_PATCH": "2018-06-01",
+  "FIRST_API_LEVEL": "27"
+}

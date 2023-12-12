@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "CN_I001D",
+  "DEVICE": "ASUS_I001_1",
+  "MANUFACTURER": "asus",
+  "BRAND": "asus",
+  "MODEL": "ASUS_I001DA",
+  "FINGERPRINT": "asus/CN_I001D/ASUS_I001_1:9/PKQ1.190414.001/16.0621.1906.12-0:user/release-keys",
+  "SECURITY_PATCH": "2019-06-05",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Smartphone",
+  "DEVICE": "LS1542QW",
+  "MANUFACTURER": "Wingtech",
+  "BRAND": "Jio",
+  "MODEL": "LS1542QW",
+  "FINGERPRINT": "Jio/Smartphone/LS1542QW:11/RKQ1.210602.002/B.001.05.001:user/release-keys",
+  "SECURITY_PATCH": "2021-10-05",
+  "FIRST_API_LEVEL": "30"
+}

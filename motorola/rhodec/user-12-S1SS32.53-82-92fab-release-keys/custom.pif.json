@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rhodec_g",
+  "DEVICE": "rhodec",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g62 5G",
+  "FINGERPRINT": "motorola/rhodec_g/rhodec:12/S1SS32M.53-82/1223b:user/release-keys",
+  "SECURITY_PATCH": "2022-11-01",
+  "FIRST_API_LEVEL": "31"
+}

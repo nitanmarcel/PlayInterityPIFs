@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "whyred",
+  "DEVICE": "whyred",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Redmi Note 5",
+  "FINGERPRINT": "xiaomi/whyred/whyred:9/PKQ1.180904.001/V10.3.5.0.PEICNXM:user/release-keys",
+  "SECURITY_PATCH": "2019-08-05",
+  "FIRST_API_LEVEL": "25"
+}

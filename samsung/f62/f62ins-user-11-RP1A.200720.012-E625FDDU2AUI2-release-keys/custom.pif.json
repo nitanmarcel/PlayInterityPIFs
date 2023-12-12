@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "f62ins",
+  "DEVICE": "f62",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-E625F",
+  "FINGERPRINT": "samsung/f62ins/f62:11/RP1A.200720.012/E625FDDU2AUI2:user/release-keys",
+  "SECURITY_PATCH": "2021-10-01",
+  "FIRST_API_LEVEL": "30"
+}

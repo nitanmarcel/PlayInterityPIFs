@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Titan_EEA",
+  "DEVICE": "Titan",
+  "MANUFACTURER": "A-gold",
+  "BRAND": "Unihertz",
+  "MODEL": "Titan",
+  "FINGERPRINT": "Unihertz/Titan_EEA/Titan:9/PPR1.180610.011/root.20191205.185324:user/release-keys",
+  "SECURITY_PATCH": "2019-10-05",
+  "FIRST_API_LEVEL": "28"
+}

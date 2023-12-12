@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "dm1qxxx",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-S911B",
+  "FINGERPRINT": "samsung/dm1qxxx/qssi:13/TP1A.220624.014/S911BXXS1AWD1:user/release-keys",
+  "SECURITY_PATCH": "2023-05-01",
+  "FIRST_API_LEVEL": "32"
+}

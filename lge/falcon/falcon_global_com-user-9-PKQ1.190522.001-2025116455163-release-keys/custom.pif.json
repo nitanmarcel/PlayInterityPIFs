@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "falcon_global_com",
+  "DEVICE": "falcon",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-Q850",
+  "FINGERPRINT": "lge/falcon_global_com/falcon:9/PKQ1.190522.001/2025116455163:user/release-keys",
+  "SECURITY_PATCH": "2020-09-01",
+  "FIRST_API_LEVEL": "27"
+}

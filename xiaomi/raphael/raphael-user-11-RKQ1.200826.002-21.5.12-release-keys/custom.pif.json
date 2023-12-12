@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "raphael",
+  "DEVICE": "raphael",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi K20 Pro",
+  "FINGERPRINT": "Xiaomi/raphael/raphael:11/RKQ1.200826.002/21.5.12:user/release-keys",
+  "SECURITY_PATCH": "2021-05-01",
+  "FIRST_API_LEVEL": "28"
+}

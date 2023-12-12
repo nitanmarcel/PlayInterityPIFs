@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "ONYX",
+  "BRAND": "qti",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "qti/qssi/qssi:11/2023-04-10_06-40_3.3.2_9916cdce0/4155:user/dev-keys",
+  "SECURITY_PATCH": "2021-08-05",
+  "FIRST_API_LEVEL": "30"
+}

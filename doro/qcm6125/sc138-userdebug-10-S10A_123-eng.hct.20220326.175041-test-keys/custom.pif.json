@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "S10A",
+  "DEVICE": "QCM6125",
+  "MANUFACTURER": "Doro",
+  "BRAND": "Doro",
+  "MODEL": "QCM6125",
+  "FINGERPRINT": "qti/S10A/QCM6125:10/S10A_123/hct03261747:userdebug/test-keys",
+  "SECURITY_PATCH": "2020-08-05",
+  "FIRST_API_LEVEL": "29"
+}

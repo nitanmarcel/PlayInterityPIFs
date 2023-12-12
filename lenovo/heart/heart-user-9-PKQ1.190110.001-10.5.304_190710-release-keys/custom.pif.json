@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "heart",
+  "DEVICE": "heart",
+  "MANUFACTURER": "Lenovo",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo L78032",
+  "FINGERPRINT": "Lenovo/heart/heart:9/PKQ1.190110.001/10.5.304_190710:user/release-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "FIRST_API_LEVEL": "28"
+}

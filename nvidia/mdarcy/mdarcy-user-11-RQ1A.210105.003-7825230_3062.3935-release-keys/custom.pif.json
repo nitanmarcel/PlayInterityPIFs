@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "mdarcy",
+  "DEVICE": "mdarcy",
+  "MANUFACTURER": "NVIDIA",
+  "BRAND": "NVIDIA",
+  "MODEL": "SHIELD Android TV",
+  "FINGERPRINT": "NVIDIA/mdarcy/mdarcy:11/RQ1A.210105.003/7825230_3062.3935:user/release-keys",
+  "SECURITY_PATCH": "2022-04-05",
+  "FIRST_API_LEVEL": "28"
+}

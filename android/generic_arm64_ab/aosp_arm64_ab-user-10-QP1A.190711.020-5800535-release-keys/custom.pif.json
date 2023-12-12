@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "aosp_arm64_ab",
+  "DEVICE": "generic_arm64_ab",
+  "MANUFACTURER": "unknown",
+  "BRAND": "Android",
+  "MODEL": "AOSP on ARM64",
+  "FINGERPRINT": "Android/aosp_arm64_ab/generic_arm64_ab:10/QP1A.190711.020/5800535:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "29"
+}

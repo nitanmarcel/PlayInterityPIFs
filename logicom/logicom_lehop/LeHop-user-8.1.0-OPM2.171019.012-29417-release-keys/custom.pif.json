@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "LeHop",
+  "DEVICE": "Logicom_LeHop",
+  "MANUFACTURER": "Logicom",
+  "BRAND": "Logicom",
+  "MODEL": "Le Hop",
+  "FINGERPRINT": "Logicom/LeHop/Logicom_LeHop:8.1.0/171019/20180719.3:user/release-keys",
+  "SECURITY_PATCH": "2018-07-05",
+  "FIRST_API_LEVEL": "27"
+}

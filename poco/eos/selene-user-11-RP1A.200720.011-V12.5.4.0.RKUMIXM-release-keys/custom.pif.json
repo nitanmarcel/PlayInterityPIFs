@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "selene",
+  "DEVICE": "selene",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "21061119AG",
+  "FINGERPRINT": "Redmi/selene/selene:11/RP1A.200720.011/V12.5.4.0.RKUMIXM:user/release-keys",
+  "SECURITY_PATCH": "2021-07-01",
+  "FIRST_API_LEVEL": "30"
+}

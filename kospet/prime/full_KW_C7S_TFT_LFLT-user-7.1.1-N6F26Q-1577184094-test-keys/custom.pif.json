@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "PRIME",
+  "DEVICE": "PRIME",
+  "MANUFACTURER": "alps",
+  "BRAND": "KOSPET",
+  "MODEL": "PRIME",
+  "FINGERPRINT": "alps/full_KW_C7S_TFT_LFLT/KW_C7S_TFT_LFLT:7.1.1/N6F26Q/1577184094:user/test-keys",
+  "SECURITY_PATCH": "2018-05-05",
+  "FIRST_API_LEVEL": "25"
+}

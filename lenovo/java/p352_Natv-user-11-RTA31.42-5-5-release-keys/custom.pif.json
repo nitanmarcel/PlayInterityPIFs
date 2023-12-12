@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "java_lenovo",
+  "DEVICE": "java",
+  "MANUFACTURER": "motorola",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo K13 Note",
+  "FINGERPRINT": "Lenovo/java_lenovo/java:11/RTA31.42-5/5:user/release-keys",
+  "SECURITY_PATCH": "2021-04-05",
+  "FIRST_API_LEVEL": "30"
+}

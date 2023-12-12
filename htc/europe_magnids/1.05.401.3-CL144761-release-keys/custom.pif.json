@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "htc_magnids",
+  "DEVICE": "magnids",
+  "MANUFACTURER": "HTC",
+  "BRAND": "htc_europe",
+  "MODEL": "HTC Desire SV",
+  "FINGERPRINT": "htc_europe/htc_magnids/magnids:4.0.4/IMM76D/144761.3:user/release-keys",
+  "FIRST_API_LEVEL": "15"
+}

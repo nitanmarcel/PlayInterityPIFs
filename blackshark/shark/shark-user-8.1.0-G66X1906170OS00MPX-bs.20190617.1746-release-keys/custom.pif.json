@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "shark",
+  "DEVICE": "shark",
+  "MANUFACTURER": "Blackshark",
+  "BRAND": "blackshark",
+  "MODEL": "shark",
+  "FINGERPRINT": "blackshark/SKR-H0/shark:8.1.0/G66X1906170OS00MPX/bs.20190617.1746:user/release-keys",
+  "SECURITY_PATCH": "2019-05-05",
+  "FIRST_API_LEVEL": "27"
+}

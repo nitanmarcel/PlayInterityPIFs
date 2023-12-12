@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "msm8909",
+  "DEVICE": "msm8909",
+  "MANUFACTURER": "XGD",
+  "BRAND": "qcom",
+  "MODEL": "N5",
+  "FINGERPRINT": "qcom/msm8909/msm8909:5.1.1/LMY47V/12:user/release-keys",
+  "SECURITY_PATCH": "",
+  "FIRST_API_LEVEL": "22"
+}

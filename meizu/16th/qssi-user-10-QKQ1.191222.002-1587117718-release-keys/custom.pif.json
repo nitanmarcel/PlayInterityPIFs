@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "meizu_16th_CN",
+  "DEVICE": "16th",
+  "MANUFACTURER": "Meizu",
+  "BRAND": "meizu",
+  "MODEL": "16th",
+  "FINGERPRINT": "meizu/qssi/qssi:10/QKQ1.191222.002/1587117718:user/release-keys",
+  "SECURITY_PATCH": "2020-06-01",
+  "FIRST_API_LEVEL": "27"
+}

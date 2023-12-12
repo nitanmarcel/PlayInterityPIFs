@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "KYV47_jp_kdi",
+  "DEVICE": "KYV47",
+  "MANUFACTURER": "KYOCERA",
+  "BRAND": "KYOCERA",
+  "MODEL": "KYV47",
+  "FINGERPRINT": "KYOCERA/KYV47_jp_kdi/KYV47:10/1.060HA.0124.a/1.060HA.0124.a:user/release-keys",
+  "SECURITY_PATCH": "2020-09-01",
+  "FIRST_API_LEVEL": "29"
+}

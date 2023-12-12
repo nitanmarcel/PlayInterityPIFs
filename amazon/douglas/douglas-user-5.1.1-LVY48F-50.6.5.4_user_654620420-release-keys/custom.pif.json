@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "douglas",
+  "DEVICE": "douglas",
+  "MANUFACTURER": "Amazon",
+  "BRAND": "Amazon",
+  "MODEL": "KFDOWI",
+  "FINGERPRINT": "Amazon/douglas/douglas:5.1.1/LVY48F/50.6.5.4_user_654620420:user/release-keys",
+  "SECURITY_PATCH": "2019-07-01",
+  "FIRST_API_LEVEL": "22"
+}

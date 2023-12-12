@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a30sdx",
+  "DEVICE": "a30s",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A307GN",
+  "FINGERPRINT": "samsung/a30sdx/a30s:11/RP1A.200720.012/A307GNDXS5CWC3:user/release-keys",
+  "SECURITY_PATCH": "2023-03-01",
+  "FIRST_API_LEVEL": "28"
+}

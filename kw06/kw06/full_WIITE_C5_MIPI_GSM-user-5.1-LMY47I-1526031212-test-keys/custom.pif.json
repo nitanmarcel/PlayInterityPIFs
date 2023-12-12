@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "KW06",
+  "DEVICE": "KW06",
+  "MANUFACTURER": "alps",
+  "BRAND": "KW06",
+  "MODEL": "KW06",
+  "FINGERPRINT": "alps/full_WIITE_C5_MIPI_GSM/WIITE_C5_MIPI_GSM:5.1/LMY47I/1526031212:user/test-keys",
+  "SECURITY_PATCH": "2016-06-01",
+  "FIRST_API_LEVEL": "22"
+}

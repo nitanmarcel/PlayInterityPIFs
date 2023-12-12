@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "nappa_s",
+  "DEVICE": "nappa_s",
+  "MANUFACTURER": "bq",
+  "BRAND": "bq",
+  "MODEL": "Aquaris VS",
+  "FINGERPRINT": "bq/nappa_s/nappa_s:8.1.0/OPM1.171019.026/1696:user/release-keys",
+  "SECURITY_PATCH": "2019-07-01",
+  "FIRST_API_LEVEL": "25"
+}

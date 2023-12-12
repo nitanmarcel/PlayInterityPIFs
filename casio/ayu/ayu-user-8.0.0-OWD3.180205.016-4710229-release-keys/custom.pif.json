@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ayu",
+  "DEVICE": "ayu",
+  "MANUFACTURER": "CASIO",
+  "BRAND": "casio",
+  "MODEL": "CASIO WSD-F20",
+  "FINGERPRINT": "casio/ayu/ayu:8.0.0/OWD3.180205.016/4710229:user/release-keys",
+  "SECURITY_PATCH": "2018-03-05",
+  "FIRST_API_LEVEL": "25"
+}

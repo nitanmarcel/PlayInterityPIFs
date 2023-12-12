@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "tiare",
+  "DEVICE": "tiare",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi Go",
+  "FINGERPRINT": "Xiaomi/tiare/tiare:8.1.0/OPM1.171019.026/V10.2.22.0.OCLMIXM:user/release-keys",
+  "SECURITY_PATCH": "2020-11-05",
+  "FIRST_API_LEVEL": "27"
+}

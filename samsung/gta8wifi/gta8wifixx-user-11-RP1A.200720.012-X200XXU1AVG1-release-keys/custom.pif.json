@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "gta8wifixx",
+  "DEVICE": "gta8wifi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-X200",
+  "FINGERPRINT": "samsung/gta8wifixx/gta8wifi:11/RP1A.200720.012/X200XXU1AVG1:user/release-keys",
+  "SECURITY_PATCH": "2022-05-01",
+  "FIRST_API_LEVEL": "30"
+}

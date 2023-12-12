@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rice_vtt",
+  "DEVICE": "rice",
+  "MANUFACTURER": "vsmart",
+  "BRAND": "vsmart",
+  "MODEL": "Bee Lite",
+  "FINGERPRINT": "vsmart/rice_vtt/rice:10/QKQ1.200512.002/V140A_VTT_U_A2_201027:user/release-keys",
+  "SECURITY_PATCH": "2020-09-01",
+  "FIRST_API_LEVEL": "29"
+}

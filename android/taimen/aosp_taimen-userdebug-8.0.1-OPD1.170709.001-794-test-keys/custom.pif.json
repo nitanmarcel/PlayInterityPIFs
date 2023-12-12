@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "aosp_taimen",
+  "DEVICE": "taimen",
+  "MANUFACTURER": "Google",
+  "BRAND": "Android",
+  "MODEL": "G011C",
+  "FINGERPRINT": "Android/aosp_taimen/taimen:8.0.1/OPD1.170709.001/794:userdebug/test-keys",
+  "FIRST_API_LEVEL": "26"
+}

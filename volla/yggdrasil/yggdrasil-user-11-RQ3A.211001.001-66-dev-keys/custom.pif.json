@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lineage_yggdrasil",
+  "DEVICE": "yggdrasil",
+  "MANUFACTURER": "Volla",
+  "BRAND": "volla",
+  "MODEL": "Volla Phone",
+  "FINGERPRINT": "volla/lineage_yggdrasil/yggdrasil:11/RQ3A.211001.001/66:user/dev-keys",
+  "SECURITY_PATCH": "2022-05-05",
+  "FIRST_API_LEVEL": "28"
+}

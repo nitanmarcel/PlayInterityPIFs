@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rhode_g",
+  "DEVICE": "rhode",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g52",
+  "FINGERPRINT": "motorola/rhode_g/rhode:13/T2SR33M.72-22-4/70d224:user/release-keys",
+  "SECURITY_PATCH": "2023-10-01",
+  "FIRST_API_LEVEL": "31"
+}

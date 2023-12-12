@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "mustang",
+  "DEVICE": "mustang",
+  "MANUFACTURER": "Amazon",
+  "BRAND": "Amazon",
+  "MODEL": "KFMUWI",
+  "FINGERPRINT": "Amazon/mustang/mustang:6.0/NS6312/1852N:user/amz-p,release-keys",
+  "SECURITY_PATCH": "2019-02-01",
+  "FIRST_API_LEVEL": "25"
+}

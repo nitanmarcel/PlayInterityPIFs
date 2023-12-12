@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "SNT_sprout",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "Sentry",
+  "FINGERPRINT": "qti/qssi/qssi:12/SKQ1.220201.001/12:userdebug/dev-keys",
+  "SECURITY_PATCH": "2022-01-05",
+  "FIRST_API_LEVEL": "30"
+}

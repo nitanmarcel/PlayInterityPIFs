@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rango",
+  "DEVICE": "rango",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "MiTV-AXFR0",
+  "FINGERPRINT": "Redmi/rango/rango:11/RTT0.210630.002/373:userdebug/release-keys",
+  "SECURITY_PATCH": "2021-07-05",
+  "FIRST_API_LEVEL": "30"
+}

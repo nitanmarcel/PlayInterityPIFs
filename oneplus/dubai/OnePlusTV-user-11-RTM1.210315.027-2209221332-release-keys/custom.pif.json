@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "OnePlusTV",
+  "DEVICE": "Dubai",
+  "MANUFACTURER": "OnePlus",
+  "BRAND": "OnePlus",
+  "MODEL": "D00",
+  "FINGERPRINT": "OnePlus/OnePlusTV/Dubai:11/RTM1.210315.027/2209221332:user/release-keys",
+  "SECURITY_PATCH": "2022-07-05",
+  "FIRST_API_LEVEL": "30"
+}

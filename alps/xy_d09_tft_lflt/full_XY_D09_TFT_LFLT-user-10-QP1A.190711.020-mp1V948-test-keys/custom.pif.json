@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_XY_D09_TFT_LFLT",
+  "DEVICE": "XY_D09_TFT_LFLT",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "PRIME2",
+  "FINGERPRINT": "alps/full_XY_D09_TFT_LFLT/XY_D09_TFT_LFLT:10/QP1A.190711.020/mp1V948:user/test-keys",
+  "SECURITY_PATCH": "2020-04-05",
+  "FIRST_API_LEVEL": "29"
+}

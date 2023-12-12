@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "gtowifixx",
+  "DEVICE": "gtowifi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-T290",
+  "FINGERPRINT": "samsung/gtowifixx/gtowifi:9/PPR1.180610.011/T290XXU1ASF7:user/release-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "FIRST_API_LEVEL": "28"
+}

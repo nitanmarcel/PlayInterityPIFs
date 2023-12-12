@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "nino",
+  "DEVICE": "nino",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MiTV-MSSP1",
+  "FINGERPRINT": "Xiaomi/nino/nino:9/PI/5925:user/release-keys",
+  "SECURITY_PATCH": "2021-01-05",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "walleye",
+  "DEVICE": "walleye",
+  "MANUFACTURER": "Google",
+  "BRAND": "google",
+  "MODEL": "Pixel 2",
+  "FINGERPRINT": "google/walleye/walleye:10/QQ2A.200501.001.A3/6353761:user/release-keys",
+  "SECURITY_PATCH": "2020-05-05",
+  "FIRST_API_LEVEL": "26"
+}

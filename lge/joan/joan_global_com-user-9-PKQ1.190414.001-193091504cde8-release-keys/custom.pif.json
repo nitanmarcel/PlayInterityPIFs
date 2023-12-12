@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "joan_global_com",
+  "DEVICE": "joan",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LG-H930",
+  "FINGERPRINT": "lge/joan_global_com/joan:9/PKQ1.190414.001/193091504cde8:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "25"
+}

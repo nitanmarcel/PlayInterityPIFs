@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "elsa_nao_us",
+  "DEVICE": "elsa",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LG-US996",
+  "FINGERPRINT": "lge/elsa_nao_us/elsa:8.0.0/OPR1.170623.032/183241436cd40:user/release-keys",
+  "SECURITY_PATCH": "2018-11-01",
+  "FIRST_API_LEVEL": "24"
+}

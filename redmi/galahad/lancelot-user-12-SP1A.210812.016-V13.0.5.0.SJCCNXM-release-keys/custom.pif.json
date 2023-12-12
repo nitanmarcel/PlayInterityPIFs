@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lancelot",
+  "DEVICE": "lancelot",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "lancelot",
+  "FINGERPRINT": "Redmi/lancelot/lancelot:12/SP1A.210812.016/V13.0.5.0.SJCCNXM:user/release-keys",
+  "SECURITY_PATCH": "2022-09-01",
+  "FIRST_API_LEVEL": "29"
+}

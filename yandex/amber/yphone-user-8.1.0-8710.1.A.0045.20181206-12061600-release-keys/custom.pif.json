@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Amber",
+  "DEVICE": "Amber",
+  "MANUFACTURER": "Yandex",
+  "BRAND": "Yandex",
+  "MODEL": "YNDX-000SB",
+  "FINGERPRINT": "Yandex/Amber/Amber:8.1.0/8710.1.A.0045.20181206/12061600:user/release-keys",
+  "SECURITY_PATCH": "2018-11-05",
+  "FIRST_API_LEVEL": "27"
+}

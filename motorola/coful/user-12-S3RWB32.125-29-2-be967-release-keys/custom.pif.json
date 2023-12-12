@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "coful_g",
+  "DEVICE": "coful",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g31",
+  "FINGERPRINT": "motorola/coful_g/coful:12/S3RWB32.125-29-2/be967:user/release-keys",
+  "SECURITY_PATCH": "2022-12-01",
+  "FIRST_API_LEVEL": "30"
+}

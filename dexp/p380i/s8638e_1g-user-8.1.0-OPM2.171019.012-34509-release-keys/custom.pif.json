@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "P380i",
+  "DEVICE": "P380i",
+  "MANUFACTURER": "DEXP",
+  "BRAND": "DEXP",
+  "MODEL": "P380i",
+  "FINGERPRINT": "DEXP/P380i/P380i:8.1.0/OPM2.171019.012/34509:user/release-keys",
+  "SECURITY_PATCH": "2018-07-05",
+  "FIRST_API_LEVEL": "27"
+}

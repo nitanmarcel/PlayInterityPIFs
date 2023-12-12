@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rav_retus",
+  "DEVICE": "rav",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g fast",
+  "FINGERPRINT": "motorola/rav_retus/rav:11/RPJS31.Q1-53-12-5/ae457:user/release-keys",
+  "SECURITY_PATCH": "2021-06-01",
+  "FIRST_API_LEVEL": "29"
+}

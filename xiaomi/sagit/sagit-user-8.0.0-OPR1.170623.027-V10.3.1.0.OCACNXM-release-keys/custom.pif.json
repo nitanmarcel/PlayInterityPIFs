@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sagit",
+  "DEVICE": "sagit",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI 6",
+  "FINGERPRINT": "Xiaomi/sagit/sagit:8.0.0/OPR1.170623.027/V10.3.1.0.OCACNXM:user/release-keys",
+  "SECURITY_PATCH": "2019-03-01",
+  "FIRST_API_LEVEL": "25"
+}

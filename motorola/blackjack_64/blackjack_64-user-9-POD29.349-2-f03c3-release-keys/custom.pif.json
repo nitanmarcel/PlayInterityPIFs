@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "blackjack_64",
+  "DEVICE": "blackjack_64",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(8) power lite",
+  "FINGERPRINT": "motorola/blackjack_64/blackjack:9/POD29.349-2/f03c3:user/release-keys",
+  "SECURITY_PATCH": "2020-07-05",
+  "FIRST_API_LEVEL": "28"
+}

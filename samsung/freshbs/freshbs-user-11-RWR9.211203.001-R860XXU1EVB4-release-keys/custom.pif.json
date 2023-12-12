@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "freshbs",
+  "DEVICE": "freshbs",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-R860",
+  "FINGERPRINT": "samsung/freshbs/freshbs:11/RWR9.211203.001/R860XXU1EVB4:user/release-keys",
+  "SECURITY_PATCH": "2022-01-01",
+  "FIRST_API_LEVEL": "30"
+}

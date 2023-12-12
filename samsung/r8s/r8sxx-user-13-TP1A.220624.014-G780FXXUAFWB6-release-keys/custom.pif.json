@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "r8sxx",
+  "DEVICE": "essi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G780F",
+  "FINGERPRINT": "samsung/r8sxx/essi:13/TP1A.220624.014/G780FXXUAFWB6:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "FIRST_API_LEVEL": "29"
+}

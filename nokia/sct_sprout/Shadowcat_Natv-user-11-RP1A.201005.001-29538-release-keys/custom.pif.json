@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Shadowcat_00WW",
+  "DEVICE": "SCT_sprout",
+  "MANUFACTURER": "HMD Global",
+  "BRAND": "Nokia",
+  "MODEL": "Nokia G11",
+  "FINGERPRINT": "Nokia/Shadowcat_00WW/SCT_sprout:11/RP1A.201005.001/00WW_1_330:user/release-keys",
+  "SECURITY_PATCH": "2022-07-05",
+  "FIRST_API_LEVEL": "30"
+}

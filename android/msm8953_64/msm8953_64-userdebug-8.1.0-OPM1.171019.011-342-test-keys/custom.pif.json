@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "msm8953_64",
+  "DEVICE": "msm8953_64",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "Android",
+  "MODEL": "msm8953 for arm64",
+  "FINGERPRINT": "Android/msm8953_64/msm8953_64:8.1.0/OPM1.171019.011/342:userdebug/test-keys",
+  "SECURITY_PATCH": "2017-12-05",
+  "FIRST_API_LEVEL": "27"
+}

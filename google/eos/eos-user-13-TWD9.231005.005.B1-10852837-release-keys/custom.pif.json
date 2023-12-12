@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "eos",
+  "DEVICE": "eos",
+  "MANUFACTURER": "Google",
+  "BRAND": "google",
+  "MODEL": "Google Pixel Watch 2",
+  "FINGERPRINT": "google/eos/eos:13/TWD9.231005.005.B1/10852837:user/release-keys",
+  "SECURITY_PATCH": "2023-10-05",
+  "FIRST_API_LEVEL": "32"
+}

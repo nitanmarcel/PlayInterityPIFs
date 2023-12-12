@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "kunlun",
+  "DEVICE": "kunlun",
+  "MANUFACTURER": "Lenovo",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo L38041",
+  "FINGERPRINT": "Lenovo/kunlun/kunlun:8.1.0/OPM1.171019.019/5.0.117_181225:user/release-keys",
+  "SECURITY_PATCH": "2018-11-01",
+  "FIRST_API_LEVEL": "27"
+}

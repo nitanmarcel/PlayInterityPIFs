@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "franklin",
+  "DEVICE": "franklin",
+  "MANUFACTURER": "Droidlogic",
+  "BRAND": "Jio",
+  "MODEL": "JHSD200",
+  "FINGERPRINT": "Jio/franklin/franklin:9/5.7.1/20210619:user/release-keys",
+  "SECURITY_PATCH": "2020-12-01",
+  "FIRST_API_LEVEL": "28"
+}

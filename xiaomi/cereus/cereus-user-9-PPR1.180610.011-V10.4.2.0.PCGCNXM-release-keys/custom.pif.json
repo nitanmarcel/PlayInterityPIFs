@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cereus",
+  "DEVICE": "cereus",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Redmi 6",
+  "FINGERPRINT": "xiaomi/cereus/cereus:9/PPR1.180610.011/V10.4.2.0.PCGCNXM:user/release-keys",
+  "SECURITY_PATCH": "2019-07-01",
+  "FIRST_API_LEVEL": "27"
+}

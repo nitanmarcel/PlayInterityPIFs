@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "5003D",
+  "DEVICE": "Curie",
+  "MANUFACTURER": "TCL",
+  "BRAND": "TCL",
+  "MODEL": "5003D",
+  "FINGERPRINT": "TCL/5003D/Curie:8.1.0/OPM2.171019.012/5003D_ALWE_V1.1:user/release-keys",
+  "SECURITY_PATCH": "2018-09-05",
+  "FIRST_API_LEVEL": "27"
+}

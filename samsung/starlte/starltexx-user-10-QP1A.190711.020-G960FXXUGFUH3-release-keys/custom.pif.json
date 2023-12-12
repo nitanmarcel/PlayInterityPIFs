@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "starltexx",
+  "DEVICE": "starlte",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G960F",
+  "FINGERPRINT": "samsung/starltexx/starlte:10/QP1A.190711.020/G960FXXUGFUH3:user/release-keys",
+  "SECURITY_PATCH": "2021-08-01",
+  "FIRST_API_LEVEL": "26"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "L530",
+  "DEVICE": "L530",
+  "MANUFACTURER": "Lanix",
+  "BRAND": "Claro",
+  "MODEL": "L530",
+  "FINGERPRINT": "Claro/L530/L530:8.1.0/OPM2.171019.012/33216:user/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "27"
+}

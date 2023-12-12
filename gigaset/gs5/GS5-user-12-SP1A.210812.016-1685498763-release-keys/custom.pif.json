@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "GS5_EEA",
+  "DEVICE": "GS5",
+  "MANUFACTURER": "Gigaset",
+  "BRAND": "Gigaset",
+  "MODEL": "E940-2796-00",
+  "FINGERPRINT": "Gigaset/GS5_EEA/GS5:12/SP1A.210812.016/1685498763:user/release-keys",
+  "SECURITY_PATCH": "2023-05-05",
+  "FIRST_API_LEVEL": "30"
+}

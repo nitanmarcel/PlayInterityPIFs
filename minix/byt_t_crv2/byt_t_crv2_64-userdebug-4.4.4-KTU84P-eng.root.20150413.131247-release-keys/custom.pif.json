@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "byt_t_crv2_64",
+  "DEVICE": "byt_t_crv2",
+  "MANUFACTURER": "intel",
+  "BRAND": "MINIX",
+  "MODEL": "NEO-Z64",
+  "FINGERPRINT": "intel/byt_t_crv2_64/byt_t_crv2:4.4.4/KTU84P/eng.root.20150413.131247:userdebug/release-keys",
+  "FIRST_API_LEVEL": "19"
+}

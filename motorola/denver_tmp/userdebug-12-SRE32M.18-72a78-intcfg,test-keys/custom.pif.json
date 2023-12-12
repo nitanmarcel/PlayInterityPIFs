@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "denver_global",
+  "DEVICE": "denver",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g stylus 5G",
+  "FINGERPRINT": "motorola/denver_global/denver:12/SRE32M.18/72a78:userdebug/intcfg,test-keys",
+  "SECURITY_PATCH": "2021-10-05",
+  "FIRST_API_LEVEL": "31"
+}

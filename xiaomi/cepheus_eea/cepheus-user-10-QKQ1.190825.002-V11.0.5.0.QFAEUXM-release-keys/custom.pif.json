@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cepheus_eea",
+  "DEVICE": "cepheus",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI 9",
+  "FINGERPRINT": "Xiaomi/cepheus_eea/cepheus:10/QKQ1.190825.002/V11.0.5.0.QFAEUXM:user/release-keys",
+  "SECURITY_PATCH": "2019-10-01",
+  "FIRST_API_LEVEL": "28"
+}

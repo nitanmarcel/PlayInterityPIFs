@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "r3qxx",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A908B",
+  "FINGERPRINT": "samsung/r3qxx/qssi:12/SP1A.210812.016/A908BXXU9EWF1:user/release-keys",
+  "SECURITY_PATCH": "2023-06-01",
+  "FIRST_API_LEVEL": "28"
+}

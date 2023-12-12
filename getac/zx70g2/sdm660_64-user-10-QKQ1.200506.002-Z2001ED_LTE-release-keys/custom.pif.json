@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "zx70g2_LTE",
+  "DEVICE": "zx70g2",
+  "MANUFACTURER": "Getac",
+  "BRAND": "Getac",
+  "MODEL": "ZX70G2",
+  "FINGERPRINT": "Getac/zx70g2_LTE/zx70g2:10/QKQ1.200506.002/Z2001ED_LTE:user/release-keys",
+  "SECURITY_PATCH": "2021-12-01",
+  "FIRST_API_LEVEL": "28"
+}

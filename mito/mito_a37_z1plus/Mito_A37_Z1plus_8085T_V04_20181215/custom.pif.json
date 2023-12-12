@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "MITO_A37_Z1plus",
+  "DEVICE": "MITO_A37_Z1plus",
+  "MANUFACTURER": "MITO",
+  "BRAND": "MITO",
+  "MODEL": "MITO_A37_Z1plus",
+  "FINGERPRINT": "MITO/MITO_A37_Z1plus/MITO_A37_Z1plus:8.1.0/O21019/1544688505:user/release-keys",
+  "SECURITY_PATCH": "2018-12-05",
+  "FIRST_API_LEVEL": "27"
+}

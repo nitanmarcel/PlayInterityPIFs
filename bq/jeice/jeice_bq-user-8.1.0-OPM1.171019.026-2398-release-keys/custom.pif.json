@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "jeice_bq",
+  "DEVICE": "jeice",
+  "MANUFACTURER": "bq",
+  "BRAND": "bq",
+  "MODEL": "Aquaris C",
+  "FINGERPRINT": "bq/jeice_bq/jeice:8.1.0/OPM1.171019.026/2398:user/release-keys",
+  "SECURITY_PATCH": "2020-01-01",
+  "FIRST_API_LEVEL": "27"
+}

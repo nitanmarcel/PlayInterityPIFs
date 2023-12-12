@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "missi",
+  "DEVICE": "missi",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "missi",
+  "FINGERPRINT": "Xiaomi/missi/missi:Tiramisu/TP1A.220310.002/2.04.28.native.user.dpp:user/release-keys",
+  "SECURITY_PATCH": "2022-04-05",
+  "FIRST_API_LEVEL": "31"
+}

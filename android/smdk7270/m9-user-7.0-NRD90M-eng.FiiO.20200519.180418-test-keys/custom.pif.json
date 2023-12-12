@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "m9",
+  "DEVICE": "smdk7270",
+  "MANUFACTURER": "Samsung Electronics Co., Ltd.",
+  "BRAND": "Android",
+  "MODEL": "FiiO M9",
+  "FINGERPRINT": "Android/m9/smdk7270:7.0/NRD90M/FiiO05191804:user/test-keys",
+  "SECURITY_PATCH": "2016-08-05",
+  "FIRST_API_LEVEL": "24"
+}

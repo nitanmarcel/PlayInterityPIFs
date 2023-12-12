@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "missi",
+  "DEVICE": "missi",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "POCO",
+  "MODEL": "missi",
+  "FINGERPRINT": "POCO/missi/missi:12/SP1A.210812.016/V13.0.1.0.SLOEUXM:user/release-keys",
+  "SECURITY_PATCH": "2022-06-01",
+  "FIRST_API_LEVEL": "31"
+}

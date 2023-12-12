@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "surface",
+  "MODEL": "surface_10",
+  "FINGERPRINT": "surface/duo/duo:10/2020.812.86/202008120086:user/release-keys",
+  "SECURITY_PATCH": "2020-09-05",
+  "FIRST_API_LEVEL": "29"
+}

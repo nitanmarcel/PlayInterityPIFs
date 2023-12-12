@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_spm8666p1_64_bsp",
+  "DEVICE": "spm8666p1_64_bsp",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "spm8666p1_64_bsp",
+  "FINGERPRINT": "alps/full_spm8666p1_64_bsp/spm8666p1_64_bsp:8.1.0/V0.101/69CN_0_101:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "27"
+}

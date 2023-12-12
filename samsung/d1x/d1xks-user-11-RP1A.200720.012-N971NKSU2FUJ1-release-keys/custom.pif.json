@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "d1xks",
+  "DEVICE": "d1x",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-N971N",
+  "FINGERPRINT": "samsung/d1xks/d1x:11/RP1A.200720.012/N971NKSU2FUJ1:user/release-keys",
+  "SECURITY_PATCH": "2021-11-01",
+  "FIRST_API_LEVEL": "28"
+}

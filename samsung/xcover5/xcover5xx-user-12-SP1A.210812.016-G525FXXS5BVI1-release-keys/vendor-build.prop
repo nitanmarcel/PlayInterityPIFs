@@ -1,0 +1,189 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor.brand=samsung
+ro.product.vendor.device=xcover5
+ro.product.vendor.manufacturer=samsung
+ro.product.vendor.model=SM-G525F
+ro.product.vendor.name=xcover5xx
+ro.vendor.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.vendor.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.vendor.product.cpu.abilist64=arm64-v8a
+ro.vendor.build.date=Tue Sep 20 09:43:51 KST 2022
+ro.vendor.build.date.utc=1663634631
+ro.vendor.build.fingerprint=samsung/xcover5xx/xcover5:12/SP1A.210812.016/G525FXXS5BVI1:user/release-keys
+ro.vendor.build.id=SP1A.210812.016
+ro.vendor.build.tags=release-keys
+ro.vendor.build.type=user
+ro.vendor.build.version.incremental=G525FXXS5BVI1
+ro.vendor.build.version.release=12
+ro.vendor.build.version.release_or_codename=12
+ro.vendor.build.version.sdk=31
+####################################
+# from device/samsung/universal3830/vendor.prop
+####################################
+#
+# vendor.prop for universal3830
+#
+ro.soc.manufacturer=Samsung
+ro.soc.model=Exynos 850
+####################################
+# from out/target/product/xcover5/obj/ETC/android_info_prop_intermediates/android_info.prop
+####################################
+####################################
+# from variable ADDITIONAL_VENDOR_PROPERTIES
+####################################
+ro.vndk.version=31
+ro.bionic.arch=arm64
+ro.bionic.cpu_variant=generic
+ro.bionic.2nd_arch=arm
+ro.bionic.2nd_cpu_variant=cortex-a15
+persist.sys.dalvik.vm.lib.2=libart.so
+dalvik.vm.isa.arm64.variant=generic
+dalvik.vm.isa.arm64.features=default
+dalvik.vm.isa.arm.variant=cortex-a15
+dalvik.vm.isa.arm.features=default
+ro.boot.dynamic_partitions=true
+ro.product.first_api_level=30
+ro.vendor.build.security_patch=2022-10-01
+ro.product.board=exynos850
+ro.board.platform=universal3830
+ro.hwui.use_vulkan=
+ro.build.ab_update=false
+####################################
+# from variable PRODUCT_VENDOR_PROPERTIES
+####################################
+dalvik.vm.heapstartsize=8m
+dalvik.vm.heapgrowthlimit=192m
+dalvik.vm.heapsize=512m
+dalvik.vm.heaptargetutilization=0.75
+dalvik.vm.heapminfree=512k
+# Removed by post_process_props.py because overridden by dalvik.vm.heapmaxfree=4m
+#dalvik.vm.heapmaxfree?=8m
+ro.zygote=zygote64_32
+# Removed by post_process_props.py because overridden by ro.config.ringtone?=Galaxy_Bells.ogg
+#ro.config.ringtone?=Ring_Synth_04.ogg
+# Removed by post_process_props.py because overridden by ro.config.notification_sound?=Spaceline.ogg
+#ro.config.notification_sound?=pixiedust.ogg
+# Removed by post_process_props.py because overridden by ro.zygote=zygote64_32
+#ro.zygote?=zygote32
+ro.apex.updatable=true
+ro.logd.size.stats=64K
+log.tag.stats_log=I
+ro.carrier=unknown
+# Removed by post_process_props.py because overridden by ro.config.notification_sound?=Spaceline.ogg
+#ro.config.notification_sound?=OnTheHunt.ogg
+# Removed by post_process_props.py because overridden by ro.config.alarm_alert=Homecoming.ogg
+#ro.config.alarm_alert?=Alarm_Classic.ogg
+ro.vendor.sec.radio.def_network=9
+vendor.sec.rild.libpath=/vendor/lib64/libsec-ril.so
+ro.radio.noril=no
+ro.telephony.default_cdma_sub=0
+ro.vendor.epdg.support=true
+ro.vendor.radio.first_api_level=30
+####################################
+# from variable PRODUCT_DEFAULT_PROPERTY_OVERRIDES
+####################################
+persist.sys.sf.color_saturation=1.0
+persist.sys.usb.config=mtp
+####################################
+# from variable PRODUCT_PROPERTY_OVERRIDES
+####################################
+dalvik.vm.heapmaxfree=4m
+net.dns1=8.8.8.8
+net.dns2=8.8.4.4
+persist.demo.hdmirotationlock=false
+dev.usbsetting.embedded=on
+ro.vendor.config.release_version=20190306
+ro.incremental.enable=yes
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+ro.control_privapp_permissions=enforce
+wifi.interface=wlan0
+ro.opengles.version=196610
+debug.slsi_platform=1
+debug.hwc.winupdate=1
+debug.sf.disable_backpressure=1
+ro.crypto.volume.filenames_mode=aes-256-cts
+ro.lmk.use_minfree_levels=true
+ro.surface_flinger.vsync_event_phase_offset_ns=0
+ro.surface_flinger.vsync_sf_event_phase_offset_ns=0
+ro.surface_flinger.max_frame_buffer_acquired_buffers=3
+ro.surface_flinger.running_without_sync_framework=false
+debug.sf.latch_unsignaled=1
+debug.sf.high_fps_late_app_phase_offset_ns=0
+debug.sf.high_fps_late_sf_phase_offset_ns=0
+ro.hw.use_hwc_services=1
+ro.hw.use_virtual_display=1
+ro.hw.use_disable_composition_type_gles=1
+ro.hw.use_secure_encoder_only=1
+ro.hw.use_contig_memory_for_scratch_buf=1
+ro.hardware.egl=mali
+ro.hardware.vulkan=mali
+security.ASKS.policy_version=00000000
+security.ASKS.version=0
+security.ASKS.time_value=00000000
+security.ASKS.rufs_enable=true
+security.ADP.version=0
+security.ADP.policy_version=00000000
+sys.config.activelaunch_enable=true
+drm.service.enabled=true
+ro.smps.enable=false
+ro.apk_verity.mode=2
+sys.config.hardcoder.enable=false
+sys.config.ibs.enable=false
+ro.control_privapp_permissions=enforce
+ro.vendor.sec.radio.def_network=9
+vendor.sec.rild.libpath=/vendor/lib64/libsec-ril.so
+ro.radio.noril=no
+ro.telephony.default_cdma_sub=0
+ro.vendor.epdg.support=true
+ro.security.cass.feature=1
+ro.hardware.keystore=mdfpp
+ro.security.keystore.keytype=sakv2,gak
+security.securehw.available=false
+security.securenvm.available=false
+ro.security.vpnpp.ver=2.2
+ro.security.vpnpp.release=1.0
+ro.crypto.metadata_init_delete_all_keys.enabled=false
+ro.hardware.chipname=exynos850
+sys.perf.hmp=4:4
+ro.config.ringtone=Galaxy_Bells.ogg
+ro.config.notification_sound=Spaceline.ogg
+ro.config.alarm_alert=Homecoming.ogg
+ro.config.media_sound=Media_preview_Touch_the_light.ogg
+ro.config.ringtone_2=Atomic_Bell.ogg
+ro.config.notification_sound_2=Signal.ogg
+ro.config.vc_call_vol_steps=8
+ro.build.scafe.version=2021A
+ro.sf.lcd_density=340
+ro.frp.pst=/dev/block/persistent
+ro.slmk.dha_cached_min=4
+ro.slmk.dha_cached_max=14
+ro.slmk.dha_empty_max=24
+ro.slmk.dec_EFK_enable=true
+ro.slmk.add_bonusEFK=2
+ro.slmk.v_bonusEFK=59195
+ro.slmk.freelimit_val=11
+ro.slmk.dha_pwhl_key=540
+ro.slmk.swap_free_low_percentage=20
+ro.slmk.psi_medium=100
+ro.slmk.beks_enable=true
+ro.slmk.beks_key=265
+ro.slmk.psi_critical=150
+ro.slmk.chimera_strategy_4gb=870,7,6,1098
+ro.config.systemaudiodebug=abox
+ro.vendor.nfc.feature.chipname=SLSI
+ro.vendor.nfc.support.advancedsetting=false
+ro.vendor.nfc.support.autoselect=true
+ro.vendor.nfc.support.defaultaid=true
+ro.vendor.nfc.support.nonaid=true
+ro.vendor.nfc.support.othercategory=true
+ro.vendor.nfc.support.uicc=true
+ro.camera.notify_nfc=1
+ro.vendor.nfc.info.antpos=1
+ro.vendor.nfc.support.ese=false
+# end of file
+

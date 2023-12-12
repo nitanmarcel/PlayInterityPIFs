@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "v800",
+  "DEVICE": "v800",
+  "MANUFACTURER": "sprd",
+  "BRAND": "SPRD",
+  "MODEL": "v800",
+  "FINGERPRINT": "Symphony/Z15/Z15:9/PPR1.180610.011/26:user/release-keys",
+  "SECURITY_PATCH": "2019-04-01",
+  "FIRST_API_LEVEL": "28"
+}

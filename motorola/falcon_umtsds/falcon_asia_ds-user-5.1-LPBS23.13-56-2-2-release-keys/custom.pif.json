@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "falcon_asia_ds",
+  "DEVICE": "falcon_umtsds",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT1033",
+  "FINGERPRINT": "motorola/falcon_asia_ds/falcon_umtsds:5.1/LPBS23.13-56-2/2:user/release-keys",
+  "FIRST_API_LEVEL": "22"
+}

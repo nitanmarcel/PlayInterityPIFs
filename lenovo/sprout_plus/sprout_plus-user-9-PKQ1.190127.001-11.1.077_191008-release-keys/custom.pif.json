@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sprout_plus",
+  "DEVICE": "sprout_plus",
+  "MANUFACTURER": "Lenovo",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo L58091",
+  "FINGERPRINT": "Lenovo/sprout_plus/sprout_plus:9/PKQ1.190127.001/11.1.077_191008:user/release-keys",
+  "SECURITY_PATCH": "2019-08-01",
+  "FIRST_API_LEVEL": "27"
+}

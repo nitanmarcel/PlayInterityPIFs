@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a3corexx",
+  "DEVICE": "a3core",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A032F",
+  "FINGERPRINT": "samsung/a3corexx/a3core:13/TP1A.220624.014/A032FXXU4CWI8:user/release-keys",
+  "SECURITY_PATCH": "2023-09-01",
+  "FIRST_API_LEVEL": "30"
+}

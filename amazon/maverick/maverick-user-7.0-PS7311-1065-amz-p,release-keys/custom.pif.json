@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "maverick",
+  "DEVICE": "maverick",
+  "MANUFACTURER": "Amazon",
+  "BRAND": "Amazon",
+  "MODEL": "KFMAWI",
+  "FINGERPRINT": "Amazon/maverick/maverick:7.0/PS7311/1065N:user/amz-p,release-keys",
+  "SECURITY_PATCH": "2018-10-05",
+  "FIRST_API_LEVEL": "28"
+}

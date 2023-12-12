@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Falcon_00WW",
+  "DEVICE": "FCN_sprout",
+  "MANUFACTURER": "HMD Global",
+  "BRAND": "Nokia",
+  "MODEL": "Nokia X30 5G",
+  "FINGERPRINT": "Nokia/Falcon_00WW/FCN_sprout:12/SKQ1.220201.001/00WW_1_310:user/release-keys",
+  "SECURITY_PATCH": "2023-01-05",
+  "FIRST_API_LEVEL": "31"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rk3399_Android10",
+  "DEVICE": "rk3399_Android10",
+  "MANUFACTURER": "rockchip",
+  "BRAND": "rockchip",
+  "MODEL": "PX6",
+  "FINGERPRINT": "rockchip/rk3399_Android10/rk3399_Android10:10/QQ2A.200305.004.A1/ww08251800:userdebug/test-keys",
+  "SECURITY_PATCH": "2020-05-05",
+  "FIRST_API_LEVEL": "29"
+}

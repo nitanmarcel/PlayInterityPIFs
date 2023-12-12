@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "virgo_perf1",
+  "DEVICE": "virgo-perf1",
+  "MANUFACTURER": "Allwinner",
+  "BRAND": "Allwinner",
+  "MODEL": "EPD106",
+  "FINGERPRINT": "Allwinner/virgo_perf1/virgo-perf1:8.1.0/OPM1.171019.026/20200518-162705:user/test-keys",
+  "SECURITY_PATCH": "2018-07-05",
+  "FIRST_API_LEVEL": "27"
+}

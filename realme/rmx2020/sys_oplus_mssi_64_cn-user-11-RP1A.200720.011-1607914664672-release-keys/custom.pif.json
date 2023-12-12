@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sys_oplus_mssi_64_cn",
+  "DEVICE": "oplus_mssi_64_cn",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "oplus_mssi_64_cn",
+  "FINGERPRINT": "alps/sys_oplus_mssi_64_cn/oplus_mssi_64_cn:11/RP1A.200720.011/1607914664672:user/release-keys",
+  "SECURITY_PATCH": "2022-05-05",
+  "FIRST_API_LEVEL": "29"
+}

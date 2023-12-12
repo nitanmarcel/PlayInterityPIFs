@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "missi_foldable_cn",
+  "DEVICE": "missi",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "missi_foldable_cn system image for arm64",
+  "FINGERPRINT": "qti/missi_foldable_cn/missi:13/TKQ1.220829.002/V14.0.22.12.12.DEV:user/release-keys",
+  "SECURITY_PATCH": "2022-12-01",
+  "FIRST_API_LEVEL": "31"
+}

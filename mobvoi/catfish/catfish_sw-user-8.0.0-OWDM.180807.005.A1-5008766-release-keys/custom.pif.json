@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "catfish_sw",
+  "DEVICE": "catfish",
+  "MANUFACTURER": "Mobvoi",
+  "BRAND": "mobvoi",
+  "MODEL": "TicWatch Pro",
+  "FINGERPRINT": "mobvoi/catfish_sw/catfish:8.0.0/OWDM.180807.005.A1/5008766:user/release-keys",
+  "SECURITY_PATCH": "2018-07-01",
+  "FIRST_API_LEVEL": "26"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_8227L_demo",
+  "DEVICE": "8227L_demo",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "CVD1660-WJ",
+  "FINGERPRINT": "alps/full_8227L_demo/8227L_demo:8.1.0/O11019/1564460321:user/test-keys",
+  "SECURITY_PATCH": "2018-07-05",
+  "FIRST_API_LEVEL": "27"
+}

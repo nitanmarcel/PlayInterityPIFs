@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "kenzo",
+  "DEVICE": "kenzo",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi Note 3",
+  "FINGERPRINT": "Xiaomi/kenzo/kenzo:6.0.1/MMB29M/V10.2.1.0.MHOMIXM:user/release-keys",
+  "SECURITY_PATCH": "2018-07-01",
+  "FIRST_API_LEVEL": "22"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "merlin",
+  "DEVICE": "merlin",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "M2003J15SC",
+  "FINGERPRINT": "Redmi/merlin/merlin:11/RP1A.200720.011/V12.5.1.0.RJOINXM:user/release-keys",
+  "SECURITY_PATCH": "2021-07-01",
+  "FIRST_API_LEVEL": "29"
+}

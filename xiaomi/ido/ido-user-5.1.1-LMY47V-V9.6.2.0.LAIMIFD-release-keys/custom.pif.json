@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ido",
+  "DEVICE": "ido",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi 3",
+  "FINGERPRINT": "Xiaomi/ido/ido:5.1.1/LMY47V/V9.6.2.0.LAIMIFD:user/release-keys",
+  "SECURITY_PATCH": "2017-01-01",
+  "FIRST_API_LEVEL": "22"
+}

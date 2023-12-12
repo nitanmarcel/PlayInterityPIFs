@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "biloba_eea",
+  "DEVICE": "biloba",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "biloba",
+  "FINGERPRINT": "Redmi/biloba_eea/biloba:11/RP1A.200720.011/V12.5.2.0.RCUEUXM:user/release-keys",
+  "SECURITY_PATCH": "2021-05-01",
+  "FIRST_API_LEVEL": "30"
+}

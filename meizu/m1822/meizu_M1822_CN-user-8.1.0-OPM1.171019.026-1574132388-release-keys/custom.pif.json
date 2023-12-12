@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "meizu_M1822_CN",
+  "DEVICE": "M1822",
+  "MANUFACTURER": "Meizu",
+  "BRAND": "Meizu",
+  "MODEL": "M1822",
+  "FINGERPRINT": "Meizu/meizu_M1822_CN/M1822:8.1.0/OPM1.171019.026/1574132388:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "27"
+}

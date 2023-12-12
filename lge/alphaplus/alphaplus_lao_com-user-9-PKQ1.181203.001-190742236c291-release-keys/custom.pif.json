@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "alphaplus_lao_com",
+  "DEVICE": "alphaplus",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-G820",
+  "FINGERPRINT": "lge/alphaplus_lao_com/alphaplus:9/PKQ1.181203.001/190742236c291:user/release-keys",
+  "SECURITY_PATCH": "2019-03-01",
+  "FIRST_API_LEVEL": "28"
+}

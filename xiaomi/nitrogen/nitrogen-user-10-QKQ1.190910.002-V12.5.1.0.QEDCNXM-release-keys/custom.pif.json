@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "nitrogen",
+  "DEVICE": "nitrogen",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI MAX 3",
+  "FINGERPRINT": "Xiaomi/nitrogen/nitrogen:10/QKQ1.190910.002/V12.5.1.0.QEDCNXM:user/release-keys",
+  "SECURITY_PATCH": "2020-09-01",
+  "FIRST_API_LEVEL": "27"
+}

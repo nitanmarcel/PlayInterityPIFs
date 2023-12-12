@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "gsi_sdm660_64_00CN",
+  "DEVICE": "DRG",
+  "MANUFACTURER": "FIH",
+  "BRAND": "FIH_GSI",
+  "MODEL": "GSI-00CN",
+  "FINGERPRINT": "Nokia/Dragon_00CN/DRG:9/PPR1.180610.011/00CN_3_47C:user/release-keys",
+  "SECURITY_PATCH": "2019-01-01",
+  "FIRST_API_LEVEL": "28"
+}

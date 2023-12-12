@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "violet",
+  "DEVICE": "violet",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Redmi Note 7 Pro",
+  "FINGERPRINT": "xiaomi/violet/violet:10/QKQ1.190915.002/V12.5.1.0.QFHCNXM:user/release-keys",
+  "SECURITY_PATCH": "2021-05-01",
+  "FIRST_API_LEVEL": "28"
+}

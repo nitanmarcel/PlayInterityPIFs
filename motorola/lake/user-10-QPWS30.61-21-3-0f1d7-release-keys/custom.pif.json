@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lake_retail",
+  "DEVICE": "lake",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(7) plus",
+  "FINGERPRINT": "motorola/lake_retail/lake:10/QPWS30.61-21-3/0f1d7:user/release-keys",
+  "SECURITY_PATCH": "2020-02-01",
+  "FIRST_API_LEVEL": "28"
+}

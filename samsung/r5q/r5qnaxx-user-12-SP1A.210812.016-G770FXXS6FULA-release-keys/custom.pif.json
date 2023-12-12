@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "r5qnaxx",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G770F",
+  "FINGERPRINT": "samsung/r5qnaxx/qssi:12/SP1A.210812.016/G770FXXS6FULA:user/release-keys",
+  "SECURITY_PATCH": "2021-12-01",
+  "FIRST_API_LEVEL": "29"
+}

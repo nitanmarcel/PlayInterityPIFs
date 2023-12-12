@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Wasp_00WW",
+  "DEVICE": "WSP_sprout",
+  "MANUFACTURER": "HMD Global",
+  "BRAND": "Nokia",
+  "MODEL": "Nokia 2.2",
+  "FINGERPRINT": "Nokia/Wasp_00WW/WSP_sprout:10/QP1A.190711.020/00WW_2_400:user/release-keys",
+  "SECURITY_PATCH": "2020-09-05",
+  "FIRST_API_LEVEL": "28"
+}

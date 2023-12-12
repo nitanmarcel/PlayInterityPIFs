@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "WW_Phone",
+  "DEVICE": "ASUS_X00HD_4",
+  "MANUFACTURER": "asus",
+  "BRAND": "asus",
+  "MODEL": "",
+  "FINGERPRINT": "asus/WW_Phone/ASUS_X00HD_4:9/PKQ1.181203.001/16.0200.1907.18-20190817:user/release-keys",
+  "SECURITY_PATCH": "2019-07-05",
+  "FIRST_API_LEVEL": "28"
+}

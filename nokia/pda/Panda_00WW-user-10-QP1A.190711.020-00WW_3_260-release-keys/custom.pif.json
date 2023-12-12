@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "PDA_00WW_FIH",
+  "DEVICE": "PDA",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "Nokia 5.1 Plus",
+  "FINGERPRINT": "Nokia/Panda_00WW/PDA_sprout:10/QP1A.190711.020/00WW_3_260:user/release-keys",
+  "SECURITY_PATCH": "2020-10-05",
+  "FIRST_API_LEVEL": "27"
+}

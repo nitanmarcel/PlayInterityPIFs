@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ums512_1h10_Natv",
+  "DEVICE": "ums512_1h10",
+  "MANUFACTURER": "sprd",
+  "BRAND": "SPRD",
+  "MODEL": "ums512_1h10_Natv",
+  "FINGERPRINT": "SPRD/ums512_1h10_Natv/ums512_1h10:10/QP1A.190711.020/38414:user/release-keys",
+  "SECURITY_PATCH": "2020-02-05",
+  "FIRST_API_LEVEL": "29"
+}

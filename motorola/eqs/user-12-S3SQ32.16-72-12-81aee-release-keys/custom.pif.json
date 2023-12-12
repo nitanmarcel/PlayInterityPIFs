@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "eqs_cn",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT2241-1",
+  "FINGERPRINT": "motorola/eqs_cn/msi:12/S3SQ32M.16-72-12/1a052:user/release-keys",
+  "SECURITY_PATCH": "2022-10-01",
+  "FIRST_API_LEVEL": "31"
+}

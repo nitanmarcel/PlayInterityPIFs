@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "burton_retail",
+  "DEVICE": "burton",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge plus",
+  "FINGERPRINT": "motorola/burton_retail/burton:12/S1PBS32M.41-10-19-2/e81a4a:user/release-keys",
+  "SECURITY_PATCH": "2022-05-01",
+  "FIRST_API_LEVEL": "29"
+}

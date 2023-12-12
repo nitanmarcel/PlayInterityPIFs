@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "j2coreltecis",
+  "DEVICE": "j2corelte",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-J260F",
+  "FINGERPRINT": "samsung/j2coreltecis/j2corelte:8.1.0/M1AJB/J260FXXU9AUD3:user/release-keys",
+  "SECURITY_PATCH": "2021-04-01",
+  "FIRST_API_LEVEL": "27"
+}

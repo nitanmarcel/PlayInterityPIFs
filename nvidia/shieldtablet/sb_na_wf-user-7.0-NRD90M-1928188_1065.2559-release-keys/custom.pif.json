@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "sb_na_wf",
+  "DEVICE": "shieldtablet",
+  "MANUFACTURER": "NVIDIA",
+  "BRAND": "nvidia",
+  "MODEL": "SHIELD Tablet K1",
+  "FINGERPRINT": "nvidia/sb_na_wf/shieldtablet:7.0/NRD90M/1928188_1065.2559:user/release-keys",
+  "FIRST_API_LEVEL": "19"
+}

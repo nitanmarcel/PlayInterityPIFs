@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "beyond2ltexx",
+  "DEVICE": "beyond2",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G975F",
+  "FINGERPRINT": "samsung/beyond2ltexx/beyond2:9/PPR1.180610.011/FA90_G975FXXU2ASF1:user/release-keys",
+  "SECURITY_PATCH": "2019-01-01",
+  "FIRST_API_LEVEL": "28"
+}

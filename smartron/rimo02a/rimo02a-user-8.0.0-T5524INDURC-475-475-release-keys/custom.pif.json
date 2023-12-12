@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "srtphone",
+  "DEVICE": "rimo02a",
+  "MANUFACTURER": "Smartron",
+  "BRAND": "Smartron",
+  "MODEL": "T5524",
+  "FINGERPRINT": "Smartron/srtphone/rimo02a:8.0.0/T5524INDURC-475/475:user/release-keys",
+  "SECURITY_PATCH": "2018-01-01",
+  "FIRST_API_LEVEL": "24"
+}

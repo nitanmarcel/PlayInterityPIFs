@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "miami_g",
+  "DEVICE": "miami",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 30 neo",
+  "FINGERPRINT": "motorola/miami_g/miami:13/T1SSMS33M.1-121-4-1/90f43:user/release-keys",
+  "SECURITY_PATCH": "2023-07-01",
+  "FIRST_API_LEVEL": "31"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "manaus_g_sys",
+  "DEVICE": "manaus",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 40 neo",
+  "FINGERPRINT": "motorola/manaus_g_sys/manaus:13/T3TM33M.23-21-6/2bcc18:user/release-keys",
+  "SECURITY_PATCH": "2023-08-01",
+  "FIRST_API_LEVEL": "31"
+}

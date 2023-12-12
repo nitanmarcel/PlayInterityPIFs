@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "fiji",
+  "DEVICE": "fiji",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "Lenovo K11",
+  "FINGERPRINT": "motorola/fiji/fiji:9/POB29.288-18/4ed0e:user/release-keys",
+  "SECURITY_PATCH": "2020-05-05",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "gsi_sdm660_64_00WW",
+  "DEVICE": "PL2_sprout",
+  "MANUFACTURER": "FIH",
+  "BRAND": "FIH_GSI",
+  "MODEL": "GSI-00WW",
+  "FINGERPRINT": "Nokia/Plate2_00WW/PL2_sprout:9/PPR1.180610.011/00WW_3_54H:user/release-keys",
+  "SECURITY_PATCH": "2019-07-01",
+  "FIRST_API_LEVEL": "26"
+}

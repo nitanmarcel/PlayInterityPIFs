@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "TheThing_00WW",
+  "DEVICE": "TTG_sprout",
+  "MANUFACTURER": "HMD Global",
+  "BRAND": "Nokia",
+  "MODEL": "Nokia XR20",
+  "FINGERPRINT": "Nokia/TheThing_00WW/TTG_sprout:12/SKQ1.211006.001/00WW_2_420:user/release-keys",
+  "SECURITY_PATCH": "2022-07-05",
+  "FIRST_API_LEVEL": "30"
+}

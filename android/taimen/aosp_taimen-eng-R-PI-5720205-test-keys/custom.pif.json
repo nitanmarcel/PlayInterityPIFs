@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "aosp_taimen",
+  "DEVICE": "taimen",
+  "MANUFACTURER": "Google",
+  "BRAND": "Android",
+  "MODEL": "AOSP on taimen",
+  "FINGERPRINT": "Android/aosp_taimen/taimen:R/PI/5720205:eng/test-keys",
+  "SECURITY_PATCH": "2019-06-05",
+  "FIRST_API_LEVEL": "28"
+}

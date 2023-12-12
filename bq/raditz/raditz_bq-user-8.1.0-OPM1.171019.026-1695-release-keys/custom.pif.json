@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "raditz",
+  "DEVICE": "raditz",
+  "MANUFACTURER": "bq",
+  "BRAND": "bq",
+  "MODEL": "Aquaris V Plus",
+  "FINGERPRINT": "bq/raditz/raditz:8.1.0/OPM1.171019.026/1695:user/release-keys",
+  "SECURITY_PATCH": "2019-07-01",
+  "FIRST_API_LEVEL": "25"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "def_retail",
+  "DEVICE": "def",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola one hyper",
+  "FINGERPRINT": "motorola/def_retail/def:11/RPFS31.Q1-21-20-1-5/cd306:user/release-keys",
+  "SECURITY_PATCH": "2021-09-01",
+  "FIRST_API_LEVEL": "29"
+}

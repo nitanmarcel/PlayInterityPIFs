@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "def_retail",
+  "DEVICE": "def",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola one hyper",
+  "FINGERPRINT": "motorola/def_retail/def:10/QPF30.103-12-5/9f120:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "29"
+}

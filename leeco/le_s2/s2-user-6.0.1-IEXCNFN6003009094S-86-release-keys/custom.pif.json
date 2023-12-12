@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Le2_CN",
+  "DEVICE": "le_s2",
+  "MANUFACTURER": "LeMobile",
+  "BRAND": "LeEco",
+  "MODEL": "",
+  "FINGERPRINT": "LeEco/Le2_CN/le_s2:6.0.1/IEXCNFN6003009094S/86:user/release-keys",
+  "SECURITY_PATCH": "2016-12-01",
+  "FIRST_API_LEVEL": "23"
+}

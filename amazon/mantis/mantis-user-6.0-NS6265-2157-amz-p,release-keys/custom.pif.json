@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "mantis",
+  "DEVICE": "mantis",
+  "MANUFACTURER": "Amazon",
+  "BRAND": "Amazon",
+  "MODEL": "AFTMM",
+  "FINGERPRINT": "Amazon/mantis/mantis:6.0/NS6265/2157N:user/amz-p,release-keys",
+  "SECURITY_PATCH": "2019-04-01",
+  "FIRST_API_LEVEL": "25"
+}

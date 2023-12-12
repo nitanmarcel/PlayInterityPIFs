@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cattail",
+  "DEVICE": "cattail",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "M2006C3MII",
+  "FINGERPRINT": "Redmi/cattail/cattail:10/QP1A.190711.020/V12.0.1.0.QCTINXM:user/release-keys",
+  "SECURITY_PATCH": "2020-07-01",
+  "FIRST_API_LEVEL": "29"
+}

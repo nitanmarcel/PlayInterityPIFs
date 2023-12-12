@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "T30_eea",
+  "DEVICE": "T30",
+  "MANUFACTURER": "Teclast",
+  "BRAND": "Teclast",
+  "MODEL": "T30_EEA",
+  "FINGERPRINT": "Teclast/T30_eea/T30:9/PPR1.180610.011/panyh09061416:user/release-keys",
+  "SECURITY_PATCH": "2019-07-05",
+  "FIRST_API_LEVEL": "28"
+}

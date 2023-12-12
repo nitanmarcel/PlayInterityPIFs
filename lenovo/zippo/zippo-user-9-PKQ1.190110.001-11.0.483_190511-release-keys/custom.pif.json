@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "zippo",
+  "DEVICE": "zippo",
+  "MANUFACTURER": "Lenovo",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo L78051",
+  "FINGERPRINT": "Lenovo/zippo/zippo:9/PKQ1.190110.001/11.0.483_190511:user/release-keys",
+  "SECURITY_PATCH": "2019-04-01",
+  "FIRST_API_LEVEL": "28"
+}

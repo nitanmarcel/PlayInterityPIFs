@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "full_sloane",
+  "DEVICE": "sloane",
+  "MANUFACTURER": "Amazon",
+  "BRAND": "Amazon",
+  "MODEL": "AFTS",
+  "FINGERPRINT": "Amazon/full_sloane/sloane:5.1.1/LVY48F/36.6.3.9_user_639566320:user/release-keys",
+  "SECURITY_PATCH": "2018-03-01",
+  "FIRST_API_LEVEL": "22"
+}

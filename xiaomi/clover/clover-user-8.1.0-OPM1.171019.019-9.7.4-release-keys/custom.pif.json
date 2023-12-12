@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "clover",
+  "DEVICE": "clover",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI PAD 4",
+  "FINGERPRINT": "Xiaomi/clover/clover:8.1.0/OPM1.171019.019/9.7.4:user/release-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "FIRST_API_LEVEL": "27"
+}

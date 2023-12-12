@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "C6x",
+  "DEVICE": "C090P",
+  "MANUFACTURER": "BLU",
+  "BRAND": "BLU",
+  "MODEL": "C6x",
+  "FINGERPRINT": "BLU/C6x/C090P:8.1.0/O11019/1565333506:user/release-keys",
+  "SECURITY_PATCH": "2019-08-05",
+  "FIRST_API_LEVEL": "27"
+}

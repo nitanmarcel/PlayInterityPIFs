@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "SOV41_jp_kdi",
+  "DEVICE": "SOV41",
+  "MANUFACTURER": "Sony",
+  "BRAND": "KDDI",
+  "MODEL": "SOV41",
+  "FINGERPRINT": "KDDI/SOV41_jp_kdi/SOV41:9/55.0.C.1.182/3571873765:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "28"
+}

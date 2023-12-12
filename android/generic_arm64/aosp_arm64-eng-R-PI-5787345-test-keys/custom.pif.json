@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "aosp_arm64",
+  "DEVICE": "generic_arm64",
+  "MANUFACTURER": "unknown",
+  "BRAND": "Android",
+  "MODEL": "AOSP on ARM64",
+  "FINGERPRINT": "Android/aosp_arm64/generic_arm64:R/PI/5787345:eng/test-keys",
+  "SECURITY_PATCH": "2019-07-05",
+  "FIRST_API_LEVEL": "28"
+}

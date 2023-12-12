@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "berlin_ctcn",
+  "DEVICE": "berlin",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "XT2143-1",
+  "FINGERPRINT": "motorola/berlin_ctcn/berlin:12/S3RG32M.86-13-3/82b27:user/release-keys",
+  "SECURITY_PATCH": "2022-10-01",
+  "FIRST_API_LEVEL": "30"
+}

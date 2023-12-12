@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "olson_retail",
+  "DEVICE": "olson",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola razr",
+  "FINGERPRINT": "motorola/olson_retail/olson:11/RPV31.Q2-62-7-11/e090e:user/release-keys",
+  "SECURITY_PATCH": "2021-07-01",
+  "FIRST_API_LEVEL": "28"
+}

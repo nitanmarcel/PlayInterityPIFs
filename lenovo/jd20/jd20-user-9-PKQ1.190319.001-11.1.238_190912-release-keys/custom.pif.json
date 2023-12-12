@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "jd20",
+  "DEVICE": "jd20",
+  "MANUFACTURER": "Lenovo",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo L78121",
+  "FINGERPRINT": "Lenovo/jd20/jd20:9/PKQ1.190319.001/11.1.238_190912:user/release-keys",
+  "SECURITY_PATCH": "2019-08-01",
+  "FIRST_API_LEVEL": "28"
+}

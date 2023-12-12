@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ranger",
+  "DEVICE": "ranger",
+  "MANUFACTURER": "sony",
+  "BRAND": "alps",
+  "MODEL": "H3311",
+  "FINGERPRINT": "alps/ranger/ranger:7.1.1/2.99.J.6.46_201808312100/1535746834:user/test-keys",
+  "SECURITY_PATCH": "2018-09-05",
+  "FIRST_API_LEVEL": "25"
+}

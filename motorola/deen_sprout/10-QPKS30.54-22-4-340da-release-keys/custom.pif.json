@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "deen_retail",
+  "DEVICE": "deen_sprout",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola one",
+  "FINGERPRINT": "motorola/deen_retail/deen_sprout:10/QPKS30.54-22-4/340da:user/release-keys",
+  "SECURITY_PATCH": "2020-03-01",
+  "FIRST_API_LEVEL": "27"
+}

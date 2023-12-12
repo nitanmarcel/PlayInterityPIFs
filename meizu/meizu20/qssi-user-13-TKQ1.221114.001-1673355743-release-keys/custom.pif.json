@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "meizu_20_CN",
+  "DEVICE": "meizu20",
+  "MANUFACTURER": "meizu",
+  "BRAND": "meizu",
+  "MODEL": "MEIZU 20",
+  "FINGERPRINT": "meizu/meizu_20_CN/meizu20:13/TKQ1.221114.001/1673355743:user/release-keys",
+  "SECURITY_PATCH": "2023-01-01",
+  "FIRST_API_LEVEL": "32"
+}

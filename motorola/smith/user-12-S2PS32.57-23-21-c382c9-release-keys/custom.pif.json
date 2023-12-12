@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "smith_retail",
+  "DEVICE": "smith",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola razr (2020)",
+  "FINGERPRINT": "motorola/smith_retail/smith:12/S2PS32M.57-23-21/50dbcb:user/release-keys",
+  "SECURITY_PATCH": "2022-08-01",
+  "FIRST_API_LEVEL": "29"
+}

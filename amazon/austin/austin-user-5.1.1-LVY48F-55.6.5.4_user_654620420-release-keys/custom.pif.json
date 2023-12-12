@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "austin",
+  "DEVICE": "austin",
+  "MANUFACTURER": "Amazon",
+  "BRAND": "Amazon",
+  "MODEL": "",
+  "FINGERPRINT": "Amazon/austin/austin:5.1.1/LVY48F/55.6.5.4_user_654620420:user/release-keys",
+  "SECURITY_PATCH": "2019-07-01",
+  "FIRST_API_LEVEL": "22"
+}

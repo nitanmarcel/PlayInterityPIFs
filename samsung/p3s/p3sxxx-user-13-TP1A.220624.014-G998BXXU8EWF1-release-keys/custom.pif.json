@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "p3sxxx",
+  "DEVICE": "essi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G998B",
+  "FINGERPRINT": "samsung/p3sxxx/essi:13/TP1A.220624.014/G998BXXU8EWF1:user/release-keys",
+  "SECURITY_PATCH": "2023-06-01",
+  "FIRST_API_LEVEL": "30"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Phoenix",
+  "DEVICE": "Phoenix",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-G6200",
+  "FINGERPRINT": "samsung/Phoenix/Phoenix:8.1.0/OPM1.171019.026/G6200ZCU0ARK1:user/release-keys",
+  "SECURITY_PATCH": "2018-10-01",
+  "FIRST_API_LEVEL": "27"
+}

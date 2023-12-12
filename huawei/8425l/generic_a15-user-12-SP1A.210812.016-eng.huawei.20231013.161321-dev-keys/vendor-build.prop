@@ -1,0 +1,180 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor.brand=kirin9000s
+ro.product.vendor.device=kirin9000s
+ro.product.vendor.manufacturer=Hisilicon
+ro.product.vendor.model=Kirin
+ro.product.vendor.name=kirin9000s
+ro.vendor.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.vendor.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.vendor.product.cpu.abilist64=arm64-v8a
+ro.vendor.build.date=Thu Oct 19 18:01:37 CST 2023
+ro.vendor.build.date.utc=1697709697
+ro.vendor.build.fingerprint=kirin9000s/kirin9000s/kirin9000s:kirin9000s/SP1A.210812.016/huawei10191801:user/release-keys
+ro.vendor.build.id=SP1A.210812.016
+ro.vendor.build.tags=test-keys
+ro.vendor.build.type=user
+ro.vendor.build.version.incremental=20231019180205
+ro.vendor.build.version.release=12
+ro.vendor.build.version.release_or_codename=12
+ro.vendor.build.version.sdk=31
+####################################
+# from device/hisi/kirin9000s/vendor.prop
+####################################
+#
+# system.prop for generic sdk
+#
+#
+vendor.debug.config.mmu_en=1
+dalvik.vm.boot-dex2oat-threads=8
+dalvik.vm.dex2oat-threads=8
+dalvik.vm.image-dex2oat-threads=8
+dalvik.vm.heapsize=512m
+dalvik.vm.heapstartsize=8m
+dalvik.vm.heapgrowthlimit=384m
+dalvik.vm.heaptargetutilization=0.75
+dalvik.vm.heapmaxfree=8m
+dalvik.vm.heapminfree=2m
+dalvik.vm.dex2oat64.enabled=true
+ro.opengles.version=196610
+ro.sf.lcd_density=480
+hw.lcd.density=480
+debug.sf.disable_backpressure=1
+# for m version adoptable
+persist.fw.force_adoptable=true
+#fix app error in VM
+dalvik.vm.checkjni=false
+#BEGIN PN: DTS2018110708463, Added by z00424245, 2018/11/15
+#for bluetooth
+ro.bt.bdaddr_path=/data/vendor/bluedroid/macbt
+#END   PN: DTS2018110708463, Added by z00424245, 2018/11/15
+#DTS2014102209046 y00193929 20141022 begin
+ro.config.keypasstouser=true
+ro.config.hw_navigationbar=true
+#DTS2014102209046 y00193929 20141022 end
+persist.sys.jankenable=true
+#HDMI
+ro.hdmi.service=false
+ro.product.platform.pseudonym=1ARB9CV
+# add for music+ lpp support
+ro.vendor.config.hw_music_lp=true
+# 2014/12/11 end
+# add for lpp volume change support
+ro.vendor.config.music_lp_vol=true
+# 2015/11/4 end
+#for tui
+ro.vendor.tui.service=true
+# for sensorhub
+ro.config.hw_sensorhub=true
+# usbvoice switch, configs of kirin and vendor must be the same
+persist.kirin.media.usbvoice.enable=true
+persist.vendor.media.usbvoice.enable=true
+persist.kirin.media.usbvoice.name=USB-Audio - HUAWEI GLASS
+persist.vendor.media.usbvoice.name=USB-Audio - HUAWEI GLASS
+# src use VERY_HIGH_QUALITY
+keyguard.no_require_sim=true
+ro.sys.umsdirtyratio=2
+#offload switch
+persist.kirin.media.offload.enable=true
+persist.vendor.media.offload.enable=true
+#for audio high resolution feature
+persist.kirin.media.hires.enable=true
+persist.vendor.media.hires.enable=true
+#begin by perf
+persist.kirin.touch_vsync_opt=1
+persist.vendor.touch_move_opt=1
+persist.vendor.touchevent_opt=1
+debug.sf.latch_unsignaled=1
+debug.sf.disable_backpressure=1
+ro.vendor.config.board_ipa=true
+ro.vendor.config.perfgenius=true
+#end by perf
+use_sensorhub_labc=false
+bastet.service.enable=true
+system_init.hwextdeviceservice=1
+persist.egl.support_vr=1
+#add by display group
+persist.partial_update_support=1
+debug.sf.high_fps_late_app_phase_offset_ns=1000000
+debug.sf.high_fps_late_sf_phase_offset_ns=-4000000
+debug.sf.high_fps_early_phase_offset_ns=-4000000
+debug.sf.high_fps_early_gl_phase_offset_ns=-4000000
+ro.kirin.product.platform=kirin9000s
+#lowlatency
+persist.kirin.media.lowlatency.enable=true
+persist.vendor.media.lowlatency.enable=true
+#AAudio
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+# ROM HIAI version
+ro.vendor.hiaiversion=100.600.020.100
+# HIAI API DDK version
+ro.vendor.hiaiapiversion=3.0
+ro.config.hw_volte_on=true
+ro.control_privapp_permissions=enforce
+# For Display DRM
+ro.surface_flinger.protected_contents=true
+ro.vendor.wifi_display.disable_drm=true
+####################################
+# from out/target/product/kirin9000s/obj/ETC/android_info_prop_intermediates/android_info.prop
+####################################
+####################################
+# from variable ADDITIONAL_VENDOR_PROPERTIES
+####################################
+ro.bionic.arch=arm64
+ro.bionic.cpu_variant=generic
+ro.bionic.2nd_arch=arm
+ro.bionic.2nd_cpu_variant=cortex-a15
+persist.sys.dalvik.vm.lib.2=libart.so
+dalvik.vm.isa.arm64.variant=generic
+dalvik.vm.isa.arm64.features=default
+dalvik.vm.isa.arm.variant=cortex-a15
+dalvik.vm.isa.arm.features=default
+ro.boot.dynamic_partitions=true
+ro.vendor.build.security_patch=2018-06-19
+ro.product.board=kirin9000s
+ro.board.platform=kirin9000s
+ro.hwui.use_vulkan=
+ro.vendor.treble.data_violator.disable=true
+ro.comp.chipset_version=Chipset-8425L 104.0.0.(1U8M)
+ro.confg.hw_fastbootversion=Chipset-8425L 104.0.0.(1U8M)_FASTBOOT
+####################################
+# from variable PRODUCT_VENDOR_PROPERTIES
+####################################
+ro.zygote=zygote64_32
+# Removed by post_process_props.py because overridden by ro.zygote=zygote64_32
+#ro.zygote?=zygote32
+ro.logd.size.stats=64K
+log.tag.stats_log=I
+ro.carrier=unknown
+external_storage.projid.enabled=1
+external_storage.casefold.enabled=1
+external_storage.sdcardfs.enabled=0
+ro.soc.manufacturer=Hisilicon
+ro.soc.model=Kirin
+####################################
+# from variable PRODUCT_DEFAULT_PROPERTY_OVERRIDES
+####################################
+ro.oem_unlock_supported=1
+persist.sys.usb.config=manufacture,adb
+sys.usb.configfs=1
+sys.usb.controller=efc00000.dwc3
+qemu.hw.mainkeys=0
+ro.vndk.version=31
+ro.product.chiptype=Sirius
+ro.logd.kernel=false
+persist.fw.force_adoptable=true
+ro.secure_storage.mspc=true
+sys.xcollie.recovery=false
+####################################
+# from variable PRODUCT_PROPERTY_OVERRIDES
+####################################
+persist.sys.fuse.passthrough.enable=true
+ro.vendor.vndk.version=26.0.0
+ro.vendor.build.display.id=Chipset-8425L 104.0.0.(1U8M)
+ro.config.fpga64only=true
+ro.config.filterservice=true
+#build_vendor_kernel_version=5.10.43
+# end of file

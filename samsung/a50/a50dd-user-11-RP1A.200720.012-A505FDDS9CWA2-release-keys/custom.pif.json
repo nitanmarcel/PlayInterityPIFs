@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a50dd",
+  "DEVICE": "a50",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A505F",
+  "FINGERPRINT": "samsung/a50dd/a50:11/RP1A.200720.012/A505FDDS9CWA2:user/release-keys",
+  "SECURITY_PATCH": "2023-01-01",
+  "FIRST_API_LEVEL": "28"
+}

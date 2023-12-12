@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cereus",
+  "DEVICE": "cereus",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Redmi 6",
+  "FINGERPRINT": "xiaomi/cereus/cereus:8.1.0/O11019/V10.3.4.0.OCGFROR:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "27"
+}

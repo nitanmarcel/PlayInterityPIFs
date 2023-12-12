@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "judyp_lao_com",
+  "DEVICE": "judyp",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-V350",
+  "FINGERPRINT": "lge/judyp_lao_com/judyp:8.0.0/OPR1.170623.032/181981635d682:user/release-keys",
+  "SECURITY_PATCH": "2018-07-01",
+  "FIRST_API_LEVEL": "26"
+}

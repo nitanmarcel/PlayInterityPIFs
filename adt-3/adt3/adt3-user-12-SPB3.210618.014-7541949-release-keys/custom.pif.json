@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "adt3",
+  "DEVICE": "adt3",
+  "MANUFACTURER": "askey",
+  "BRAND": "ADT-3",
+  "MODEL": "ADT-3",
+  "FINGERPRINT": "ADT-3/adt3/adt3:12/SPB3.210618.014/7541949:user/release-keys",
+  "SECURITY_PATCH": "2021-07-05",
+  "FIRST_API_LEVEL": "29"
+}

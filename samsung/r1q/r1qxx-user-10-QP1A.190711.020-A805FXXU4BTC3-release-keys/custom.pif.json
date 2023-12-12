@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "r1qxx",
+  "DEVICE": "r1q",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A805F",
+  "FINGERPRINT": "samsung/r1qxx/r1q:10/QP1A.190711.020/A805FXXU4BTC3:user/release-keys",
+  "SECURITY_PATCH": "2020-02-01",
+  "FIRST_API_LEVEL": "28"
+}

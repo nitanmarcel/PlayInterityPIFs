@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cannon",
+  "DEVICE": "cannon",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "M2007J22C",
+  "FINGERPRINT": "Redmi/cannon/cannon:11/RP1A.200720.011/21.4.21:user/release-keys",
+  "SECURITY_PATCH": "2021-04-01",
+  "FIRST_API_LEVEL": "29"
+}

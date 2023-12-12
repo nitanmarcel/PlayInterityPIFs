@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lyriq_g",
+  "DEVICE": "lyriq",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 40",
+  "FINGERPRINT": "motorola/lyriq_g/lyriq:13/T2TL33M.3-41-2/80066c:user/release-keys",
+  "SECURITY_PATCH": "2023-06-01",
+  "FIRST_API_LEVEL": "32"
+}

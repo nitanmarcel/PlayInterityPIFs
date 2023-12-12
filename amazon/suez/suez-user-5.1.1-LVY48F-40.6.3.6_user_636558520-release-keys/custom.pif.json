@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "suez",
+  "DEVICE": "suez",
+  "MANUFACTURER": "Amazon",
+  "BRAND": "Amazon",
+  "MODEL": "KFSUWI",
+  "FINGERPRINT": "Amazon/suez/suez:5.1.1/LVY48F/40.6.3.6_user_636558520:user/release-keys",
+  "SECURITY_PATCH": "2018-03-01",
+  "FIRST_API_LEVEL": "22"
+}

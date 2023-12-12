@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "GM8",
+  "DEVICE": "GM8_sprout",
+  "MANUFACTURER": "General Mobile",
+  "BRAND": "GM",
+  "MODEL": "GM 8",
+  "FINGERPRINT": "GM/GM8/GM8_sprout:9/OPM1.171019.011/28:user/release-keys",
+  "SECURITY_PATCH": "2021-02-05",
+  "FIRST_API_LEVEL": "26"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "N3_mini",
+  "DEVICE": "N3_mini",
+  "MANUFACTURER": "coolpad",
+  "BRAND": "Coolpad",
+  "MODEL": "N3 mini",
+  "FINGERPRINT": "Coolpad/N3_mini/N3_mini:8.1.0/O11019/1538015370:user/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "27"
+}

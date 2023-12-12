@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "deadpool core",
+  "DEVICE": "deadpool",
+  "MANUFACTURER": "askey",
+  "BRAND": "askey",
+  "MODEL": "4K TV Device",
+  "FINGERPRINT": "askey/deadpool/deadpool:10/QT/69:userdebug/release-keys",
+  "SECURITY_PATCH": "2019-11-05",
+  "FIRST_API_LEVEL": "29"
+}

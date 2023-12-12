@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "berlna_global",
+  "DEVICE": "berlna",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge (2021)",
+  "FINGERPRINT": "motorola/berlna_global/berlna:12/S1RMS32M.48-18-11-2-19/394ae:user/release-keys",
+  "SECURITY_PATCH": "2023-01-01",
+  "FIRST_API_LEVEL": "30"
+}

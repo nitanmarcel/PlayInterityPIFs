@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "wx_un_do",
+  "DEVICE": "shieldtablet",
+  "MANUFACTURER": "NVIDIA",
+  "BRAND": "nvidia",
+  "MODEL": "SHIELD Tablet",
+  "FINGERPRINT": "nvidia/wx_un_do/shieldtablet:7.0/NRD90M/1928188_904.2811:user/release-keys",
+  "FIRST_API_LEVEL": "19"
+}

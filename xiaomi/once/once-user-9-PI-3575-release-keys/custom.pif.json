@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "once",
+  "DEVICE": "once",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MIBOX3",
+  "FINGERPRINT": "Xiaomi/once/once:9/PI/3575:user/release-keys",
+  "SECURITY_PATCH": "2021-03-05",
+  "FIRST_API_LEVEL": "23"
+}

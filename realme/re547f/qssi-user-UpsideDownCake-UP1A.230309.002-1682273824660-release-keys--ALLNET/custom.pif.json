@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ossi",
+  "DEVICE": "ossi",
+  "MANUFACTURER": "oplus",
+  "BRAND": "oplus",
+  "MODEL": "ossi",
+  "FINGERPRINT": "oplus/ossi/ossi:UpsideDownCake/UP1A.230309.002/1682273824660:user/release-keys",
+  "SECURITY_PATCH": "2023-04-05",
+  "FIRST_API_LEVEL": "31"
+}

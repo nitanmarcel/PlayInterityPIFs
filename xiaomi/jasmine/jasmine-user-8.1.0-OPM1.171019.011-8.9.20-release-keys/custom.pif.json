@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "jasmine",
+  "DEVICE": "jasmine_sprout",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Mi A2",
+  "FINGERPRINT": "xiaomi/jasmine/jasmine_sprout:8.1.0/OPM1.171019.011/8.9.20:user/release-keys",
+  "SECURITY_PATCH": "2018-09-05",
+  "FIRST_API_LEVEL": "27"
+}

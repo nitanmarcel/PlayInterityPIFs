@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "missi",
+  "DEVICE": "missi",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "missi",
+  "FINGERPRINT": "Xiaomi/missi_phone_cn/missi:13/TP1A.220624.003/V13.1.22.8.9.DEV:user/release-keys",
+  "SECURITY_PATCH": "2022-08-05",
+  "FIRST_API_LEVEL": "32"
+}

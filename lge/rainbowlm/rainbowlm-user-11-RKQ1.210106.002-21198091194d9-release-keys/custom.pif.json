@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rainbowlm",
+  "DEVICE": "rainbowlm",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-V700N",
+  "FINGERPRINT": "lge/rainbowlm/rainbowlm:11/RKQ1.210106.002/21198091194d9:user/release-keys",
+  "SECURITY_PATCH": "2021-06-01",
+  "FIRST_API_LEVEL": "30"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "judyln_lao_com",
+  "DEVICE": "judyln",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-G710",
+  "FINGERPRINT": "lge/judyln_lao_com/judyln:10/QKQ1.191222.002/203181146b00d:user/release-keys",
+  "SECURITY_PATCH": "2020-11-01",
+  "FIRST_API_LEVEL": "26"
+}

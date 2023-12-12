@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "m5_tablet",
+  "DEVICE": "m5_tablet",
+  "MANUFACTURER": "Sinovoip",
+  "BRAND": "bpi",
+  "MODEL": "m5_tablet",
+  "FINGERPRINT": "bpi/m5_tablet/m5_tablet:9/PPR1.180610.011/20210520:userdebug/test-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "28"
+}

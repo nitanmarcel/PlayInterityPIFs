@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "missi_phone_cn",
+  "DEVICE": "missi",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "Android",
+  "MODEL": "AOSP on ARM64",
+  "FINGERPRINT": "Android/missi_phone_cn/missi:UpsideDownCake/UPB1.230309.014/23.5.6:user/release-keys",
+  "SECURITY_PATCH": "2023-04-05",
+  "FIRST_API_LEVEL": "32"
+}

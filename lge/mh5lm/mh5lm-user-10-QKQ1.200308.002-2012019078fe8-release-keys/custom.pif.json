@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "mh5lm",
+  "DEVICE": "mh5lm",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-X320",
+  "FINGERPRINT": "lge/mh5lm/mh5lm:10/QKQ1.200308.002/2012019078fe8:user/release-keys",
+  "SECURITY_PATCH": "2020-05-01",
+  "FIRST_API_LEVEL": "28"
+}

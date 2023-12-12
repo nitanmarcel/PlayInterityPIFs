@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "XP",
+  "DEVICE": "XP",
+  "MANUFACTURER": "incar",
+  "BRAND": "GPD",
+  "MODEL": "XP",
+  "FINGERPRINT": "Teclast/sys_mssi_t_64_cn/tb8789p2_64:11/RP1A.200720.011/mp1V847:userdebug/test-keys",
+  "SECURITY_PATCH": "2021-03-05",
+  "FIRST_API_LEVEL": "30"
+}

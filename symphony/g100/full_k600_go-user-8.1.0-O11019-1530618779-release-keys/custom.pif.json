@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "G100",
+  "DEVICE": "G100",
+  "MANUFACTURER": "Symphony",
+  "BRAND": "Symphony",
+  "MODEL": "Symphony G100",
+  "FINGERPRINT": "Symphony/G100/G100:8.1.0/O11019/1530618779:user/release-keys",
+  "SECURITY_PATCH": "2018-07-05",
+  "FIRST_API_LEVEL": "27"
+}

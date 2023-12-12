@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "d2sxx",
+  "DEVICE": "d2s",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-N975F",
+  "FINGERPRINT": "samsung/d2sxx/d2s:10/QP1A.190711.020/N975FXXU1BSL7:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "28"
+}

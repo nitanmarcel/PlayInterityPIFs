@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "jobs",
+  "DEVICE": "jobs",
+  "MANUFACTURER": "xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MiTV-ANSP0",
+  "FINGERPRINT": "Xiaomi/jobs/jobs:9/PPR1.180610.011/911:userdebug/release-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ibiza_retail",
+  "DEVICE": "ibiza",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(50)",
+  "FINGERPRINT": "motorola/ibiza_retail/ibiza:12/S1RFS32M.27-25-1/7e335:user/release-keys",
+  "SECURITY_PATCH": "2022-05-01",
+  "FIRST_API_LEVEL": "30"
+}

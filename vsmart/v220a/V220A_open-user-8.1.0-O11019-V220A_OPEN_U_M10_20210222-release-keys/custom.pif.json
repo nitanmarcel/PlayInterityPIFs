@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "V220A_open",
+  "DEVICE": "V220A",
+  "MANUFACTURER": "vsmart",
+  "BRAND": "vsmart",
+  "MODEL": "Bee",
+  "FINGERPRINT": "vsmart/V220A_open/V220A:8.1.0/O11019/V220A_OPEN_U_M10_20210222:user/release-keys",
+  "SECURITY_PATCH": "2021-03-01",
+  "FIRST_API_LEVEL": "27"
+}

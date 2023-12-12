@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "agate",
+  "DEVICE": "agate",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "agate",
+  "FINGERPRINT": "Xiaomi/agate/agate:11/RP1A.200720.011/V12.5.9.0.RKWMIXM:user/release-keys",
+  "SECURITY_PATCH": "2021-12-01",
+  "FIRST_API_LEVEL": "30"
+}

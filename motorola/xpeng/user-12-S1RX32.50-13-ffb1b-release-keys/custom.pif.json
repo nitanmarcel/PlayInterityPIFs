@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "xpeng_g",
+  "DEVICE": "xpeng",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g200 5G",
+  "FINGERPRINT": "motorola/xpeng_g/xpeng:12/S1RX32M.50-13/83b460:user/release-keys",
+  "SECURITY_PATCH": "2022-03-01",
+  "FIRST_API_LEVEL": "30"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "davinci_eea",
+  "DEVICE": "davinci",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Mi 9T",
+  "FINGERPRINT": "Xiaomi/davinci_eea/davinci:11/RKQ1.200826.002/V12.1.1.0.RFJEUXM:user/release-keys",
+  "SECURITY_PATCH": "2021-08-01",
+  "FIRST_API_LEVEL": "28"
+}

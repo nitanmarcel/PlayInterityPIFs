@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "onc",
+  "DEVICE": "onc",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "xiaomi",
+  "MODEL": "Redmi 7",
+  "FINGERPRINT": "xiaomi/onc/onc:10/QKQ1.191008.001/V11.0.2.0.QFLMIXM:user/release-keys",
+  "SECURITY_PATCH": "2021-03-01",
+  "FIRST_API_LEVEL": "28"
+}

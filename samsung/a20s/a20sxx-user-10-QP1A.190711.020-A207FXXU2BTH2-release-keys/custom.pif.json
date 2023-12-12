@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a20sxx",
+  "DEVICE": "a20s",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A207F",
+  "FINGERPRINT": "samsung/a20sxx/a20s:10/QP1A.190711.020/A207FXXU2BTH2:user/release-keys",
+  "SECURITY_PATCH": "2020-08-01",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "winglm",
+  "DEVICE": "winglm",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-F100",
+  "FINGERPRINT": "lge/winglm/winglm:12/SKQ1.211103.001/2220212034ac7:user/release-keys",
+  "SECURITY_PATCH": "2022-07-01",
+  "FIRST_API_LEVEL": "29"
+}

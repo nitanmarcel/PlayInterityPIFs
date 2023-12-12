@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "dangal",
+  "DEVICE": "dangal",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MiTV-AXSO0",
+  "FINGERPRINT": "Xiaomi/dangal/dangal:8.1.0/OPM1.171019.011/1840:user/release-keys",
+  "SECURITY_PATCH": "2019-02-05",
+  "FIRST_API_LEVEL": "26"
+}

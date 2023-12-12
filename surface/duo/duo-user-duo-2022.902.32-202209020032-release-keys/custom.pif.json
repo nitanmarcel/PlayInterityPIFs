@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "duo",
+  "DEVICE": "duo",
+  "MANUFACTURER": "Microsoft",
+  "BRAND": "surface",
+  "MODEL": "Surface Duo",
+  "FINGERPRINT": "surface/duo/duo:12/2022.902.32/202209020032:user/release-keys",
+  "SECURITY_PATCH": "2023-07-01",
+  "FIRST_API_LEVEL": "29"
+}

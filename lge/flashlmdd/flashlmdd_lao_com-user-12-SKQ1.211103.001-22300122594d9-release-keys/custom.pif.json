@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "flashlmdd_lao_com",
+  "DEVICE": "flashlmdd",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-V500N",
+  "FINGERPRINT": "lge/flashlmdd_lao_com/flashlmdd:12/SKQ1.211103.001/22300122594d9:user/release-keys",
+  "SECURITY_PATCH": "2022-08-01",
+  "FIRST_API_LEVEL": "28"
+}

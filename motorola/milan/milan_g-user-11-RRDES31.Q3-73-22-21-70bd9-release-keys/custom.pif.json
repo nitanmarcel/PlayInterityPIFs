@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "milan_g",
+  "DEVICE": "milan",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g stylus (2022)",
+  "FINGERPRINT": "motorola/milan_g/milan:11/RRDES31.Q3-73-22-21/70bd9:user/release-keys",
+  "SECURITY_PATCH": "2023-03-01",
+  "FIRST_API_LEVEL": "30"
+}

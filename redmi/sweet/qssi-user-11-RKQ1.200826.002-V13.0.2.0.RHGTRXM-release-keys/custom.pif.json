@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "qti",
+  "MODEL": "2209116AG",
+  "FINGERPRINT": "qti/qssi/qssi:11/RKQ1.200826.002/V13.0.2.0.RHGTRXM:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "FIRST_API_LEVEL": "30"
+}

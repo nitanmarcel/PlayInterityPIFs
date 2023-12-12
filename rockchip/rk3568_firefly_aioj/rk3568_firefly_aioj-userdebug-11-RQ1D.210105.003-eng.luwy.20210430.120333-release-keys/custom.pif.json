@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rk3568_firefly_aioj",
+  "DEVICE": "rk3568_firefly_aioj",
+  "MANUFACTURER": "T-CHIP",
+  "BRAND": "rockchip",
+  "MODEL": "AIO-3568J",
+  "FINGERPRINT": "rockchip/rk3568_firefly_aioj/rk3568_firefly_aioj:11/RQ1D.210105.003/luwy04301202:userdebug/release-keys",
+  "SECURITY_PATCH": "2021-04-05",
+  "FIRST_API_LEVEL": "30"
+}

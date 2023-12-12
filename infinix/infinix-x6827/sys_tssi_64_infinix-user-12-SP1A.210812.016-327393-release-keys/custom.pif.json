@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "TSSI",
+  "DEVICE": "FULL-64",
+  "MANUFACTURER": "INFINIX",
+  "BRAND": "Infinix",
+  "MODEL": "",
+  "FINGERPRINT": "Infinix/TSSI/FULL-64:12/SP1A.210812.016/230516V450:user/release-keys",
+  "SECURITY_PATCH": "2023-05-05",
+  "FIRST_API_LEVEL": "31"
+}

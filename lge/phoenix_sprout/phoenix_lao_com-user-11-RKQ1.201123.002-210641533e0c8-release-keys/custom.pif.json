@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "phoenix_lao_com",
+  "DEVICE": "phoenix_sprout",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-Q910",
+  "FINGERPRINT": "lge/phoenix_lao_com/phoenix_sprout:11/RKQ1.201123.002/210641533e0c8:user/release-keys",
+  "SECURITY_PATCH": "2021-03-01",
+  "FIRST_API_LEVEL": "27"
+}

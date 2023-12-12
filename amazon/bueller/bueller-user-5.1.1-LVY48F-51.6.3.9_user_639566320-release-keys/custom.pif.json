@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "bueller",
+  "DEVICE": "bueller",
+  "MANUFACTURER": "Amazon",
+  "BRAND": "Amazon",
+  "MODEL": "AFTB",
+  "FINGERPRINT": "Amazon/bueller/bueller:5.1.1/LVY48F/51.6.3.9_user_639566320:user/release-keys",
+  "SECURITY_PATCH": "2018-03-01",
+  "FIRST_API_LEVEL": "22"
+}

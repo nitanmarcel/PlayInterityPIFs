@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Plume_L3",
+  "DEVICE": "Plume_L3",
+  "MANUFACTURER": "SPA Condor Electronics",
+  "BRAND": "Condor",
+  "MODEL": "Plume L3",
+  "FINGERPRINT": "Condor/Plume_L3/Plume_L3:8.1.0/O11019/1543919146:user/release-keys",
+  "SECURITY_PATCH": "2018-11-05",
+  "FIRST_API_LEVEL": "27"
+}

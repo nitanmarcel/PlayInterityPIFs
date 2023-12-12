@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "FF-5000",
+  "DEVICE": "FF-5000",
+  "MANUFACTURER": "alps",
+  "BRAND": "FFKJ",
+  "MODEL": "FF-5000",
+  "FINGERPRINT": "alps/full_8227L_demo/8227L_demo:8.1.0/O11019/1571038753:userdebug/test-keys",
+  "SECURITY_PATCH": "2019-10-05",
+  "FIRST_API_LEVEL": "27"
+}

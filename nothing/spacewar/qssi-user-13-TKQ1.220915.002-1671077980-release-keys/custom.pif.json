@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "Nothing",
+  "BRAND": "Nothing",
+  "MODEL": "NSSI",
+  "FINGERPRINT": "Nothing/qssi/qssi:13/TKQ1.220915.002/1671077980:user/release-keys",
+  "SECURITY_PATCH": "2022-12-05",
+  "FIRST_API_LEVEL": "31"
+}

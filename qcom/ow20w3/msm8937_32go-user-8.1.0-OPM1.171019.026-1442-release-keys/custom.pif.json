@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "msm8937_32go",
+  "DEVICE": "msm8937_32go",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qcom",
+  "MODEL": "msm8937_32go",
+  "FINGERPRINT": "qcom/msm8937_32go/msm8937_32go:8.1.0/OPM1.171019.026/1442:user/release-keys",
+  "SECURITY_PATCH": "2021-02-05",
+  "FIRST_API_LEVEL": "27"
+}

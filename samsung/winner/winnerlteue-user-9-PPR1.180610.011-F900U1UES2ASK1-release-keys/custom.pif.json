@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "winnerlteue",
+  "DEVICE": "winner",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-F900U1",
+  "FINGERPRINT": "samsung/winnerlteue/winner:9/PPR1.180610.011/F900U1UES2ASK1:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "28"
+}

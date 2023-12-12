@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "SKW-A0",
+  "DEVICE": "skywalker",
+  "MANUFACTURER": "blackshark",
+  "BRAND": "blackshark",
+  "MODEL": "SKW-A0",
+  "FINGERPRINT": "blackshark/SKW-A0/skywalker:11/SKYW2203210CN00MR1/V11.0.4.0.JOYUI:user/release-keys",
+  "SECURITY_PATCH": "2022-01-01",
+  "FIRST_API_LEVEL": "28"
+}

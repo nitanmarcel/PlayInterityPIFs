@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sm34",
+  "DEVICE": "sm34",
+  "MANUFACTURER": "alps",
+  "BRAND": "alps",
+  "MODEL": "XQ-AD52",
+  "FINGERPRINT": "alps/sm34/sm34:9/2.103.J.1.366_202002131816/18:user/dev-keys",
+  "SECURITY_PATCH": "2020-01-05",
+  "FIRST_API_LEVEL": "28"
+}

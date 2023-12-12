@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "P80X(G5K1)",
+  "DEVICE": "p80x_g5k1",
+  "MANUFACTURER": "Teclast",
+  "BRAND": "Teclast",
+  "MODEL": "P80X(G5K1)",
+  "FINGERPRINT": "SPRD/s9863a1h10__s8638a_2g/s9863a1h10:9/PPR1.180610.011/21416:user/release-keys",
+  "SECURITY_PATCH": "2019-05-05",
+  "FIRST_API_LEVEL": "28"
+}

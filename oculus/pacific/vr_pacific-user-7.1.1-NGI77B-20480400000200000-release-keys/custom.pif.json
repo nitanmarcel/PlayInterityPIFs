@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "vr_pacific",
+  "DEVICE": "pacific",
+  "MANUFACTURER": "Oculus",
+  "BRAND": "oculus",
+  "MODEL": "Pacific",
+  "FINGERPRINT": "oculus/vr_pacific/pacific:7.1.1/NGI77B/20480400000200000:user/release-keys",
+  "SECURITY_PATCH": "2018-11-05",
+  "FIRST_API_LEVEL": "25"
+}

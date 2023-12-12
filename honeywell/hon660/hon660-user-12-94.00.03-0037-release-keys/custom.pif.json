@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "hon660",
+  "DEVICE": "hon660",
+  "MANUFACTURER": "Honeywell",
+  "BRAND": "Honeywell",
+  "MODEL": "sdm660 for arm64",
+  "FINGERPRINT": "Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "FIRST_API_LEVEL": "28"
+}

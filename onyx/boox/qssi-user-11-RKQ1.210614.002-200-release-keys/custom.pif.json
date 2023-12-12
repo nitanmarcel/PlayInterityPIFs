@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "BOOX",
+  "DEVICE": "BOOX",
+  "MANUFACTURER": "ONYX",
+  "BRAND": "ONYX",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "ONYX/BOOX/BOOX:11/RKQ1.210614.002/200:userdebug/release-keys",
+  "SECURITY_PATCH": "2023-06-05",
+  "FIRST_API_LEVEL": "30"
+}

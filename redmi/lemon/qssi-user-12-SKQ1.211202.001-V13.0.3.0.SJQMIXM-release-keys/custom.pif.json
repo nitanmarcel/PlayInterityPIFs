@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "M2010J19SL",
+  "FINGERPRINT": "Redmi/qssi/qssi:12/SKQ1.211202.001/V13.0.3.0.SJQMIXM:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "FIRST_API_LEVEL": "29"
+}

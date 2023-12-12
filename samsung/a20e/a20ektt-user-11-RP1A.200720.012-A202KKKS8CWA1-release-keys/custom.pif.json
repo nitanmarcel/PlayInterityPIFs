@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a20ektt",
+  "DEVICE": "a20e",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A202K",
+  "FINGERPRINT": "samsung/a20ektt/a20e:11/RP1A.200720.012/A202KKKS8CWA1:user/release-keys",
+  "SECURITY_PATCH": "2023-01-01",
+  "FIRST_API_LEVEL": "28"
+}

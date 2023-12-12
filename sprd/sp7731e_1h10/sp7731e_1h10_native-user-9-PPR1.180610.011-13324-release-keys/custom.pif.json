@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sp7731e_1h10_native",
+  "DEVICE": "sp7731e_1h10",
+  "MANUFACTURER": "sprd",
+  "BRAND": "SPRD",
+  "MODEL": "sp7731e_1h10_native",
+  "FINGERPRINT": "SPRD/sp7731e_1h10_native/sp7731e_1h10:9/PPR1.180610.011/13324:user/release-keys",
+  "SECURITY_PATCH": "2019-03-05",
+  "FIRST_API_LEVEL": "28"
+}

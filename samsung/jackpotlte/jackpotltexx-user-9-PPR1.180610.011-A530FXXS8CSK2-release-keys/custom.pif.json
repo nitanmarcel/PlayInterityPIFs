@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "jackpotltexx",
+  "DEVICE": "jackpotlte",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A530F",
+  "FINGERPRINT": "samsung/jackpotltexx/jackpotlte:9/PPR1.180610.011/A530FXXS8CSK2:user/release-keys",
+  "SECURITY_PATCH": "2019-11-01",
+  "FIRST_API_LEVEL": "25"
+}

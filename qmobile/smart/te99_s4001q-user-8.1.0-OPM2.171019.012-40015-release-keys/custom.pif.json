@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Smart",
+  "DEVICE": "Smart",
+  "MANUFACTURER": "QMobile",
+  "BRAND": "QMobile",
+  "MODEL": "Smart",
+  "FINGERPRINT": "QMobile/Smart/Smart:8.1.0/OPM2.171019.012/07_10:user/release-keys",
+  "SECURITY_PATCH": "2018-09-05",
+  "FIRST_API_LEVEL": "27"
+}

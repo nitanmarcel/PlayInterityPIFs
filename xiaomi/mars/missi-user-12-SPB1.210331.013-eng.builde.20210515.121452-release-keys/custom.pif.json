@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "missi",
+  "DEVICE": "missi",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "missi system image for arm64",
+  "FINGERPRINT": "qti/missi/missi:S/SPB1.210331.013/builder05151213:user/release-keys",
+  "SECURITY_PATCH": "2021-05-05",
+  "FIRST_API_LEVEL": "30"
+}

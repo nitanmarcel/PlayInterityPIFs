@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rhodei_g",
+  "DEVICE": "rhodei",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g62 5G",
+  "FINGERPRINT": "motorola/rhodei_g/rhodei:12/S2SSIS32M.18-12-4-6/a7f8c8:user/release-keys",
+  "SECURITY_PATCH": "2023-03-01",
+  "FIRST_API_LEVEL": "31"
+}

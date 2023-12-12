@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "crux",
+  "DEVICE": "crux",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Mi9 Pro 5G",
+  "FINGERPRINT": "Xiaomi/crux/crux:11/RKQ1.200826.002/V13.0.1.0.RFXCNXM:user/release-keys",
+  "SECURITY_PATCH": "2021-10-01",
+  "FIRST_API_LEVEL": "28"
+}

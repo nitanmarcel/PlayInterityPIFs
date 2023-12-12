@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "rtwo_g",
+  "DEVICE": "msi",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "motorola edge 40 pro",
+  "FINGERPRINT": "motorola/rtwo_g/msi:13/T1TR33M.43-20-28/44ae0:user/release-keys",
+  "SECURITY_PATCH": "2023-04-01",
+  "FIRST_API_LEVEL": "32"
+}

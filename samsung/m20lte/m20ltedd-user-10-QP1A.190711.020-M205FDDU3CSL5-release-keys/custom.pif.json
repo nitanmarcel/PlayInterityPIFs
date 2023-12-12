@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "m20ltedd",
+  "DEVICE": "m20lte",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-M205F",
+  "FINGERPRINT": "samsung/m20ltedd/m20lte:10/QP1A.190711.020/M205FDDU3CSL5:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "polaris",
+  "DEVICE": "polaris",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Mi MIX 2S",
+  "FINGERPRINT": "Xiaomi/polaris/polaris:10/QKQ1.190828.002/V12.0.3.0.QDGMIXM:user/release-keys",
+  "SECURITY_PATCH": "2020-12-01",
+  "FIRST_API_LEVEL": "26"
+}

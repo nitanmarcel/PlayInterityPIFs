@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "sif",
+  "DEVICE": "sif",
+  "MANUFACTURER": "NVIDIA",
+  "BRAND": "NVIDIA",
+  "MODEL": "SHIELD Android TV",
+  "FINGERPRINT": "NVIDIA/sif/sif:9/PPR1.180610.011/4199485_1739.5219:user/release-keys",
+  "SECURITY_PATCH": "2019-10-05",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "k5",
+  "DEVICE": "k5",
+  "MANUFACTURER": "Lenovo",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo L38011",
+  "FINGERPRINT": "Lenovo/k5/k5:8.0.0/OPR1.170623.032/3.7.033_180413:user/release-keys",
+  "SECURITY_PATCH": "2018-03-01",
+  "FIRST_API_LEVEL": "26"
+}

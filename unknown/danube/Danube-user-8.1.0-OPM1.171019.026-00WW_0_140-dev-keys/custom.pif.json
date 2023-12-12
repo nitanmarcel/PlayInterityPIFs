@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Danube",
+  "DEVICE": "Danube",
+  "MANUFACTURER": "Danube",
+  "BRAND": "Unknown",
+  "MODEL": "Danube",
+  "FINGERPRINT": "Unknown/Danube/Danube:8.1.0/OPM1.171019.026/00WW_0_140:user/dev-keys",
+  "SECURITY_PATCH": "2018-10-05",
+  "FIRST_API_LEVEL": "27"
+}

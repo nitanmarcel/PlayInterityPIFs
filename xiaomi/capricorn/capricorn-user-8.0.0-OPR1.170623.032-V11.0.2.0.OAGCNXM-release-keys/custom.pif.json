@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "capricorn",
+  "DEVICE": "capricorn",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MI 5s",
+  "FINGERPRINT": "Xiaomi/capricorn/capricorn:8.0.0/OPR1.170623.032/V11.0.2.0.OAGCNXM:user/release-keys",
+  "SECURITY_PATCH": "2018-10-01",
+  "FIRST_API_LEVEL": "23"
+}

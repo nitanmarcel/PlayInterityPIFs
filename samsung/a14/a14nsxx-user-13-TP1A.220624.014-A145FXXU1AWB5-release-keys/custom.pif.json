@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a14nsxx",
+  "DEVICE": "a14",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A145F",
+  "FINGERPRINT": "samsung/a14nsxx/a14:13/TP1A.220624.014/A145FXXU1AWB5:user/release-keys",
+  "SECURITY_PATCH": "2023-02-01",
+  "FIRST_API_LEVEL": "32"
+}

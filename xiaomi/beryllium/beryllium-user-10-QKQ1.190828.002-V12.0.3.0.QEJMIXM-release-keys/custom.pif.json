@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "beryllium",
+  "DEVICE": "beryllium",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "POCOPHONE F1",
+  "FINGERPRINT": "Xiaomi/beryllium/beryllium:10/QKQ1.190828.002/V12.0.3.0.QEJMIXM:user/release-keys",
+  "SECURITY_PATCH": "2020-12-01",
+  "FIRST_API_LEVEL": "27"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cyprus",
+  "DEVICE": "cyprus",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "cyprus",
+  "FINGERPRINT": "motorola/cyprus/cyprus:11/ROP31.166-27/fdb44:user/release-keys",
+  "SECURITY_PATCH": "2021-12-05",
+  "FIRST_API_LEVEL": "30"
+}

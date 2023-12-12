@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "qssi",
+  "DEVICE": "qssi",
+  "MANUFACTURER": "vivo",
+  "BRAND": "iQOO",
+  "MODEL": "iQOO 2009i",
+  "FINGERPRINT": "iQOO/2009i/2009:S/SP1A.210513.004/compiler07272139:user/release-keys",
+  "SECURITY_PATCH": "2021-06-05",
+  "FIRST_API_LEVEL": "30"
+}

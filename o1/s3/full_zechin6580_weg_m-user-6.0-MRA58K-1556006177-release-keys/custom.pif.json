@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "S3",
+  "DEVICE": "S3",
+  "MANUFACTURER": "myfon",
+  "BRAND": "O1",
+  "MODEL": "S3",
+  "FINGERPRINT": "O1/full_zechin6580_weg_m/zechin6580_weg_m:6.0/MRA58K/1556006177:user/release-keys",
+  "SECURITY_PATCH": "2017-01-05",
+  "FIRST_API_LEVEL": "23"
+}

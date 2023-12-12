@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "corfur_g",
+  "DEVICE": "corfur",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g71 5G",
+  "FINGERPRINT": "motorola/corfur_g/corfur:12/S2RUBS32M.51-15-3-3/7bf59:user/release-keys",
+  "SECURITY_PATCH": "2022-10-01",
+  "FIRST_API_LEVEL": "30"
+}

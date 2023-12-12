@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "T3A_Trend",
+  "DEVICE": "T3A_Trend",
+  "MANUFACTURER": "Yekani",
+  "BRAND": "Yekani",
+  "MODEL": "Trend",
+  "FINGERPRINT": "Yekani/T3A_Trend/T3A_Trend:8.1.0/OPM1.171019.026/20181115111612:user/release-keys",
+  "SECURITY_PATCH": "2018-10-05",
+  "FIRST_API_LEVEL": "27"
+}

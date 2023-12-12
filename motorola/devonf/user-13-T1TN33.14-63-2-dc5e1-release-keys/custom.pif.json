@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "devonf_g_sys",
+  "DEVICE": "devonf",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g73 5G",
+  "FINGERPRINT": "motorola/devonf_g_sys/devonf:13/T1TN33M.14-63-2/adb969:user/release-keys",
+  "SECURITY_PATCH": "2023-05-01",
+  "FIRST_API_LEVEL": "31"
+}

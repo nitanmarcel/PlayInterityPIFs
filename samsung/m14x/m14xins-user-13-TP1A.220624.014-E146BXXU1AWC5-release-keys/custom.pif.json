@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "m14xins",
+  "DEVICE": "essi",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-E146B",
+  "FINGERPRINT": "samsung/m14xins/essi:13/TP1A.220624.014/E146BXXU1AWC5:user/release-keys",
+  "SECURITY_PATCH": "2023-03-01",
+  "FIRST_API_LEVEL": "32"
+}

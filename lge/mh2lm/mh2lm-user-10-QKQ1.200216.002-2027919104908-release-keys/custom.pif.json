@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "mh2lm",
+  "DEVICE": "mh2lm",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-G850",
+  "FINGERPRINT": "lge/mh2lm/mh2lm:10/QKQ1.200216.002/2027919104908:user/release-keys",
+  "SECURITY_PATCH": "2020-09-01",
+  "FIRST_API_LEVEL": "28"
+}

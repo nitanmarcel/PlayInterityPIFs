@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "CatS61",
+  "DEVICE": "CatS61",
+  "MANUFACTURER": "BullittGroupLimited",
+  "BRAND": "Cat",
+  "MODEL": "S61",
+  "FINGERPRINT": "Cat/CatS61/CatS61:8.1.0/OPM1.171019.011/LTE_D0201121.0_S61_0.053.02:user/release-keys",
+  "SECURITY_PATCH": "2018-12-01",
+  "FIRST_API_LEVEL": "27"
+}

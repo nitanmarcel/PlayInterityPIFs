@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "magnolia",
+  "DEVICE": "magnolia",
+  "MANUFACTURER": "xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "MiTV4I",
+  "FINGERPRINT": "Xiaomi/magnolia/magnolia:6.0.1/MHC19J/696:user/release-keys",
+  "SECURITY_PATCH": "2017-04-01",
+  "FIRST_API_LEVEL": "23"
+}

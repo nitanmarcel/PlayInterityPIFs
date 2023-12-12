@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Linx_Pay_4G",
+  "DEVICE": "LS5053ML",
+  "MANUFACTURER": "DIGMA",
+  "BRAND": "DIGMA",
+  "MODEL": "Linx Pay 4G LS5053ML",
+  "FINGERPRINT": "DIGMA/Linx_Pay_4G/LS5053ML:8.1.0/O11019/1539866895:user/release-keys",
+  "SECURITY_PATCH": "2018-10-05",
+  "FIRST_API_LEVEL": "27"
+}

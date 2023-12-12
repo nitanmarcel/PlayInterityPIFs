@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "frost",
+  "DEVICE": "frost",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "frost",
+  "FINGERPRINT": "Redmi/frost/frost:11/RD2A.211001.002/V13.0.7.0.RGFMIXM:user/release-keys",
+  "SECURITY_PATCH": "2022-05-01",
+  "FIRST_API_LEVEL": "30"
+}

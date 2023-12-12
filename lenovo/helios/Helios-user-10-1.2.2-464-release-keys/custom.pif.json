@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "Helios",
+  "DEVICE": "Helios",
+  "MANUFACTURER": "LENOVO",
+  "BRAND": "LENOVO",
+  "MODEL": "LenovoCD-24502F",
+  "FINGERPRINT": "LENOVO/Helios/Helios:10/1.2.2/LenovoCD-24502F_ROW_2106100619:user/release-keys",
+  "SECURITY_PATCH": "2020-10-05",
+  "FIRST_API_LEVEL": "29"
+}

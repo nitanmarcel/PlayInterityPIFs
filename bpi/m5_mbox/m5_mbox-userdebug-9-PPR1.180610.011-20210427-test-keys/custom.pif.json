@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "m5_mbox",
+  "DEVICE": "m5_mbox",
+  "MANUFACTURER": "Sinovoip",
+  "BRAND": "bpi",
+  "MODEL": "m5_mbox",
+  "FINGERPRINT": "bpi/m5_mbox/m5_mbox:9/PPR1.180610.011/20210427:userdebug/test-keys",
+  "SECURITY_PATCH": "2018-08-05",
+  "FIRST_API_LEVEL": "28"
+}

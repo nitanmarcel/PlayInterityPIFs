@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "bardock-pro",
+  "DEVICE": "bardock-pro",
+  "MANUFACTURER": "bq",
+  "BRAND": "bq",
+  "MODEL": "Aquaris X Pro",
+  "FINGERPRINT": "bq/bardock-pro/bardock-pro:8.1.0/OPM1.171019.019/448:user/release-keys",
+  "SECURITY_PATCH": "2018-04-05",
+  "FIRST_API_LEVEL": "25"
+}

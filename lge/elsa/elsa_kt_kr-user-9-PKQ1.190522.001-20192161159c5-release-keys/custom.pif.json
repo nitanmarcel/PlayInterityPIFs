@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "elsa_kt_kr",
+  "DEVICE": "elsa",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LG-F800K",
+  "FINGERPRINT": "lge/elsa_kt_kr/elsa:9/PKQ1.190522.001/20192161159c5:user/release-keys",
+  "SECURITY_PATCH": "2019-05-01",
+  "FIRST_API_LEVEL": "24"
+}

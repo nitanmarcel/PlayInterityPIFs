@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "alpha_lao_com",
+  "DEVICE": "alpha",
+  "MANUFACTURER": "LGE",
+  "BRAND": "lge",
+  "MODEL": "LM-G820",
+  "FINGERPRINT": "lge/alpha_lao_com/alpha:9/PKQ1.181021.001/1831315336c6c:userdebug/test-keys",
+  "SECURITY_PATCH": "2018-11-01",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "monaco_go",
+  "DEVICE": "monaco_go",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "Monaco for arm",
+  "FINGERPRINT": "qti/monaco_go/monaco_go:11/RKQ1.211102.001/1912:user/release-keys",
+  "SECURITY_PATCH": "2021-09-05",
+  "FIRST_API_LEVEL": "30"
+}

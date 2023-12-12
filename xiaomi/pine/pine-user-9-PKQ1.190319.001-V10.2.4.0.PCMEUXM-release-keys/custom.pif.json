@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "pine_eea",
+  "DEVICE": "pine",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi 7A",
+  "FINGERPRINT": "Xiaomi/pine_eea/pine:9/PKQ1.190319.001/V10.2.4.0.PCMEUXM:user/release-keys",
+  "SECURITY_PATCH": "2019-06-01",
+  "FIRST_API_LEVEL": "28"
+}

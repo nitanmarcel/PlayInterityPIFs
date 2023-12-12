@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "OnePlusTV",
+  "DEVICE": "Cebu",
+  "MANUFACTURER": "oneplus",
+  "BRAND": "OnePlus",
+  "MODEL": "Cebu",
+  "FINGERPRINT": "OnePlus/OnePlusTV/Cebu:10/QTG3.201207.001/2211171659:user/release-keys",
+  "SECURITY_PATCH": "2022-10-05",
+  "FIRST_API_LEVEL": "29"
+}

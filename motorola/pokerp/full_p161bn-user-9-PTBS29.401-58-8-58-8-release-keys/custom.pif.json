@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "pokerp_64",
+  "DEVICE": "pokerp",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto e(6) plus",
+  "FINGERPRINT": "motorola/pokerp_64/pokerp:9/PTBS29.401-58-8/58-8:user/release-keys",
+  "SECURITY_PATCH": "2021-08-01",
+  "FIRST_API_LEVEL": "28"
+}

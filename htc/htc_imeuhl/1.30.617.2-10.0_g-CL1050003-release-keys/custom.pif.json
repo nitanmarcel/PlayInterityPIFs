@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "imeuhl_00617",
+  "DEVICE": "htc_imeuhl",
+  "MANUFACTURER": "HTC",
+  "BRAND": "htc",
+  "MODEL": "HTC U12+",
+  "FINGERPRINT": "htc/imeuhl_00617/htc_imeuhl:8.0.0/OPR1.170623.032/1050003.2:user/release-keys",
+  "SECURITY_PATCH": "2018-09-01",
+  "FIRST_API_LEVEL": "26"
+}

@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "thor",
+  "DEVICE": "roth",
+  "MANUFACTURER": "NVIDIA",
+  "BRAND": "nvidia",
+  "MODEL": "SHIELD",
+  "FINGERPRINT": "nvidia/thor/roth:5.1/LMY47N/01.00.32208_722.2550:user/release-keys",
+  "FIRST_API_LEVEL": "22"
+}

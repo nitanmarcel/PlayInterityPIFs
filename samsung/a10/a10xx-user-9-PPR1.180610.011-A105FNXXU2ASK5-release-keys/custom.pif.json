@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "a10xx",
+  "DEVICE": "a10",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-A105FN",
+  "FINGERPRINT": "samsung/a10xx/a10:9/PPR1.180610.011/A105FNXXU2ASK5:user/release-keys",
+  "SECURITY_PATCH": "2019-10-01",
+  "FIRST_API_LEVEL": "28"
+}

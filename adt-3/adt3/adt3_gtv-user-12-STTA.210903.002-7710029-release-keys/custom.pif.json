@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "adt3_gtv",
+  "DEVICE": "adt3",
+  "MANUFACTURER": "askey",
+  "BRAND": "ADT-3",
+  "MODEL": "ADT-3",
+  "FINGERPRINT": "ADT-3/adt3_gtv/adt3:12/STTA.210903.002/7710029:user/release-keys",
+  "SECURITY_PATCH": "2021-09-05",
+  "FIRST_API_LEVEL": "29"
+}

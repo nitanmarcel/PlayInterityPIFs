@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "FZ_S1",
+  "DEVICE": "FZ-S1",
+  "MANUFACTURER": "PANASONIC",
+  "BRAND": "panasonic",
+  "MODEL": "FZ-S1",
+  "FINGERPRINT": "panasonic/FZ_S1/FZ-S1:11/RKQ1.210924.001/18.01.200.073:user/release-keys",
+  "SECURITY_PATCH": "2023-09-01",
+  "FIRST_API_LEVEL": "29"
+}

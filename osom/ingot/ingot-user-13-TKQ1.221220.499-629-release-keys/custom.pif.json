@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ingot",
+  "DEVICE": "ingot",
+  "MANUFACTURER": "Solana Mobile",
+  "BRAND": "OSOM",
+  "MODEL": "Saga",
+  "FINGERPRINT": "OSOM/ingot/ingot:13/TKQ1.221220.499/629:user/release-keys",
+  "SECURITY_PATCH": "2023-10-05",
+  "FIRST_API_LEVEL": "32"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "toco_global",
+  "DEVICE": "toco",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Mi Note 10 Lite",
+  "FINGERPRINT": "Xiaomi/toco_global/toco:10/QKQ1.190825.002/V11.0.1.0.QFNMIXM:user/release-keys",
+  "SECURITY_PATCH": "2020-04-01",
+  "FIRST_API_LEVEL": "29"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "caprip_retail",
+  "DEVICE": "caprip",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "moto g(30)",
+  "FINGERPRINT": "motorola/caprip_retail/caprip:12/S0RCS32M.41-10-9-2-4/a05a2:user/release-keys",
+  "SECURITY_PATCH": "2022-06-01",
+  "FIRST_API_LEVEL": "30"
+}

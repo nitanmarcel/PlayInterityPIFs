@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "pine",
+  "DEVICE": "pine",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi 7A",
+  "FINGERPRINT": "Xiaomi/pine/pine:10/QKQ1.191014.001/V11.0.1.0.QCMCNXM:user/release-keys",
+  "SECURITY_PATCH": "2020-05-01",
+  "FIRST_API_LEVEL": "28"
+}

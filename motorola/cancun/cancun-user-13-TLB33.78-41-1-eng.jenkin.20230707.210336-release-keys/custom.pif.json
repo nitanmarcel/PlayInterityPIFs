@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "cancun_g",
+  "DEVICE": "cancun",
+  "MANUFACTURER": "motorola",
+  "BRAND": "motorola",
+  "MODEL": "cancun",
+  "FINGERPRINT": "motorola/cancun_g/cancun:13/TLB33.78-41-1/07072101:user/release-keys",
+  "SECURITY_PATCH": "2023-07-05",
+  "FIRST_API_LEVEL": "32"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "opal_eea",
+  "DEVICE": "opal",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "opal",
+  "FINGERPRINT": "Redmi/opal_eea/opal:11/RP1A.200720.011/V13.0.4.0.RGLEUXM:user/release-keys",
+  "SECURITY_PATCH": "2022-03-01",
+  "FIRST_API_LEVEL": "30"
+}

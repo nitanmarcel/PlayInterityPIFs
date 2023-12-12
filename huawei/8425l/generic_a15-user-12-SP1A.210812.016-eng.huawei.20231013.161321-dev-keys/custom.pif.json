@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "generic_a15",
+  "DEVICE": "generic_a15",
+  "MANUFACTURER": "unknown",
+  "BRAND": "Huawei",
+  "MODEL": "generic_a15",
+  "FINGERPRINT": "Huawei/generic_a15/generic_a15:12/SP1A.210812.016/huawei10131623:user/dev-keys",
+  "SECURITY_PATCH": "2021-10-05",
+  "FIRST_API_LEVEL": "31"
+}

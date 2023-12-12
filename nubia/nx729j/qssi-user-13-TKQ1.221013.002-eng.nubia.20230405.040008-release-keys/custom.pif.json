@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "NX729J-EEA",
+  "DEVICE": "NX729J-EEA",
+  "MANUFACTURER": "QUALCOMM",
+  "BRAND": "qti",
+  "MODEL": "qssi system image for arm64",
+  "FINGERPRINT": "qti/qssi-EEA/qssi-EEA:13/TKQ1.221013.002/eng.nubia.20230405.040008:user/release-keys",
+  "SECURITY_PATCH": "2023-03-01",
+  "FIRST_API_LEVEL": "32"
+}

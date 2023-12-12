@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "d2xxx",
+  "DEVICE": "d2x",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-N976B",
+  "FINGERPRINT": "samsung/d2xxx/d2x:10/QP1A.190711.020/N976BXXU1BTA1:user/release-keys",
+  "SECURITY_PATCH": "2020-01-01",
+  "FIRST_API_LEVEL": "28"
+}

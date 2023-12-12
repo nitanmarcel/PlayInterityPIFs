@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "lineage_one",
+  "DEVICE": "one",
+  "MANUFACTURER": "Murena",
+  "BRAND": "Murena",
+  "MODEL": "Murena One",
+  "FINGERPRINT": "Murena/lineage_one/one:12/SQ3A.220705.004/root09132201:userdebug/dev-keys",
+  "SECURITY_PATCH": "2023-08-05",
+  "FIRST_API_LEVEL": "29"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "meizu_note9",
+  "DEVICE": "meizunote9",
+  "MANUFACTURER": "meizu",
+  "BRAND": "meizu",
+  "MODEL": "meizu note9",
+  "FINGERPRINT": "meizu/meizu_note9/meizunote9:9/PKQ1.181203.001/1552448469:user/release-keys",
+  "SECURITY_PATCH": "2019-02-01",
+  "FIRST_API_LEVEL": "28"
+}

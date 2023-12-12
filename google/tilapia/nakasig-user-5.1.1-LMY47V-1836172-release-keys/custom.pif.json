@@ -1,0 +1,9 @@
+{
+  "PRODUCT": "nakasig",
+  "DEVICE": "tilapia",
+  "MANUFACTURER": "asus",
+  "BRAND": "google",
+  "MODEL": "Nexus 7",
+  "FINGERPRINT": "google/nakasig/tilapia:5.1.1/LMY47V/1836172:user/release-keys",
+  "FIRST_API_LEVEL": "22"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "LenovoTB-X104L_EEA",
+  "DEVICE": "X104L",
+  "MANUFACTURER": "LENOVO",
+  "BRAND": "Lenovo",
+  "MODEL": "Lenovo TB-X104L",
+  "FINGERPRINT": "Lenovo/LenovoTB-X104L_EEA/X104L:8.1.0/OPM1.171019.026/024_190902_EEA:user/release-keys",
+  "SECURITY_PATCH": "2019-09-05",
+  "FIRST_API_LEVEL": "27"
+}

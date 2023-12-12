@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "karnak",
+  "DEVICE": "karnak",
+  "MANUFACTURER": "Amazon",
+  "BRAND": "Amazon",
+  "MODEL": "KFKAWI",
+  "FINGERPRINT": "Amazon/karnak/karnak:9/PS7327.3336N/0026743736320:user/amz-p,release-keys",
+  "SECURITY_PATCH": "2022-01-01",
+  "FIRST_API_LEVEL": "28"
+}

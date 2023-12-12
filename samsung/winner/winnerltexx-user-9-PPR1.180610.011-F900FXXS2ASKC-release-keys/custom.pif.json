@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "winnerltexx",
+  "DEVICE": "winner",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-F900F",
+  "FINGERPRINT": "samsung/winnerltexx/winner:9/PPR1.180610.011/F900FXXS2ASKC:user/release-keys",
+  "SECURITY_PATCH": "2019-12-01",
+  "FIRST_API_LEVEL": "28"
+}

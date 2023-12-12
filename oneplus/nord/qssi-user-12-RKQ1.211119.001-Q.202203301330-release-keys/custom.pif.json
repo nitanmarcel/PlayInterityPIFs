@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ossi",
+  "DEVICE": "ossi",
+  "MANUFACTURER": "oplus",
+  "BRAND": "oplus",
+  "MODEL": "ossi",
+  "FINGERPRINT": "oplus/ossi/ossi:12/SKQ1.211113.001/1648626786269:user/release-keys",
+  "SECURITY_PATCH": "2022-03-05",
+  "FIRST_API_LEVEL": "29"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "perseus",
+  "DEVICE": "perseus",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Mi MIX 3",
+  "FINGERPRINT": "Xiaomi/perseus/perseus:9/PKQ1.180729.001/V10.3.2.0.PEEMIXM:user/release-keys",
+  "SECURITY_PATCH": "2019-06-01",
+  "FIRST_API_LEVEL": "28"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "santoni",
+  "DEVICE": "santoni",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Xiaomi",
+  "MODEL": "Redmi 4X",
+  "FINGERPRINT": "Xiaomi/santoni/santoni:7.1.2/N2G47H/V11.0.1.0.NAMCNXM:user/release-keys",
+  "SECURITY_PATCH": "2018-10-01",
+  "FIRST_API_LEVEL": "23"
+}

@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "atom",
+  "DEVICE": "atom",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "M2004J7AC",
+  "FINGERPRINT": "Redmi/atom/atom:12/SP1A.210812.016/22.3.29:user/release-keys",
+  "SECURITY_PATCH": "2022-03-01",
+  "FIRST_API_LEVEL": "29"
+}

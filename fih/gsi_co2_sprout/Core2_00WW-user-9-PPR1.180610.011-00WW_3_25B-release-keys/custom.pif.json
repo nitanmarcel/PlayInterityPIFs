@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "gsi_mt6771_64_00WW",
+  "DEVICE": "CO2_sprout",
+  "MANUFACTURER": "FIH",
+  "BRAND": "FIH_GSI",
+  "MODEL": "GSI-00WW",
+  "FINGERPRINT": "Nokia/Core2_00WW/CO2_sprout:9/PPR1.180610.011/00WW_3_25B:user/release-keys",
+  "SECURITY_PATCH": "2019-08-05",
+  "FIRST_API_LEVEL": "26"
+}

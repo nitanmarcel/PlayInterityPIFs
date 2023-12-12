@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "ShadowcatPlus_00WW",
+  "DEVICE": "SCP_sprout",
+  "MANUFACTURER": "HMD Global",
+  "BRAND": "Nokia",
+  "MODEL": "Nokia G21",
+  "FINGERPRINT": "Nokia/ShadowcatPlus_00WW/SCP_sprout:11/RP1A.201005.001/00WW_1_520:user/release-keys",
+  "SECURITY_PATCH": "2022-07-05",
+  "FIRST_API_LEVEL": "30"
+}

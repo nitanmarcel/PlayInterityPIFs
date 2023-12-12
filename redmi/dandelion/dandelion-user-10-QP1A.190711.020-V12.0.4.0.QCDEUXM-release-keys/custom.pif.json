@@ -1,0 +1,10 @@
+{
+  "PRODUCT": "dandelion_eea",
+  "DEVICE": "dandelion",
+  "MANUFACTURER": "Xiaomi",
+  "BRAND": "Redmi",
+  "MODEL": "dandelion",
+  "FINGERPRINT": "Redmi/dandelion_eea/dandelion:10/QP1A.190711.020/V12.0.4.0.QCDEUXM:user/release-keys",
+  "SECURITY_PATCH": "2020-07-01",
+  "FIRST_API_LEVEL": "29"
+}
